@@ -1,0 +1,120 @@
+/**
+ * MAIN STYLESHEET FOR EPIMETRICS WEBSITE
+ * @author Chi Senires
+ * @version 31 January 2018
+ *
+ */
+
+/**
+ * MAIN VARIABLES
+ */
+
+:root {
+	/* Color Scheme */
+	--primary-color: #bd1515;
+	--primary-highlight: #cc3333; /* temporary */
+	--secondary-color: #1a1a1a; /* temporary */
+	--white: #fff;
+	--text-color: #1a1a1a;
+
+	/* Measurements */
+	--nav-height: 6em;
+
+	/* Typography */
+	--heading-text: "Open Sans", Arial, sans-serif;
+	--body-text: "Open Sans", Arial, sans-serif;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #fff;
+	color: var(--secondary);
+	font-size: 14px;
+	font-family: var(--body-text);
+	line-height: 1.75em;
+
+	display: grid;
+	grid-template-rows: var(--nav-height) auto 4em;
+	grid-template-areas: "header"
+											 "main"
+											 "footer";
+}
+
+a {
+	text-decoration: none;
+	transition: 0.2s ease;
+}
+
+/**
+ * HEADER styles
+ */
+header {
+	/*height: var(--nav-height);*/
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	background-color: var(--primary-color);
+	padding: 1em;
+}
+
+header > .brand {
+	display: block;
+	height: 100%;
+}
+
+/*TEMPORARY*/
+header > .brand > .brand-name {
+	display: inline-block;
+	padding: 0.45em 0;
+	vertical-align: middle;
+	color: #fff;
+}
+
+/* Navigation */
+nav {
+	display: block;
+	/*width: 70%;*/
+}
+
+#show-nav {
+	/* TODO: add styles here in the future */
+	display: none;
+}
+
+.nav-items, .social-media-links {
+	list-style-type: none;
+	display: inline-block;
+}
+
+.nav-items > .nav-item,
+.social-media-links > .social-media-link {
+	display: inline-block;
+}
+
+.nav-items > .nav-item {
+	margin: 0 1em;
+}
+
+.social-media-links > .social-media-link {
+	margin: 0 0.05em;
+}
+
+.nav-items > .nav-item > a,
+.social-media-links > .social-media-link > a {
+	display: block;
+	color: var(--white);
+	padding: 1em;
+	border: 1px solid transparent;
+}
+
+.nav-items > .nav-item > a:hover,
+.nav-items > .nav-item > a:focus,
+.social-media-links > .social-media-link > a:hover,
+.social-media-links > .social-media-link > a:focus {
+	border-color: var(--white);
+}

@@ -74,7 +74,10 @@ header {
 	width: 100%;
 	justify-content: space-between;
 	background-color: var(--epimetrics-red);
-	padding: 1em;
+	padding: 0 1em;
+	box-shadow: 0 0 10px 2.5px rgba(0,0,0,0.15);
+	position: fixed;
+	z-index: 10;
 }
 
 header > .brand {
@@ -85,15 +88,16 @@ header > .brand {
 /*TEMPORARY*/
 header > .brand > .brand-name {
 	display: inline-block;
-	/*padding: 0.45em 0;*/
+	padding: 0.5em 0;
 	vertical-align: middle;
 	color: #fff;
+	height: 100%;
 }
 
 /* Navigation */
 nav {
 	display: block;
-	/*width: 70%;*/
+	height: 100%;
 }
 
 #show-nav {
@@ -104,32 +108,31 @@ nav {
 .nav-items, .social-media-links {
 	list-style-type: none;
 	display: inline-block;
+	height: 100%;
+}
+
+.nav-items {
+	margin-right: 1em;
 }
 
 .nav-items > .nav-item,
 .social-media-links > .social-media-link {
 	display: inline-block;
-}
-
-.nav-items > .nav-item {
-	margin: 0 1em;
-}
-
-.social-media-links > .social-media-link {
-	margin: 0 0.05em;
+	height: 100%;
 }
 
 .nav-items > .nav-item > a,
 .social-media-links > .social-media-link > a {
 	display: block;
 	color: var(--white);
-	padding: 0.25em 0.5em;
-	border: 1px solid transparent;
+	padding: 1.2em 1em;
+	height: 100%;
+	background-color: transparent;
 }
 
 .nav-items > .nav-item > a:hover,
 .nav-items > .nav-item > a:focus,
 .social-media-links > .social-media-link > a:hover,
 .social-media-links > .social-media-link > a:focus {
-	border-color: var(--white);
+	background-color: var(--epimetrics-red-highlight);
 }

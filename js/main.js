@@ -1,12 +1,13 @@
 $(document).ready(function() {
-	// $('#above-fold-slider').lightSlider({
-	// 	item: 1,
-	// 	auto: true,
-	// 	loop: true,
-	// 	pause: 3000,
-	// 	speed: 800,
-	// 	slideMargin: 0,
-	// 	autoWidth: true,
-	// });
-	$('#slides').superslides('start');
+	$('#above-fold-slider').lightSlider({
+		auto: true,
+		item: 1,
+		loop: true,
+		pause: 5000,
+		speed: 2000,
+		slideMargin: 0,
+		pager: false,
+		mode: 'fade',
+		controls: false,
+	});
 });

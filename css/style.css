@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
  * HEADER styles
  */
 header {
-	/*height: var(--nav-height);*/
+	height: var(--nav-height);
 	display: flex;
 	width: 100vw;
 	justify-content: space-between;
@@ -78,22 +78,20 @@ header {
 	padding: 0 1em;
 	box-shadow: 0 0 10px 2.5px rgba(0,0,0,0.15);
 	position: fixed;
-	z-index: 10;
+	z-index: 60;
 	grid-area: header;
 }
 
 header > .brand {
 	display: block;
 	height: 100%;
+	margin-left: -1em;
 }
 
-/*TEMPORARY*/
-header > .brand > .brand-name {
-	display: inline-block;
-	padding: 0.5em 0;
-	vertical-align: middle;
-	color: #fff;
+header > .brand img {
 	height: 100%;
+	width: auto;
+	display: block;
 }
 
 /* Navigation */

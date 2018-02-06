@@ -203,6 +203,44 @@ main {
 	height: auto;
 }
 
+section {
+	min-height: 100vh;
+	height: auto;
+	background-color: var(--epimetrics-gray-highlight);
+	position: relative;
+	display: flex;
+}
+
+section .section-heading {
+	color: var(--epimetrics-red);
+	text-transform: uppercase;
+	padding: 0.75em;
+}
+
+section .big {
+	font-size: 4em;
+}
+
+section .topright-aligned {
+	position: absolute;
+	top: 1em;
+	right: 0;
+}
+
+section .bottomleft-aligned {
+	position: absolute;
+	bottom: 1em;
+	left: 0;
+}
+
+section .section-heading.big {
+	background-color: var(--white);
+}
+
+#above-fold {
+	display: block
+}
+
 #above-fold-slider {
 	display: block;
 }
@@ -229,4 +267,13 @@ main {
 	font-size: 4em;
 	line-height: 1.1em;
 	text-transform: uppercase;
+}
+
+/*temporary*/
+main section:nth-of-type(odd) {
+	background-color: #b4b4b4;
+}
+
+main section:nth-of-type(even) {
+	background-color: #a3a3a3;
 }

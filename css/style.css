@@ -203,37 +203,41 @@ main {
 	height: auto;
 }
 
-section {
+main section {
 	min-height: 100vh;
+	min-height: calc(100vh - var(--nav-height));
 	height: auto;
 	background-color: var(--epimetrics-gray-highlight);
 	position: relative;
-	display: flex;
+	margin-bottom: var(--nav-height);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
-section .section-heading {
+main section .section-heading {
 	color: var(--epimetrics-red);
 	text-transform: uppercase;
 	padding: 0.75em;
 }
 
-section .big {
+main section .big {
 	font-size: 4em;
 }
 
-section .topright-aligned {
+main section .topright-aligned {
 	position: absolute;
 	top: 1em;
 	right: 0;
 }
 
-section .bottomleft-aligned {
+main section .bottomleft-aligned {
 	position: absolute;
 	bottom: 1em;
 	left: 0;
 }
 
-section .section-heading.big {
+main section .section-heading.big {
 	background-color: var(--white);
 }
 
@@ -276,4 +280,58 @@ main section:nth-of-type(odd) {
 
 main section:nth-of-type(even) {
 	background-color: #a3a3a3;
+}
+
+main section .section-description {
+	font-size: 1.45em;
+	color: var(--white);
+	line-height: 1.7em;
+}
+
+main section .text-right-aligned {
+	text-align: right;
+	width: 50%;
+	position: absolute;
+	right: 10em;
+	top: 45%;
+}
+
+main section .section-footer {
+	width: 100%;
+	position: absolute;
+	bottom: -1.25em;
+	left: 0;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+main section .section-button {
+	background-color: var(--white);
+	color: var(--epimetrics-red);
+	text-transform: uppercase;
+	padding: 0.75em 1em;
+	font-weight: 600;
+	margin: 0 4em;
+	box-shadow: 0 0 0 0 rgba(0,0,0,0);
+	position: relative;
+}
+
+main section .section-button::before {
+	content: "";
+	display: block;
+	height: 3px;
+	background-color: var(--epimetrics-red);
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	right: 100%;
+	transition-property: right;
+	transition-duration: 0.3s;
+	transition-timing-function: ease-out;
+}
+
+main section .section-button:hover::before,
+main section .section-button:focus::before {
+	right: 0;
 }

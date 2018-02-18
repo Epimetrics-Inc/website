@@ -242,7 +242,7 @@ main section .section-heading.big {
 }
 
 #above-fold {
-	display: block
+	display: block;
 }
 
 #above-fold-slider {

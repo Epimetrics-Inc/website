@@ -50,7 +50,7 @@ body {
 	line-height: 1.75;
 
 	display: grid;
-	grid-template-rows: var(--nav-height) 1fr 4em;
+	grid-template-rows: var(--nav-height) 1fr auto;
 	grid-template-columns: 100%;
 	grid-template-areas: "header"
 											 "main"
@@ -59,7 +59,7 @@ body {
 
 a {
 	text-decoration: none;
-	transition: 0.2s ease;
+	transition: all 0.2s ease;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -163,7 +163,7 @@ nav.main-nav .search-bar input[type=search] {
 	border-radius: 5em;
 	color: transparent;
 	cursor: pointer;
-	transition: 0.4s ease;
+	transition: all 0.4s ease;
 }
 
 nav.main-nav .search-bar input::-webkit-search-decoration,
@@ -193,10 +193,59 @@ footer {
 	grid-area: footer;
 	background-color: var(--text-color);
 	color: var(--white);
-	text-align: center;
-	padding: 1em;
+	padding: 1em 2em;
+	height: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
 }
 
+footer .left {
+	display: inline-flex;
+	width: 25%;
+}
+
+footer .sitemap,
+footer .social-media {
+	margin-right: 4em;
+	text-align: left;
+	list-style-type: none;
+}
+
+footer a {
+	color: var(--white);
+	margin: 0.25em;
+}
+
+footer a:hover,
+footer a:focus {
+	color: var(--epimetrics-red-highlight);
+}
+
+footer .sitemap a,
+footer .social-media a {
+	display: block;
+}
+
+footer a i {
+	padding-right: 0.5em;
+}
+
+footer .right {
+	width: 30%;
+}
+
+footer .company-info {
+	text-align: right;
+}
+
+footer .company-info > * {
+	margin-bottom: 1em;
+}
+
+/**
+ * MAIN styles
+ */
 main {
 	grid-area: main;
 	min-height: calc(100vh - var(--nav-height)*2);
@@ -338,9 +387,7 @@ main section .section-button::before {
 	left: 0;
 	bottom: 0;
 	right: 100%;
-	transition-property: right;
-	transition-duration: 0.3s;
-	transition-timing-function: ease-out;
+	transition: right 0.3s ease-out;
 }
 
 main section .section-button:hover::before,

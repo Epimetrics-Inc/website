@@ -47,7 +47,7 @@ body {
 	color: var(--secondary);
 	font-size: 16px;
 	font-family: var(--body-text);
-	line-height: 1.75em;
+	line-height: 1.75;
 
 	display: grid;
 	grid-template-rows: var(--nav-height) 1fr 4em;
@@ -221,7 +221,7 @@ main section.with-background {
 main section .section-heading {
 	color: var(--epimetrics-red);
 	text-transform: uppercase;
-	padding: 0.75em;
+	padding: 0.25em 0.75em;
 	z-index: 10;
 }
 
@@ -273,16 +273,16 @@ main section .section-heading.big {
 
 .slide .slide-text h1 {
 	font-size: 4em;
-	line-height: 1.1em;
+	line-height: 1.1;
 	text-transform: uppercase;
 }
 
 main section .section-description {
-	font-size: 1.45em;
-	line-height: 1.7em;
+	line-height: 1.7;
 }
 
 main section.with-background .section-description {
+	font-size: 1.45em;
 	color: var(--white);
 }
 
@@ -308,18 +308,10 @@ main section.with-background .text-left-aligned {
 	bottom: 45%;
 }
 
-main section .text-right-aligned.with-bg {
-	background-color: var(--white);
-	color: var(--text-color);
-	padding: 8em 2em 2em;
-	height: 100%;
-	width: 50%;
-}
-
 main section .section-footer {
 	width: 100%;
 	position: absolute;
-	bottom: -1.25em;
+	bottom: -0.25em;
 	left: 0;
 	text-align: center;
 	display: flex;
@@ -374,7 +366,7 @@ main section .section-button:focus::before {
 #about-us-slider .slide {
 	display: block;
 	width: 50%;
-	height: 100vh;
+	height: calc(100vh - var(--nav-height));
 }
 
 #about-us-slider .slide img {
@@ -382,4 +374,13 @@ main section .section-button:focus::before {
 	object-fit: cover;
 	height: 100%;
 	max-width: 100%;
+}
+
+#about-us .section-description {
+	display: block;
+	background-color: var(--white);
+	color: var(--text-color);
+	height: 100%;
+	width: 50%;
+	padding: 4em;
 }

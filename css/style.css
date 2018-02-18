@@ -207,9 +207,12 @@ main section {
 	min-height: 100vh;
 	min-height: calc(100vh - var(--nav-height));
 	height: auto;
-	background-color: var(--epimetrics-gray-highlight);
 	position: relative;
 	margin-bottom: var(--nav-height);
+}
+
+main section.with-background {
+	background-color: var(--epimetrics-gray-highlight);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -219,6 +222,7 @@ main section .section-heading {
 	color: var(--epimetrics-red);
 	text-transform: uppercase;
 	padding: 0.75em;
+	z-index: 10;
 }
 
 main section .big {
@@ -273,27 +277,43 @@ main section .section-heading.big {
 	text-transform: uppercase;
 }
 
-/*temporary*/
-main section:nth-of-type(odd) {
-	background-color: #b4b4b4;
-}
-
-main section:nth-of-type(even) {
-	background-color: #a3a3a3;
-}
-
 main section .section-description {
 	font-size: 1.45em;
-	color: var(--white);
 	line-height: 1.7em;
+}
+
+main section.with-background .section-description {
+	color: var(--white);
 }
 
 main section .text-right-aligned {
 	text-align: right;
+}
+
+main section.with-background .text-right-aligned {
 	width: 50%;
 	position: absolute;
 	right: 10em;
 	top: 45%;
+}
+
+main section .text-left-aligned {
+	text-align: left;
+}
+
+main section.with-background .text-left-aligned {
+	width: 50%;
+	position: absolute;
+	left: 5em;
+	bottom: 45%;
+}
+
+main section .text-right-aligned.with-bg {
+	background-color: var(--white);
+	color: var(--text-color);
+	padding: 8em 2em 2em;
+	height: 100%;
+	width: 50%;
 }
 
 main section .section-footer {
@@ -334,4 +354,32 @@ main section .section-button::before {
 main section .section-button:hover::before,
 main section .section-button:focus::before {
 	right: 0;
+}
+
+#about-us {
+	display: flex;
+}
+
+#about-us .slider-container {
+	display: block;
+	width: 50%;
+}
+
+#about-us-slider {
+	display: block;
+	width: 50%;
+	height: 100%;
+}
+
+#about-us-slider .slide {
+	display: block;
+	width: 50%;
+	height: 100vh;
+}
+
+#about-us-slider .slide img {
+	display: block;
+	object-fit: cover;
+	height: 100%;
+	max-width: 100%;
 }

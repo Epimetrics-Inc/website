@@ -1,4 +1,4 @@
-/**
+/*
  * MAIN STYLESHEET FOR EPIMETRICS WEBSITE
  * @author Chi Senires
  * @version 5 February 2018
@@ -381,11 +381,6 @@ main section .section-footer .section-button:focus::before {
 	text-transform: uppercase;
 }
 
-
-#about-us {
-	/*display: flex;*/
-}
-
 #about-us .slider-container {
 	grid-column: 7 / span 6;
 	grid-row: 1 / footer-links-end;
@@ -397,6 +392,7 @@ main section .section-footer .section-button:focus::before {
 #about-us .slider-container .lSSlideWrapper {
 	height: 100%;
 }
+/* hax end */
 
 #about-us-slider {
 	display: block;
@@ -422,7 +418,42 @@ main section .section-footer .section-button:focus::before {
 	background-color: var(--white);
 	color: var(--text-color);
 	font-size: 1em;
-	/*height: 100%;*/
-	/*width: 50%;*/
-	/*padding: 4em;*/
+}
+
+/* Contact Us styles */
+#contact-us {
+	display: flex;
+	margin: 4em;
+	width: 80%;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border: 2px solid var(--epimetrics-gray);
+	background-color: var(--white);
+	position: relative;
+}
+
+#contact-us::before {
+	content: " ";
+	display: block;
+	width: 100px;
+	height: 100px;
+	border: 2px solid var(--epimetrics-gray);
+	border-radius: 50%;
+	padding: 1em;
+	position: absolute;
+	top: -50px;
+	left: 45%;
+}
+
+#contact-us .section-heading {
+	display: block;
+}
+
+#contact-us .section-description {
+	text-align: center;
+}
+
+#contact-form {
+	width: 80%;
 }

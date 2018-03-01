@@ -257,7 +257,10 @@ main section {
 	min-height: calc(100vh - var(--nav-height));
 	height: auto;
 	position: relative;
-	margin-bottom: var(--nav-height);
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	grid-template-rows: 0.25fr [top-header-start] 1fr [top-header-end content-start] minmax(min-content, max-content) [content-end bottom-header-start] 1fr [bottom-header-end footer-links-start] 0.25fr [footer-links-end];
+	grid-gap: 1em;
 }
 
 main section.with-background {
@@ -269,29 +272,81 @@ main section.with-background {
 
 main section .section-heading {
 	color: var(--epimetrics-red);
-	text-transform: uppercase;
-	padding: 0.25em 0.75em;
-	z-index: 10;
-}
-
-main section .big {
-	font-size: 4em;
-}
-
-main section .topright-aligned {
-	position: absolute;
-	top: 1em;
-	right: 0;
-}
-
-main section .bottomleft-aligned {
-	position: absolute;
-	bottom: 1em;
-	left: 0;
-}
-
-main section .section-heading.big {
 	background-color: var(--white);
+	text-transform: uppercase;
+	padding: 0.25em 0.5em;
+	text-align: center;
+	font-size: 4em;
+	align-self: center;
+}
+
+main section .section-heading.top {
+	grid-row: top-header-start / top-header-end;
+}
+
+main section .section-heading.bottom {
+	grid-row: bottom-header-start / bottom-header-end;
+}
+
+main section .section-heading.left {
+	grid-column: 1 / span 3;
+}
+
+main section .section-heading.right {
+	grid-column: 9 / span 3;
+}
+
+main section .section-description {
+	font-size: 1.45em;
+	line-height: 1.7;
+	color: var(--white);
+	grid-row: content-start / content-end;
+}
+
+main section .section-description.left {
+	text-align: left;
+	grid-column: 2 / span 5;
+}
+
+main section .section-description.right {
+	text-align: right;
+	grid-column: 6 / span 5;
+}
+
+main section .section-footer {
+	grid-column: 1 / 13;
+	grid-row: footer-links-start / footer-links-end;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+main section .section-footer .section-button {
+	background-color: var(--white);
+	color: var(--epimetrics-red);
+	text-transform: uppercase;
+	padding: 0.75em 1em;
+	font-weight: 600;
+	margin: 0 4em;
+	box-shadow: 0 0 0 0 rgba(0,0,0,0);
+	position: relative;
+}
+
+main section .section-footer .section-button::before {
+	content: "";
+	display: block;
+	height: 3px;
+	background-color: var(--epimetrics-red);
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	right: 100%;
+	transition: right 0.3s ease-out;
+}
+
+main section .section-footer .section-button:hover::before,
+main section .section-footer .section-button:focus::before {
+	right: 0;
 }
 
 #above-fold {
@@ -326,108 +381,48 @@ main section .section-heading.big {
 	text-transform: uppercase;
 }
 
-main section .section-description {
-	line-height: 1.7;
-}
-
-main section.with-background .section-description {
-	font-size: 1.45em;
-	color: var(--white);
-}
-
-main section .text-right-aligned {
-	text-align: right;
-}
-
-main section.with-background .text-right-aligned {
-	width: 50%;
-	position: absolute;
-	right: 10em;
-	top: 45%;
-}
-
-main section .text-left-aligned {
-	text-align: left;
-}
-
-main section.with-background .text-left-aligned {
-	width: 50%;
-	position: absolute;
-	left: 5em;
-	bottom: 45%;
-}
-
-main section .section-footer {
-	width: 100%;
-	position: absolute;
-	bottom: -0.25em;
-	left: 0;
-	text-align: center;
-	display: flex;
-	justify-content: center;
-}
-
-main section .section-button {
-	background-color: var(--white);
-	color: var(--epimetrics-red);
-	text-transform: uppercase;
-	padding: 0.75em 1em;
-	font-weight: 600;
-	margin: 0 4em;
-	box-shadow: 0 0 0 0 rgba(0,0,0,0);
-	position: relative;
-}
-
-main section .section-button::before {
-	content: "";
-	display: block;
-	height: 3px;
-	background-color: var(--epimetrics-red);
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	right: 100%;
-	transition: right 0.3s ease-out;
-}
-
-main section .section-button:hover::before,
-main section .section-button:focus::before {
-	right: 0;
-}
 
 #about-us {
-	display: flex;
+	/*display: flex;*/
 }
 
 #about-us .slider-container {
+	grid-column: 7 / span 6;
+	grid-row: 1 / footer-links-end;
 	display: block;
-	width: 50%;
+}
+
+/* hax start */
+#about-us .slider-container .lSSlideOuter,
+#about-us .slider-container .lSSlideWrapper {
+	height: 100%;
 }
 
 #about-us-slider {
 	display: block;
-	width: 50%;
-	height: 100%;
+	width: 100%;
+	height: 100% !important;
 }
 
 #about-us-slider .slide {
 	display: block;
-	width: 50%;
-	height: calc(100vh - var(--nav-height));
+	width: 100%;
+	height: 100% !important;
 }
 
 #about-us-slider .slide img {
 	display: block;
 	object-fit: cover;
 	height: 100%;
-	max-width: 100%;
+	width: 100%;
 }
 
 #about-us .section-description {
 	display: block;
 	background-color: var(--white);
 	color: var(--text-color);
-	height: 100%;
-	width: 50%;
-	padding: 4em;
+	font-size: 1em;
+	/*height: 100%;*/
+	/*width: 50%;*/
+	/*padding: 4em;*/
 }

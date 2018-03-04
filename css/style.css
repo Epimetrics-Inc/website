@@ -523,7 +523,66 @@ main.main section .section-footer .section-button:focus::before {
 /* Featured Employee styles */
 /*temporary*/
 #featured {
-	display: none;
+	display: block;
+}
+
+#featured .month-year-feature {
+	display: block;
+	font-size: 0.8em;
+	color: var(--epimetrics-gray);
+	margin: 0 auto;
+	width: 10%;
+	text-align: center;
+}
+
+#featured .article {
+	display: block;
+	width: 80%;
+	margin: 0.5em auto 1em;
+	padding: 1em;
+}
+
+#featured .article .article-title {
+	font-family: var(--heading-text);
+	color: var(--epimetrics-red);
+	padding: 0.5em;
+	text-align: center;
+}
+
+#featured .article .article-excerpt {
+	line-height: 1.5;
+}
+
+#featured .article .article-excerpt p {
+	margin-bottom: 0.5em;
+}
+
+#featured .featured-staff {
+	display: block;
+	width: 100%;
+	background-color: var(--epimetrics-red);
+	padding: 2em;
+}
+
+#featured .featured-staff img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	display: block;
+	object-fit: cover;
+	margin: 1em auto;
+}
+
+#featured .featured-staff .staff-info {
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	font-family: var(--heading-text);
+	color: var(--white);
+}
+
+#featured .featured-staff .staff-name {
+	text-transform: uppercase;
 }
 
 /* PAGES */

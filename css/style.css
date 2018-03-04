@@ -669,3 +669,16 @@ main.page-section section .section-description {
 .job .job-keywords {
 	display: block;
 }
+
+/* SOLUTIONS page */
+#building-blocks {
+	width: 80%;
+	margin: 0 auto;
+	display: block;
+}
+
+/*might be temporary*/
+#building-blocks img {
+	width: 100%;
+	height: auto;
+}

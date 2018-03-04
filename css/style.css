@@ -526,24 +526,24 @@ main#main section .section-footer .section-button:focus::before {
 	display: none;
 }
 
-/* ABOUT US PAGE */
-main#about-us {
+/* PAGES */
+main.page-section {
 	display: block;
 	padding: 2em;
 }
 
-#our-team {
+main.page-section section {
 	display: block;
 }
 
-#our-team .section-heading {
+main.page-section section .section-heading {
 	width: 80%;
 	margin: 0 auto;
 	padding-bottom: 25px;
 	border-bottom: 4px solid var(--epimetrics-darkred);
 }
 
-#our-team .section-heading::after {
+main.page-section section .section-heading::after {
 	content: " ";
 	display: block;
 	width: 25px;
@@ -553,11 +553,12 @@ main#about-us {
 	margin: 0 auto -40px;
 }
 
-#our-team .section-description {
+main.page-section section .section-description {
 	width: 80%;
 	margin: 2em auto;
 }
 
+/* ABOUT US PAGE */
 #our-team .team-pictures {
 	width: 80%;
 	margin: 0 auto;
@@ -629,4 +630,42 @@ main#about-us {
 
 .team-member .team-info .roles {
 	font-family: var(--body-text);
+}
+
+/* CAREERS page */
+.jobs {
+	margin: 1em auto;
+	width: 80%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+.jobs .job {
+	display: block;
+	width: 28.57%;
+	width: calc(100%/3.5);
+	flex: 0 1 auto;
+}
+
+.job .job-title {
+	width: 100%;
+	padding: 1em;
+	font-family: var(--heading-text);
+	color: var(--white);
+	text-transform: uppercase;
+	text-align: center;
+	background-color: var(--epimetrics-red);
+}
+
+.job .job-description {
+	display: block;
+	width: 100%;
+	margin: 2em auto;
+	line-height: 1.5;
+}
+
+.job .job-keywords {
+	display: block;
 }

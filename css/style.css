@@ -636,7 +636,7 @@ main.page-section section .section-description {
 
 .team-member .picture-with-quote {
 	display: block;
-	flex: 2 1 auto;
+	/*flex: 2 1 auto;*/
 	position: relative;
 }
 

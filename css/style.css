@@ -597,7 +597,7 @@ main.page-section section {
 
 main.page-section section .section-heading {
 	width: 80%;
-	margin: 0 auto;
+	margin: 0 auto 1em;
 	padding-bottom: 25px;
 	border-bottom: 4px solid var(--epimetrics-darkred);
 }
@@ -742,4 +742,74 @@ main.page-section section .section-description {
 	width: 80%;
 	height: auto;
 	margin: 0 auto;
+}
+
+/* INSIGHTS page */
+.articles-grid {
+	display: grid;
+	width: 80%;
+	min-height: 100vh;
+	height: auto;
+	margin: 0 auto;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(auto-fit, minmax(min-content, 300px));
+	grid-gap: 1.5em;
+}
+
+.articles-grid .article {
+	grid-column: span 1;
+	grid-row: span 1;
+	display: block;
+	position: relative;
+	width: 100%;
+	background-color: var(--epimetrics-gray-highlight);
+}
+
+.articles-grid .article .article-image {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 1;
+}
+
+.articles-grid .article .article-info {
+	display: block;
+	position: absolute;
+	bottom: 1em;
+	left: 1em;
+	padding: 0.5em;
+	background-color: var(--white);
+	color: var(--epimetrics-red);
+	z-index: 10;
+	width: 60%;
+}
+
+.articles-grid .article .article-info .article-title {
+	margin-bottom: 1em;
+}
+
+.articles-grid .article .article-info .article-client {
+	font-size: 0.9em;
+}
+
+.articles-grid .article .article-info .article-something {
+	/*change class name for this once comment has been answered in Figma*/
+	font-size: 0.8em;
+	font-style: italic;
+}
+
+.articles-grid .featured.article {
+	grid-column: 1 / 3;
+}
+
+.articles-grid .featured.article .article-info {
+	width: 40%;
+	background-color: var(--epimetrics-red);
+	color: var(--white);
 }

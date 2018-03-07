@@ -787,7 +787,7 @@ main.page-section section .section-description {
 	background-color: var(--white);
 	color: var(--epimetrics-red);
 	z-index: 10;
-	width: 60%;
+	width: 70%;
 }
 
 .articles-grid .article .article-info .article-title {
@@ -798,8 +798,7 @@ main.page-section section .section-description {
 	font-size: 0.9em;
 }
 
-.articles-grid .article .article-info .article-something {
-	/*change class name for this once comment has been answered in Figma*/
+.articles-grid .article .article-info .article-tags {
 	font-size: 0.8em;
 	font-style: italic;
 }

@@ -732,12 +732,14 @@ main.page-section section .section-description {
 /* SOLUTIONS page */
 #building-blocks {
 	width: 80%;
-	margin: 0 auto;
+	margin: 0 auto 2em;
 	display: block;
 }
 
 /*might be temporary*/
 #building-blocks img {
-	width: 100%;
+	display: block;
+	width: 80%;
 	height: auto;
+	margin: 0 auto;
 }

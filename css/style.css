@@ -20,6 +20,7 @@
 	--epimetrics-gray-highlight: #686f76;
 	--epimetrics-lightred: #ee1c25;
 	--epimetrics-lightred-highlight: #f5796d;
+	--epimetrics-peach: #EFE0DF;
 	--epimetrics-brown: #b85947;
 	--epimetrics-brown-highlight: #fbc29c;
 	--epimetrics-green: #00864b;
@@ -51,7 +52,7 @@ body {
 	line-height: 1.75;
 
 	display: grid;
-	grid-template-rows: var(--nav-height) 1fr auto;
+	grid-template-rows: var(--nav-height) max-content auto;
 	grid-template-columns: 100%;
 	grid-template-areas: "header"
 											 "main"
@@ -588,7 +589,6 @@ main.main section .section-footer .section-button:focus::before {
 /* PAGES */
 main.page-section {
 	display: block;
-	padding: 2em;
 }
 
 main.page-section section {
@@ -820,4 +820,110 @@ main.page-section section .section-description {
 	width: 40%;
 	background-color: var(--epimetrics-red);
 	color: var(--white);
+}
+
+/* ARTICLE styles */
+#article-wrapper {
+	display: block;
+	position: relative;
+	margin: 2em auto 0;
+}
+
+#article-wrapper .article {
+	display: block;
+	width: 90%;
+	margin: 0 auto 2em;
+}
+
+#article-wrapper .article-image {
+	display: inline-block;
+	width: 60%;
+	height: 80vh;
+	object-fit: cover;
+	float: left;
+	margin: 1em 1em 1em 0;
+}
+
+#article-wrapper .article-header {
+	display: inline-block;
+	width: 35%;
+	padding: 1em;
+}
+
+#article-wrapper .article-header .article-date {
+	color: var(--epimetrics-gray);
+	font-style: italic;
+	font-size: 0.8em;
+}
+
+#article-wrapper .article-header .article-title {
+	color: var(--epimetrics-red);
+	font-size: 3em;
+	font-style: italic;
+}
+
+#article-wrapper .article-content {
+	display: block;
+	width: 100%;
+}
+
+#article-wrapper .article-content p {
+	line-height: 1.5;
+	margin-bottom: 0.5em;
+}
+
+#article-wrapper .article-staff {
+	display: block;
+	width: 100%;
+	height: auto;
+	background-color: var(--epimetrics-peach);
+	color: var(--epimetrics-darkred);
+}
+
+#article-wrapper .article-staff .featured-staff {
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+#article-wrapper .article-staff .featured-staff .staff-info {
+	text-align: right;
+	width: 20%;
+	font-size: 1.2em;
+	font-weight: bolder;
+}
+
+#article-wrapper .article-staff .featured-staff .staff-info .staff-name {
+	text-transform: uppercase;
+}
+
+#article-wrapper .article-staff .featured-staff .staff-description {
+	text-align: left;
+	width: 30%;
+}
+
+#article-wrapper .article-staff .featured-staff img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	display: block;
+	object-fit: cover;
+	margin: 2em;
+}
+
+#article-wrapper .article-comments {
+	grid-area: comments;
+	grid-column: 1 / 8;
+	grid-row: 6 / 7;
+	/*temporary*/
+	display: block;
+	background-color: var(--epimetrics-gray-highlight);
+	width: 100%;
+	height: 600px;
+	text-align: center;
+	padding: 1em;
+	color: white;
 }

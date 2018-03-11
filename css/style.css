@@ -81,7 +81,7 @@ header {
 	padding: 0 2em;
 	box-shadow: 0 0 10px 2.5px rgba(0,0,0,0.15);
 	position: fixed;
-	z-index: 60;
+	z-index: 100;
 	grid-area: header;
 }
 
@@ -257,8 +257,7 @@ main {
 }
 
 main section {
-	min-height: 100vh;
-	min-height: calc(100vh - var(--nav-height));
+	min-height: 50vh;
 	height: auto;
 	position: relative;
 	display: grid;
@@ -594,6 +593,7 @@ main.page-section {
 
 main.page-section section {
 	display: block;
+	margin-bottom: 2em;
 }
 
 main.page-section section .section-heading {
@@ -939,6 +939,10 @@ main.page-section section.wrapper {
 
 #project-wrapper .page-header {
 	width: 40%;
+}
+
+#project-wrapper .page-content {
+	padding-bottom: 4em;
 }
 
 .project-staff {

@@ -927,3 +927,37 @@ main.page-section section .section-description {
 	padding: 1em;
 	color: white;
 }
+
+/* PHOTO GALLERY STYLES */
+.gallery {
+	display: block;
+	width: 100%;
+}
+
+.gallery .wrapper {
+	display: block;
+}
+
+.gallery .wrapper .gallery-slider {
+	display: block;
+	width: 100%;
+}
+
+.gallery-slider li {
+	display: block;
+}
+
+.gallery-slider li img {
+	width: 100%;
+	height: 80vh;
+	object-fit: cover;
+	display: block;
+}
+
+.gallery-slider li .slider-header {
+	width: 100%;
+	padding: 1em;
+	text-transform: uppercase;
+	text-align: center;
+	color: var(--epimetrics-red);
+}

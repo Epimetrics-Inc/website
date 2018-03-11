@@ -22,4 +22,19 @@ $(document).ready(function() {
 		mode: 'slide',
 		controls: true,
 	});
+
+	$('.gallery-slider').lightSlider({
+		gallery: true,
+		item: 1,
+		loop: true,
+		sliderMargin: 0,
+		enableDrag: false,
+		mode: 'fade',
+		currentPagerPosition: 'left',
+		onSliderLoad: function(e) {
+			e.lightGallery({
+				selector: '.gallery-slider .lslide',
+			});
+		}
+	});
 });

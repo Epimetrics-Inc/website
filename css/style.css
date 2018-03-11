@@ -928,7 +928,7 @@ main.page-section section .section-description {
 	color: white;
 }
 
-/* PHOTO GALLERY STYLES */
+/* General PHOTO GALLERY STYLES */
 .gallery {
 	display: block;
 	width: 100%;
@@ -945,11 +945,12 @@ main.page-section section .section-description {
 
 .gallery-slider li {
 	display: block;
+	position: relative;
 }
 
 .gallery-slider li img {
 	width: 100%;
-	height: 80vh;
+	height: 100vh;
 	object-fit: cover;
 	display: block;
 }
@@ -960,4 +961,23 @@ main.page-section section .section-description {
 	text-transform: uppercase;
 	text-align: center;
 	color: var(--epimetrics-red);
+}
+
+/* PROJECT MULTIMEDIA SPECIFIC STYLES */
+#project-multimedia .gallery-slider li .project-info {
+	display: block;
+	position: absolute;
+	top: 1em;
+	width: 40%;
+	left: 1em;
+	padding: 1em;
+	background-color: rgba(255,255,255,0.6);
+	color: var(--text-color);
+}
+
+#project-multimedia .gallery-slider li .project-info .project-title {
+	color: var(--epimetrics-red);
+	font-weight: bolder;
+	font-size: 3em;
+	font-style: italic;
 }

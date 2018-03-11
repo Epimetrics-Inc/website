@@ -18,6 +18,7 @@
 	--epimetrics-darkred: #470006;
 	--epimetrics-gray: #3c3d3c;
 	--epimetrics-gray-highlight: #686f76;
+	--epimetrics-lightgray: #dcdee0;
 	--epimetrics-lightred: #ee1c25;
 	--epimetrics-lightred-highlight: #f5796d;
 	--epimetrics-peach: #EFE0DF;
@@ -617,6 +618,11 @@ main.page-section section .section-description {
 	margin: 2em auto;
 }
 
+main.page-section section.wrapper {
+	position: relative;
+	margin: 2em auto 0;
+}
+
 /* ABOUT US PAGE */
 #our-team .team-pictures {
 	width: 80%;
@@ -822,20 +828,14 @@ main.page-section section .section-description {
 	color: var(--white);
 }
 
-/* ARTICLE styles */
-#article-wrapper {
-	display: block;
-	position: relative;
-	margin: 2em auto 0;
-}
-
-#article-wrapper .article {
+/* ARTICLE & Project styles */
+.wrapper .page {
 	display: block;
 	width: 90%;
-	margin: 0 auto 2em;
+	margin: 0 auto 4em;
 }
 
-#article-wrapper .article-image {
+.wrapper .page-image {
 	display: inline-block;
 	width: 60%;
 	height: 80vh;
@@ -844,34 +844,35 @@ main.page-section section .section-description {
 	margin: 1em 1em 1em 0;
 }
 
-#article-wrapper .article-header {
+.wrapper .page-header {
 	display: inline-block;
 	width: 35%;
 	padding: 1em;
 }
 
-#article-wrapper .article-header .article-date {
-	color: var(--epimetrics-gray);
+.wrapper .page-header .page-date {
+	color: var(--epimetrics-gray-highlight);
 	font-style: italic;
 	font-size: 0.8em;
 }
 
-#article-wrapper .article-header .article-title {
+.wrapper .page-header .page-title {
 	color: var(--epimetrics-red);
 	font-size: 3em;
 	font-style: italic;
 }
 
-#article-wrapper .article-content {
+.wrapper .page-content {
 	display: block;
 	width: 100%;
 }
 
-#article-wrapper .article-content p {
+.wrapper .page-content p {
 	line-height: 1.5;
 	margin-bottom: 0.5em;
 }
 
+/* ARTICLE page ONLY styles */
 #article-wrapper .article-staff {
 	display: block;
 	width: 100%;
@@ -926,6 +927,68 @@ main.page-section section .section-description {
 	text-align: center;
 	padding: 1em;
 	color: white;
+}
+
+/* PROJECT styles */
+#project-wrapper .page-image {
+	float: right;
+	margin: 1em;
+	width: 50%;
+	height: 100vh;
+}
+
+#project-wrapper .page-header {
+	width: 40%;
+}
+
+.project-staff {
+	display: block;
+	position: relative;
+	width: 100%;
+	padding: 2em;
+	background-color: var(--epimetrics-lightgray);
+}
+
+.project-staff::before {
+	content: " ";
+	display: block;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: -15px;
+	left: 49%;
+	background-color: var(--white);
+	border: 2px solid var(--epimetrics-lightgray);
+	border-radius: 50%;
+}
+
+.project-staff .staff-wrapper {
+	width: 60%;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.project-staff .staff-wrapper .staff {
+	display: block;
+	width: 30%;
+	padding: 1em;
+	text-align: center;
+}
+
+.staff-wrapper .staff img {
+	border-radius: 50%;
+}
+
+.staff-wrapper .staff .info {
+	color: var(--epimetrics-darkred);
+}
+
+.staff-wrapper .staff .info .name {
+	text-transform: uppercase;
+	font-weight: bolder;
 }
 
 /* General PHOTO GALLERY STYLES */

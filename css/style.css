@@ -475,8 +475,8 @@ main.main section .section-footer .section-button:focus::before {
 #contact-us {
 	display: flex;
 	margin: 4em auto;
-	padding: 2em;
-	width: 80%;
+	padding: 1em;
+	width: 60%;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
@@ -487,13 +487,13 @@ main.main section .section-footer .section-button:focus::before {
 #contact-us::before {
 	content: " ";
 	display: block;
-	width: 50px;
-	height: 50px;
+	width: 25px;
+	height: 25px;
 	border: 2px solid var(--epimetrics-gray-highlight);
 	border-radius: 50%;
 	background-color: var(--white);
 	padding: 1em;
-	margin: -75px auto 0;
+	margin: -45px auto 0;
 }
 
 #contact-us .section-heading {
@@ -506,12 +506,12 @@ main.main section .section-footer .section-button:focus::before {
 #contact-us .section-description {
 	color: var(--text-color);
 	font-size: 1em;
-	width: 60%;
-	margin: 0 auto 2em;
+	width: 80%;
+	margin: 0 auto 1em;
 }
 
 #contact-form {
-	width: 40%;
+	width: 50%;
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-start;
@@ -532,6 +532,8 @@ main.main section .section-footer .section-button:focus::before {
 	display: block;
 	width: 100%;
 	padding: 0.25em;
+	font-size: 1.1em;
+	border: 1px solid var(--epimetrics-lightgray);
 	font-family: var(--body-text);
 }
 

@@ -277,9 +277,8 @@ main {
 }
 
 main section {
-	min-height: 90vh;
-	min-height: calc(100vh - var(--nav-height));
-	height: auto;
+	height: 90vh;
+	height: calc(100vh - var(--nav-height));
 	position: relative;
 	display: grid;
   grid-template-columns: repeat(12, 1fr);
@@ -381,7 +380,7 @@ main.main section .section-footer .section-button {
 main.main section .section-footer .section-button::before {
 	content: "";
 	display: block;
-	height: 3px;
+	height: 5px;
 	background-color: var(--epimetrics-red);
 	position: absolute;
 	left: 0;
@@ -474,14 +473,15 @@ main.main section .section-footer .section-button:focus::before {
 /* Contact Us styles */
 #contact-us {
 	display: flex;
+	height: auto;
 	margin: 4em auto;
-	padding: 1em;
-	width: 60%;
-	flex-direction: column;
+	width: 70%;
+	flex-wrap: wrap;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-start;
 	border: 2px solid var(--epimetrics-gray-highlight);
 	background-color: var(--white);
+	position: relative;
 }
 
 #contact-us::before {
@@ -493,25 +493,33 @@ main.main section .section-footer .section-button:focus::before {
 	border-radius: 50%;
 	background-color: var(--white);
 	padding: 1em;
-	margin: -45px auto 0;
+	position: absolute;
+	top: -30px;
+}
+
+#contact-us .left, #contact-us .right {
+	width: 50%;
+	padding: 2em 3em;
 }
 
 #contact-us .section-heading {
 	display: block;
-	margin: 2rem auto 0;
 	padding: 0;
+	text-align: left;
+	width: 100%;
 	font-size: 3em;
 }
 
 #contact-us .section-description {
+	width: 100%;
+	margin-top: 0.25em;
 	color: var(--text-color);
 	font-size: 1em;
-	width: 80%;
-	margin: 0 auto 1em;
+	padding: 0;
 }
 
 #contact-form {
-	width: 50%;
+	margin-top: 4em;
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-start;
@@ -567,7 +575,7 @@ main.main section .section-footer .section-button:focus::before {
 /*temporary*/
 #featured {
 	display: block;
-	min-height: initial; /* for some reason i need to indicate this? */
+	height: auto;
 }
 
 #featured .month-year-feature {

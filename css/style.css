@@ -645,6 +645,7 @@ main.page-section {
 
 main.page-section section {
 	display: block;
+	height: auto;
 	margin-bottom: 2em;
 }
 
@@ -1100,14 +1101,31 @@ main.page-section section.wrapper {
 	color: var(--epimetrics-red);
 }
 
+/* lightslider hax */
+.lSSlideOuter .lSPager.lSGallery li {
+	padding: 0;
+	border-bottom: 7px solid transparent;
+	transition: border-bottom 0.3s ease;
+}
+
+.lSSlideOuter .lSPager.lSGallery li img {
+	display: block;
+	margin: 0 auto;
+}
+
+.lSSlideOuter .lSPager.lSGallery li.active, .lSSlideOuter .lSPager.lSGallery li:hover {
+	border-radius: 0;
+	border-bottom-color: var(--epimetrics-red);
+}
+
 /* PROJECT MULTIMEDIA SPECIFIC STYLES */
 #project-multimedia .gallery-slider li .project-info {
 	display: block;
 	position: absolute;
-	top: 1em;
+	top: 4em;
+	left: 4em;
 	width: 40%;
-	left: 1em;
-	padding: 1em;
+	padding: 2em;
 	background-color: rgba(255,255,255,0.6);
 	color: var(--text-color);
 }

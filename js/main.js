@@ -54,12 +54,15 @@ $(document).ready(function() {
 
 	$('.gallery-slider').lightSlider({
 		gallery: true,
+		// thumbItem: 5,
+		thumbMargin: 10,
 		item: 1,
 		loop: true,
+		pauseOnHover: true,
 		sliderMargin: 0,
 		enableDrag: false,
 		mode: 'fade',
-		currentPagerPosition: 'left',
+		currentPagerPosition: 'middle',
 		onSliderLoad: function(e) {
 			e.lightGallery({
 				selector: '.gallery-slider .lslide',

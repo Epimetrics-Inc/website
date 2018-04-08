@@ -1,4 +1,18 @@
 $(document).ready(function() {
+	// for navbar
+			var navToggle = document.querySelector('#show-nav');
+			var navMenu = document.querySelector('.main-nav');
+			
+			navToggle.addEventListener('click', function() {
+				if (navMenu.classList.contains('is-active')) {
+					this.setAttribute('aria-expanded', 'false');
+					navMenu.classList.remove('is-active');
+				} else {
+					navMenu.classList.add('is-active');
+					this.setAttribute('aria-expanded', 'true');
+				}
+			});
+
 	// Select all links with hashes
 	$('a[href*="#"]')
 	  // Remove links that don't actually link to anything

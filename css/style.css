@@ -236,8 +236,8 @@ input::-webkit-input-placeholder {
 	#show-nav {
 		display: block;
 		position: absolute;
-		top: 1em;
-		right: 1em;
+		top: 0.75em;
+		right: 0.75em;
 	}
 
 	nav.main-nav.is-active {

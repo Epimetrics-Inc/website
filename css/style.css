@@ -1261,6 +1261,26 @@ main.page-section section.wrapper {
 	margin-bottom: 0.5em;
 }
 
+@media screen and (max-width: 960px) {
+	.wrapper {
+		margin-bottom: 2em;
+	}
+
+	.wrapper .page-image {
+		display: block;
+		width: 100%;
+		height: 50vh;
+		margin-bottom: 2em;
+	}
+
+	.wrapper .page-header {
+		display: block;
+		width: 100%;
+		text-align: center;
+		padding: 2em 1em;
+	}
+}
+
 /* ARTICLE page ONLY styles */
 #article-wrapper .article-staff {
 	display: block;
@@ -1303,6 +1323,31 @@ main.page-section section.wrapper {
 	-o-object-fit: cover;
 	   object-fit: cover;
 	margin: 2em;
+}
+
+@media screen and (max-width: 600px) {
+	#article-wrapper .article-staff .featured-staff {
+		display: block;
+		text-align: center;
+	}
+
+	#article-wrapper .article-staff .featured-staff .staff-info {
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	#article-wrapper .article-staff .featured-staff .staff-description {
+		display: block;
+		width: 80%;
+		padding: 1em 1em 2em;
+		margin: 0 auto;
+	}
+
+	#article-wrapper .article-staff .featured-staff img {
+		display: inline-block;
+		vertical-align: middle;
+		margin-bottom: 1em;
+	}
 }
 
 #article-wrapper .article-comments {

@@ -1,0 +1,97 @@
+# _data.team.yml
+
+- name: John Q. Wong, MD, MSc
+  roles: Chairman of the Board, Founder
+  photo_url: https://placem.at/people?w=250&h=250&random=1
+  quote: "In pursuit of miracles; Philippians 4:13"
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Diana Beatriz Bayani, MSc
+  roles: Board Member, Founder
+  photo_url: https://placem.at/people?w=250&h=250&random=2
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Nel Jason Haw, MSc
+  roles: Executive Director, Founder
+  photo_url: https://placem.at/people?w=250&h=250&random=3
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Jac Lin Yu
+  roles: Finance and Accounting Officer
+  photo_url: https://placem.at/people?w=250&h=250&random=4
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Stephanie Anne Co, MD-MBA
+  roles: Research Operations Officer
+  photo_url: https://placem.at/people?w=250&h=250&random=5
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Cheyenne Ariana Erika Modina
+  roles: Innovations Officer
+  photo_url: https://placem.at/people?w=250&h=250&random=6
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Johnny Raymund Tamon, MD-MBA
+  roles: Human Resources Officer
+  photo_url: https://placem.at/people?w=250&h=250&random=7
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Hadrian Paulo Lim, MSc
+  roles: Information Technology Officer
+  photo_url: https://placem.at/people?w=250&h=250&random=8
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Anne Kathlyn A. Baladad
+  roles: Marketing and Communications Officer
+  photo_url: https://placem.at/people?w=250&h=250&random=9
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Bernell Go
+  roles: Executive Assistant, Office Manager
+  photo_url: https://placem.at/people?w=250&h=250&random=10
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Krizelle Cleo Fowler
+  roles: Quantitative Specialist
+  photo_url: https://placem.at/people?w=250&h=250&random=11
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample
+
+- name: Abigail E. Lim
+  roles: Qualitative Specialist
+  photo_url: https://placem.at/people?w=250&h=250&random=12
+  quote: "I am a sample quote."
+  links:
+    email: sample@email.com
+    linkedin: https://ph.linkedin.com/sample

@@ -12,6 +12,7 @@ baseurl: /
 collections:
   projects:
     output: true
+    permalink: /projects/:path/
   events:
     output: false
   photos:

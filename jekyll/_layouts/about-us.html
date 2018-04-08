@@ -1,0 +1,38 @@
+---
+layout: page
+---
+
+<section id="our-team">
+  <h2 class="section-heading">Our Team</h2>
+  <div class="section-description">
+    {{ content }}
+  </div>
+
+  {% if site.data.team %}
+    <div class="team-pictures">
+      {% for member in site.data.team %}
+        <div class="team-member">
+          <div class="picture-with-quote">
+            <img src="{{ member.photo_url }}" alt="">
+            <div class="quote">{{ member.quote }}</div>
+          </div>
+          <div class="team-info">
+            <h4 class="name">{{ member.name }}</h4>
+            <h6 class="roles">{{ member.roles }}</h6>
+            {% if member.links %}
+              <div class="links">
+                {% if member.links.email %}
+                  <a href="mailto:{{ member.links.email }}" class="email"><i class="fa fa-envelope"></i></a>
+                {% endif %}
+                {% if member.links.linkedin %}
+                  <a href="{{ member.links.linkedin }}" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                {% endif %}
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+</section>

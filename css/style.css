@@ -1220,7 +1220,13 @@ main.page-section section.wrapper {
 .wrapper .page {
 	display: block;
 	width: 80%;
-	margin: 0 auto 4em;
+	margin: 0 auto 2em;
+}
+
+.wrapper .page::after {
+	content: "";
+	display: block;
+	clear: both;
 }
 
 .wrapper .page-image {
@@ -1372,7 +1378,8 @@ main.page-section section.wrapper {
 	float: right;
 	margin: 1em;
 	width: 50%;
-	height: 100vh;
+	/*height: 100vh;*/
+	height: auto;
 }
 
 #project-wrapper .page-header {
@@ -1381,6 +1388,19 @@ main.page-section section.wrapper {
 
 #project-wrapper .page-content {
 	padding-bottom: 4em;
+}
+
+@media screen and (max-width: 960px) {
+	#project-wrapper .page-header {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#project-wrapper .page-image {
+		width: 100%;
+		float: initial;
+	}
 }
 
 .project-staff {
@@ -1415,7 +1435,7 @@ main.page-section section.wrapper {
 
 .project-staff .staff-wrapper .staff {
 	display: block;
-	width: 30%;
+	width: calc(100%/3);
 	padding: 1em;
 	text-align: center;
 }
@@ -1431,6 +1451,32 @@ main.page-section section.wrapper {
 .staff-wrapper .staff .info .name {
 	text-transform: uppercase;
 	font-weight: bolder;
+}
+
+@media screen and (max-width: 600px) {
+	.project-staff .staff-wrapper {
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+
+	.project-staff .staff-wrapper::after {
+		content: "";
+		display: block;
+		clear: both;
+	}
+
+	.project-staff .staff-wrapper .staff {
+		display: inline-block;
+		vertical-align: top;
+		float: left;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.project-staff .staff-wrapper .staff {
+		width: calc(100%/2);
+	}
 }
 
 /* General PHOTO GALLERY STYLES */

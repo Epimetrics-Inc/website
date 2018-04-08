@@ -881,8 +881,13 @@ main.page-section section.wrapper {
 	margin-bottom: 1em;
 }
 
-.articles-grid .article .article-info .article-tags {
+.articles-grid .article .article-info .article-author,
+.articles-grid .article .article-info .article-month-year {
 	font-size: 0.9em;
+	color: var(--epimetrics-gray-highlight);
+}
+
+.articles-grid .article .article-info .article-month-year {
 	font-style: italic;
 }
 
@@ -896,6 +901,11 @@ main.page-section section.wrapper {
 	width: 40%;
 	background-color: var(--epimetrics-red);
 	color: var(--white);
+}
+
+.articles-grid .featured.article .article-info .article-author,
+.articles-grid .featured.article .article-info .article-month-year {
+	color: var(--epimetrics-lightgray);
 }
 
 /* ARTICLE & Project styles */

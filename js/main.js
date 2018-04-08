@@ -81,6 +81,14 @@ $(document).ready(function() {
 			e.lightGallery({
 				selector: '.gallery-slider .lslide',
 			});
-		}
+		},
+		responsive: [
+			{
+				breakpoint: 960,
+				settings: {
+					thumbItem: 5,
+				}
+			},
+		],
 	});
 });

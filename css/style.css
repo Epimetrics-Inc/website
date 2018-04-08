@@ -1066,12 +1066,23 @@ main.page-section section.wrapper {
 .job .job-description {
 	display: block;
 	width: 100%;
-	margin: 2em auto;
+	margin: 1em auto;
 	line-height: 1.5;
 }
 
 .job .job-keywords {
 	display: block;
+}
+
+@media screen and (max-width: 600px) {
+	.jobs {
+		display: block;
+	}
+
+	.jobs .job {
+		width: 100%;
+		margin-bottom: 2em;
+	}
 }
 
 /* SOLUTIONS page */

@@ -1125,6 +1125,7 @@ main.page-section section.wrapper {
 	left: 4em;
 	width: 40%;
 	padding: 2em;
+	font-size: 0.9em;
 	background-color: rgba(255,255,255,0.6);
 	color: var(--text-color);
 }
@@ -1132,6 +1133,6 @@ main.page-section section.wrapper {
 .gallery-slider li .slide-info .slide-title {
 	color: var(--epimetrics-red);
 	font-weight: bolder;
-	font-size: 3em;
+	font-size: 2.5em;
 	font-style: italic;
 }

@@ -68,7 +68,7 @@ body {
 	    grid-template-rows: var(--nav-height) max-content auto;
 	-ms-grid-columns: 100%;
 	    grid-template-columns: 100%;
-	    grid-template-areas: "header"
+	        grid-template-areas: "header"
 											 "main"
 											 "footer";
 }
@@ -281,9 +281,13 @@ main section {
 	height: 90vh;
 	height: calc(100vh - var(--nav-height));
 	position: relative;
+	display: -ms-grid;
 	display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: 0.15fr [top-header-start] minmax(min-content, 1fr) [top-header-end content-start] minmax(1em, max-content) [content-end bottom-header-start] minmax(min-content, 1fr) [bottom-header-end footer-links-start] 0.15fr [footer-links-end];
+  -ms-grid-columns: (1fr)[12];
+      grid-template-columns: repeat(12, 1fr);
+  -ms-grid-rows: 0.15fr [top-header-start] minmax(min-content, 1fr) [top-header-end content-start] minmax(1em, max-content) [content-end bottom-header-start] minmax(min-content, 1fr) [bottom-header-end footer-links-start] 0.15fr [footer-links-end];
+      grid-template-rows: 0.15fr [top-header-start] minmax(-webkit-min-content, 1fr) [top-header-end content-start] minmax(1em, -webkit-max-content) [content-end bottom-header-start] minmax(-webkit-min-content, 1fr) [bottom-header-end footer-links-start] 0.15fr [footer-links-end];
+      grid-template-rows: 0.15fr [top-header-start] minmax(min-content, 1fr) [top-header-end content-start] minmax(1em, max-content) [content-end bottom-header-start] minmax(min-content, 1fr) [bottom-header-end footer-links-start] 0.15fr [footer-links-end];
 	grid-gap: 1em;
 }
 
@@ -808,10 +812,8 @@ main.page-section section.wrapper {
 	display: block;
 }
 
-/*might be temporary*/
 #building-blocks img {
 	display: block;
-	width: 80%;
 	height: auto;
 	margin: 0 auto;
 }
@@ -821,14 +823,13 @@ main.page-section section.wrapper {
 	display: -ms-grid;
 	display: grid;
 	width: 80%;
-	min-height: 100vh;
+	min-height: 40vh;
 	height: auto;
 	margin: 0 auto;
 	-ms-grid-columns: (1fr)[3];
 	    grid-template-columns: repeat(3, 1fr);
-	-ms-grid-rows: (minmax(min-content, 300px))[auto-fit];
-	    grid-template-rows: repeat(auto-fit, minmax(-webkit-min-content, 300px));
-	    grid-template-rows: repeat(auto-fit, minmax(min-content, 300px));
+	-ms-grid-rows: fit-content(100%);
+	    grid-template-rows: fit-content(100%);
 	grid-gap: 1.5em;
 }
 
@@ -838,6 +839,7 @@ main.page-section section.wrapper {
 	display: block;
 	position: relative;
 	width: 100%;
+	height: 40vh;
 	background-color: var(--epimetrics-gray-highlight);
 	transition: 0.3s ease;
 	box-shadow: 0 1px 2px rgba(0,0,0,0.4);

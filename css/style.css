@@ -894,6 +894,7 @@ main.page-section section {
 }
 
 main.page-section section .section-heading {
+	display: block;
 	width: 80%;
 	margin: 1em auto;
 	padding-bottom: 25px;
@@ -919,6 +920,7 @@ main.page-section section.wrapper {
 	position: relative;
 	margin: 2em auto 0;
 }
+
 
 /* ABOUT US PAGE */
 #our-team .team-pictures {
@@ -1059,6 +1061,7 @@ main.page-section section.wrapper {
 
 #building-blocks img {
 	display: block;
+	width: 100%;
 	height: auto;
 	margin: 0 auto;
 }

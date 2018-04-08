@@ -646,7 +646,7 @@ main.page-section section {
 
 main.page-section section .section-heading {
 	width: 80%;
-	margin: 0 auto 1em;
+	margin: 1em auto;
 	padding-bottom: 25px;
 	border-bottom: 4px solid var(--epimetrics-darkred);
 }
@@ -678,8 +678,8 @@ main.page-section section.wrapper {
 	padding: 2em;
 	display: -ms-grid;
 	display: grid;
-	-ms-grid-columns: (1fr)[4];
-	    grid-template-columns: repeat(4, 1fr);
+	-ms-grid-columns: (1fr)[3];
+	    grid-template-columns: repeat(3, 1fr);
 	grid-gap: 4em;
 }
 
@@ -692,7 +692,7 @@ main.page-section section.wrapper {
 
 .team-member .picture-with-quote {
 	display: block;
-	/*flex: 2 1 auto;*/
+	margin: 0 auto;
 	position: relative;
 }
 
@@ -706,7 +706,6 @@ main.page-section section.wrapper {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	font-size: 0.9em;
 	padding: 1em;
 	border-radius: 50%;
 	opacity: 0;
@@ -734,6 +733,7 @@ main.page-section section.wrapper {
 .team-member .team-info {
 	flex: 1 1 auto;
 	display: block;
+	font-size: 1.2em;
 	margin: 1em auto;
 	color: var(--epimetrics-darkred);
 	text-align: center;
@@ -746,6 +746,21 @@ main.page-section section.wrapper {
 
 .team-member .team-info .roles {
 	font-family: var(--body-text);
+}
+
+.team-member .team-info .links {
+	margin-top: 0.5em;
+}
+
+.team-member .team-info .links a {
+	color: var(--epimetrics-red);
+	padding: 0.2em 0.5em;
+	margin: 0 0.25em;
+	border: 4px solid transparent;
+}
+
+.team-member .team-info .links a:hover {
+	border-color: var(--epimetrics-red);
 }
 
 /* CAREERS page */

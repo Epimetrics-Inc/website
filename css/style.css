@@ -921,7 +921,6 @@ main.page-section section.wrapper {
 	margin: 2em auto 0;
 }
 
-
 /* ABOUT US PAGE */
 #our-team .team-pictures {
 	width: 80%;
@@ -1012,6 +1011,29 @@ main.page-section section.wrapper {
 
 .team-member .team-info .links a:hover {
 	border-color: var(--epimetrics-red);
+}
+
+@media screen and (max-width: 600px) {
+	#our-team .team-pictures {
+		width: 100%;
+		display: table;
+		margin: 0 auto;
+		padding-bottom: 0;
+	}
+
+	#our-team .team-pictures .team-member {
+		display: table-cell;
+		text-align: center;
+		width: 50%;
+		height: 375px;
+		padding: 1em 2em;
+		float: left;
+	}
+
+	.team-member .team-info {
+		display: block;
+		width: 100%;
+	}
 }
 
 /* CAREERS page */

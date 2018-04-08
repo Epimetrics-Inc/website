@@ -1,0 +1,31 @@
+<!-- _includes/head.html -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Jekyll-specific -->
+	<title>
+		{% if page.title %} {{ page.title }} | {{ site.title }}
+		{% else %} {{ site.title }} | {{ site.tagline }}
+		{%endif %}
+	</title>
+
+	{% include base.html %}
+
+	<!-- Resources -->
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="{{ base }}/assets/lightslider/css/lightslider.css">
+
+	<!-- Epimetrics Main Stylesheet -->
+	<link rel="stylesheet" href="{{ base }}/css/style.css">
+
+	<!-- Favicons and whatnot -->
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ base }}/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ base }}/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ base }}/favicon-16x16.png">
+	<link rel="manifest" href="{{ base }}/site.webmanifest">
+	<link rel="mask-icon" href="{{ base }}/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+</head>

@@ -1,0 +1,15 @@
+# _data/navigation.yml
+- title: Solutions
+  url: /solutions.html
+
+- title: Insights
+  url: /insights.html
+
+- title: About Us
+  url: /about-us.html
+
+- title: Careers
+  url: /careers.html
+
+- title: Contact Us
+  url: /#contact-us

@@ -1118,8 +1118,7 @@ main.page-section section.wrapper {
 	border-bottom-color: var(--epimetrics-red);
 }
 
-/* PROJECT MULTIMEDIA SPECIFIC STYLES */
-#project-multimedia .gallery-slider li .project-info {
+.gallery-slider li .slide-info {
 	display: block;
 	position: absolute;
 	top: 4em;
@@ -1130,7 +1129,7 @@ main.page-section section.wrapper {
 	color: var(--text-color);
 }
 
-#project-multimedia .gallery-slider li .project-info .project-title {
+.gallery-slider li .slide-info .slide-title {
 	color: var(--epimetrics-red);
 	font-weight: bolder;
 	font-size: 3em;

@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+<section id="careers">
+  <h2 class="section-heading">Work With Us</h2>
+  <div class="section-description">
+    {{ content }}
+  </div>
+
+  {% if site.data.jobopenings %}
+    <div class="jobs">
+      {% for job in site.data.jobopenings %}
+        <div class="job">
+          <h3 class="job-title">{{ job.title }}</h3>
+          <div class="job-description">{{ job.description }}</div>
+          <div class="job-keywords">{{ job.keywords | array_to_sentence_string: '' }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+</section>

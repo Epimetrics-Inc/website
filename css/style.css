@@ -218,9 +218,14 @@ input::-webkit-input-placeholder {
 }
 
 @media screen and (max-width: 960px) {
+	body {
+		display: block;
+		width: 100%;
+	}
+
 	header {
 		display: block;
-		/*padding: 0 1em;*/
+		width: 100%;
 	}
 
 	header > .brand {
@@ -241,8 +246,7 @@ input::-webkit-input-placeholder {
 		width: 50%;
 		clear: both;
 		float: right;
-		margin-left: -1em;
-		margin-right: -1em;
+		margin-right: -2em;
 		background-color: var(--epimetrics-red);
 		box-shadow: 0 10px 10px 2.5px rgba(0,0,0,0.15);
 	}
@@ -346,6 +350,42 @@ footer .company-info {
 
 footer .company-info > * {
 	margin-bottom: 1em;
+}
+
+@media screen and (max-width: 960px) {
+	footer {
+		width: 100%;
+	}
+
+	footer .left, footer .right {
+		width: 50%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	footer {
+		display: block;
+		padding: 1em 2em;
+	}
+
+	footer .left, footer .right {
+		width: 100%;
+		margin-top: 1em;
+	}
+
+	footer .sitemap, footer .social-media {
+		margin: 0 auto;
+		width: 100%;
+		text-align: center;
+	}
+
+	footer .left > * > li a {
+		padding: 0.25em;
+	}
+
+	footer .company-info {
+		text-align: center;
+	}
 }
 
 /**

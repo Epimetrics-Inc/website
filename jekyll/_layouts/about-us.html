@@ -13,19 +13,19 @@ layout: page
       {% for member in site.data.team %}
         <div class="team-member">
           <div class="picture-with-quote">
-            <img src="{{ member.photo_url }}" alt="">
-            <div class="quote">{{ member.quote }}</div>
+            <img src="{{ member[1].photo_url }}" alt="">
+            <div class="quote">{{ member[1].quote }}</div>
           </div>
           <div class="team-info">
-            <h4 class="name">{{ member.name }}</h4>
-            <h6 class="roles">{{ member.roles }}</h6>
-            {% if member.links %}
+            <h4 class="name">{{ member[1].name }}</h4>
+            <h6 class="roles">{{ member[1].roles }}</h6>
+            {% if member[1].links %}
               <div class="links">
-                {% if member.links.email %}
-                  <a href="mailto:{{ member.links.email }}" class="email"><i class="fa fa-envelope"></i></a>
+                {% if member[1].links.email %}
+                  <a href="mailto:{{ member[1].links.email }}" class="email"><i class="fa fa-envelope"></i></a>
                 {% endif %}
-                {% if member.links.linkedin %}
-                  <a href="{{ member.links.linkedin }}" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                {% if member[1].links.linkedin %}
+                  <a href="{{ member[1].links.linkedin }}" class="linkedin"><i class="fa fa-linkedin"></i></a>
                 {% endif %}
               </div>
             {% endif %}

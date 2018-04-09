@@ -1,0 +1,33 @@
+---
+layout: page
+---
+
+<section class="wrapper" id="article-wrapper">
+	<div class="page">
+		<img src="{{ page.featured_image }}" alt="" class="page-image">
+
+		<div class="page-header">
+			<div class="page-date">{{ page.date | date: "%B %Y" }}</div>
+			<h1 class="page-title">{{ page.title }}</h1>
+		</div>
+
+		<div class="page-content">
+			{{ content }}
+		</div>
+	</div>
+
+	<div class="article-staff">
+		{% assign author = site.data.team[page.author] %}
+		<div class="featured-staff">
+			<div class="staff-info">
+				<h3 class="staff-name">{{ author.name }}</h3>
+				<h5 class="staff-position">{{ author.roles }}</h5>
+			</div>
+			<img src="{{ author.photo_url }}" alt="">
+			<div class="staff-description">{{ author.description }}</div>
+		</div>
+	</div>
+	
+	<!-- TODO: add disqus -->
+	<div class="article-comments">comments section</div>
+</section>

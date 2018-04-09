@@ -1,97 +1,121 @@
 # _data.team.yml
 
-- name: John Q. Wong, MD, MSc
+john_q_wong:
+  name: John Q. Wong, MD, MSc
   roles: Chairman of the Board, Founder
   photo_url: https://placem.at/people?w=250&h=250&random=1
   quote: "In pursuit of miracles; Philippians 4:13"
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Diana Beatriz Bayani, MSc
+diana_beatriz_bayani:
+  name: Diana Beatriz Bayani, MSc
   roles: Board Member, Founder
   photo_url: https://placem.at/people?w=250&h=250&random=2
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Nel Jason Haw, MSc
+neil_jason_haw:
+  name: Neil Jason Haw, MSc
   roles: Executive Director, Founder
   photo_url: https://placem.at/people?w=250&h=250&random=3
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Jac Lin Yu
+jac_lin_yu:
+  name: Jac Lin Yu
   roles: Finance and Accounting Officer
   photo_url: https://placem.at/people?w=250&h=250&random=4
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Stephanie Anne Co, MD-MBA
+stephanie_anne_co:
+  name: Stephanie Anne Co, MD-MBA
   roles: Research Operations Officer
   photo_url: https://placem.at/people?w=250&h=250&random=5
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Cheyenne Ariana Erika Modina
+cheyenne_modina:
+  name: Cheyenne Ariana Erika Modina
   roles: Innovations Officer
   photo_url: https://placem.at/people?w=250&h=250&random=6
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Johnny Raymund Tamon, MD-MBA
+johnny_tamon:
+  name: Johnny Raymund Tamon, MD-MBA
   roles: Human Resources Officer
   photo_url: https://placem.at/people?w=250&h=250&random=7
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Hadrian Paulo Lim, MSc
+hadrian_lim:
+  name: Hadrian Paulo Lim, MSc
   roles: Information Technology Officer
   photo_url: https://placem.at/people?w=250&h=250&random=8
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Anne Kathlyn A. Baladad
+kath_baladad:
+  name: Anne Kathlyn A. Baladad
   roles: Marketing and Communications Officer
   photo_url: https://placem.at/people?w=250&h=250&random=9
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
-    email: sample@email.com
+    email: katya.baladad@gmail.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Bernell Go
+bernell_go:
+  name: Bernell Go
   roles: Executive Assistant, Office Manager
   photo_url: https://placem.at/people?w=250&h=250&random=10
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Krizelle Cleo Fowler
+cleo_fowler:
+  name: Krizelle Cleo Fowler
   roles: Quantitative Specialist
   photo_url: https://placem.at/people?w=250&h=250&random=11
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample
 
-- name: Abigail E. Lim
+abigail_lim:
+  name: Abigail E. Lim
   roles: Qualitative Specialist
   photo_url: https://placem.at/people?w=250&h=250&random=12
   quote: "I am a sample quote."
+  description: "This is a sample description for this person."
   links:
     email: sample@email.com
     linkedin: https://ph.linkedin.com/sample

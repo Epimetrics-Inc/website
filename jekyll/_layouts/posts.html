@@ -1,0 +1,28 @@
+---
+layout: page
+---
+
+<section id="insights">
+  <h2 class="section-heading">{{ page.title }}</h2>
+
+  {% assign posts_size = site.posts | size %}
+  {% if posts_size > 0 %}
+    <div class="articles-grid">
+      {% for post in site.posts %}
+      	<a href="{{ post.url | absolute_url }}" class="{% if post.featured %} featured {% endif %}
+      		article">
+      		<img src="{{ post.featured_image }}" alt="" class="article-image">
+      		<div class="article-info">
+      			<h3 class="article-title">{{ post.title }}</h3>
+      			{% assign author = site.data.team[post.author] %}
+      			<div class="article-author">{{ author.name }}</div>
+      			<div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
+      		</div>
+    		</a>
+      {% endfor %}
+    </div>
+  {% else %}
+    No posts to show.
+  {% endif %}
+
+</section>

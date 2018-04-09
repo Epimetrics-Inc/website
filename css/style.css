@@ -1153,7 +1153,7 @@ main.page-section section.wrapper {
 	position: absolute;
 	bottom: 1em;
 	left: 1em;
-	padding: 0.5em;
+	padding: 1em;
 	background-color: var(--white);
 	color: var(--epimetrics-red);
 	z-index: 10;
@@ -1161,7 +1161,7 @@ main.page-section section.wrapper {
 }
 
 .articles-grid .article .article-info .article-title {
-	margin-bottom: 1em;
+	margin-bottom: 0.75em;
 }
 
 .articles-grid .article .article-info .article-author,

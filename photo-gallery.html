@@ -1,170 +1,91 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+title: Photo Gallery
+layout: page
+---
 
-  <title>Photo Gallery | Epimetrics</title>
-
-  <!-- Resources -->
-  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="assets/lightslider/css/lightslider.css">
-  <link rel="stylesheet" type="text/css" href="assets/lightgallery/dist/css/lightgallery.min.css">
-
-  <!-- Epimetrics Main Stylesheet -->
-  <link rel="stylesheet" href="css/style.css">
-
-  <!-- Favicons and whatnot -->
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-  <link rel="manifest" href="site.webmanifest">
-  <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
-</head>
-<body>
-  <header>
-    <a href="index.html" class="brand">
-      <img src="img/logo.png" alt="Epimetrics">
-    </a>
-    <nav class="main-nav" role="navigation">
-      <button id="show-nav" aria-expanded="false" aria-controls="menu">Menu</button>
-      <ul class="nav-items">
-        <li class="nav-item"><a href="solutions.html">Solutions</a></li>
-        <li class="nav-item"><a href="insights.html">Insights</a></li>
-        <li class="nav-item"><a href="about-us.html">About Us</a></li>
-        <li class="nav-item"><a href="careers.html">Careers</a></li>
-        <li class="nav-item"><a href="index.html#contact-us">Contact Us</a></li>
-      </ul>
-      <div class="search-bar">
-        <form action="" id="search-site">
-          <label for="search">
-            <i class="fa fa-search"></i>
-            <input type="search" id="search" placeholder="Search">
-          </label>
-        </form>
-      </div>
-    </nav>
-  </header>
-
-  <main class="page-section">
-    <section id="photo-gallery" class="gallery">
-      <div class="wrapper">
-        <ul class="gallery-slider">
-          <li data-thumb="https://placem.at/things?w=200&h=200&random=1" data-src="https://placem.at/things?w=1024&h=800&random=1">
-            <div class="slide-info">
-              <h1 class="slide-title">Project Name</h1>
-              <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
-            </div>
-            <img src="https://placem.at/things?w=1024&h=800&random=1" alt="">
-            <h1 class="slider-header">Other Events</h1>
-          </li>
-          <li data-thumb="https://placem.at/things?w=200&h=200&random=2" data-src="https://placem.at/things?w=1024&h=800&random=2">
-            <div class="slide-info">
-              <h1 class="slide-title">Project Name</h1>
-              <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
-            </div>
-            <img src="https://placem.at/things?w=1024&h=800&random=2" alt="">
-            <h1 class="slider-header">Other Events</h1>
-          </li>
-          <li data-thumb="https://placem.at/things?w=200&h=200&random=3" data-src="https://placem.at/things?w=1024&h=800&random=3">
-            <div class="slide-info">
-              <h1 class="slide-title">Project Name</h1>
-              <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
-            </div>
-            <img src="https://placem.at/things?w=1024&h=800&random=3" alt="">
-            <h1 class="slider-header">Other Events</h1>
-          </li>
-          <li data-thumb="https://placem.at/things?w=200&h=200&random=4" data-src="https://placem.at/things?w=1024&h=800&random=4">
-            <div class="slide-info">
-              <h1 class="slide-title">Project Name</h1>
-              <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
-            </div>
-            <img src="https://placem.at/things?w=1024&h=800&random=4" alt="">
-            <h1 class="slider-header">Other Events</h1>
-          </li>
-          <li data-thumb="https://placem.at/things?w=200&h=200&random=5" data-src="https://placem.at/things?w=1024&h=800&random=5">
-            <div class="slide-info">
-              <h1 class="slide-title">Project Name</h1>
-              <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
-            </div>
-            <img src="https://placem.at/things?w=1024&h=800&random=5" alt="">
-            <h1 class="slider-header">Other Events</h1>
-          </li>
-          <li data-thumb="https://placem.at/things?w=200&h=200&random=6" data-src="https://placem.at/things?w=1024&h=800&random=6">
-            <div class="slide-info">
-              <h1 class="slide-title">Project Name</h1>
-              <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
-            </div>
-            <img src="https://placem.at/things?w=1024&h=800&random=6" alt="">
-            <h1 class="slider-header">Other Events</h1>
-          </li>
-          <li data-thumb="https://placem.at/things?w=200&h=200&random=7" data-src="https://placem.at/things?w=1024&h=800&random=7">
-            <div class="slide-info">
-              <h1 class="slide-title">Project Name</h1>
-              <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
-            </div>
-            <img src="https://placem.at/things?w=1024&h=800&random=7" alt="">
-            <h1 class="slider-header">Other Events</h1>
-          </li>
-          <li data-thumb="https://placem.at/things?w=200&h=200&random=8" data-src="https://placem.at/things?w=1024&h=800&random=8">
-            <div class="slide-info">
-              <h1 class="slide-title">Project Name</h1>
-              <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
-            </div>
-            <img src="https://placem.at/things?w=1024&h=800&random=8" alt="">
-            <h1 class="slider-header">Other Events</h1>
-          </li>
-          <li data-thumb="https://placem.at/things?w=200&h=200&random=9" data-src="https://placem.at/things?w=1024&h=800&random=9">
-            <div class="slide-info">
-              <h1 class="slide-title">Project Name</h1>
-              <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
-            </div>
-            <img src="https://placem.at/things?w=1024&h=800&random=9" alt="">
-            <h1 class="slider-header">Other Events</h1>
-          </li>
-          <li data-thumb="https://placem.at/things?w=200&h=200&random=10" data-src="https://placem.at/things?w=1024&h=800&random=10">
-            <div class="slide-info">
-              <h1 class="slide-title">Project Name</h1>
-              <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
-            </div>
-            <img src="https://placem.at/things?w=1024&h=800&random=10" alt="">
-            <h1 class="slider-header">Other Events</h1>
-          </li>
-        </ul>
-      </div>
-    </section>
-  </main>
-
-  <footer>
-    <div class="left">
-      <ul class="sitemap">
-        <li><a href="solutions.html">Solutions</a></li>
-        <li><a href="insights.html">Insights</a></li>
-        <li><a href="about-us.html">About Us</a></li>
-        <li><a href="careers.html">Careers</a></li>
-        <li><a href="index.html#contact-us">Contact Us</a></li>
-      </ul>
-      <ul class="social-media">
-        <li><a href="#"><i class="fa fa-facebook"></i> Facebook</a></li>
-        <li><a href="#"><i class="fa fa-twitter"></i> Twitter</a></li>
-        <li><a href="#"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
-      </ul>
-    </div>
-    <div class="right">
-      <div class="company-info">
-        <div class="address">
-          4 Dama De Noche United Parañaque Subdivision IV Parañaque, Metro Manila
+<section id="photo-gallery" class="gallery">
+  <div class="wrapper">
+    <ul class="gallery-slider">
+      <li data-thumb="https://placem.at/things?w=200&h=200&random=1" data-src="https://placem.at/things?w=1024&h=800&random=1">
+        <div class="slide-info">
+          <h1 class="slide-title">Project Name</h1>
+          <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
         </div>
-        <a href="mailto:contact@epimetrics.com.ph" class="contact-email">contact@epimetrics.com.ph</a>
-      </div>
-    </div>
-  </footer>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script type="text/javascript" src="assets/lightslider/js/lightslider.min.js"></script>
-  <script type="text/javascript" src="assets/lightgallery/dist/js/lightgallery.min.js"></script>
-  <script type="text/javascript" src="js/main.js"></script>
-</body>
-</html>
+        <img src="https://placem.at/things?w=1024&h=800&random=1" alt="">
+        <h1 class="slider-header">Other Events</h1>
+      </li>
+      <li data-thumb="https://placem.at/things?w=200&h=200&random=2" data-src="https://placem.at/things?w=1024&h=800&random=2">
+        <div class="slide-info">
+          <h1 class="slide-title">Project Name</h1>
+          <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
+        </div>
+        <img src="https://placem.at/things?w=1024&h=800&random=2" alt="">
+        <h1 class="slider-header">Other Events</h1>
+      </li>
+      <li data-thumb="https://placem.at/things?w=200&h=200&random=3" data-src="https://placem.at/things?w=1024&h=800&random=3">
+        <div class="slide-info">
+          <h1 class="slide-title">Project Name</h1>
+          <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
+        </div>
+        <img src="https://placem.at/things?w=1024&h=800&random=3" alt="">
+        <h1 class="slider-header">Other Events</h1>
+      </li>
+      <li data-thumb="https://placem.at/things?w=200&h=200&random=4" data-src="https://placem.at/things?w=1024&h=800&random=4">
+        <div class="slide-info">
+          <h1 class="slide-title">Project Name</h1>
+          <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
+        </div>
+        <img src="https://placem.at/things?w=1024&h=800&random=4" alt="">
+        <h1 class="slider-header">Other Events</h1>
+      </li>
+      <li data-thumb="https://placem.at/things?w=200&h=200&random=5" data-src="https://placem.at/things?w=1024&h=800&random=5">
+        <div class="slide-info">
+          <h1 class="slide-title">Project Name</h1>
+          <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
+        </div>
+        <img src="https://placem.at/things?w=1024&h=800&random=5" alt="">
+        <h1 class="slider-header">Other Events</h1>
+      </li>
+      <li data-thumb="https://placem.at/things?w=200&h=200&random=6" data-src="https://placem.at/things?w=1024&h=800&random=6">
+        <div class="slide-info">
+          <h1 class="slide-title">Project Name</h1>
+          <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
+        </div>
+        <img src="https://placem.at/things?w=1024&h=800&random=6" alt="">
+        <h1 class="slider-header">Other Events</h1>
+      </li>
+      <li data-thumb="https://placem.at/things?w=200&h=200&random=7" data-src="https://placem.at/things?w=1024&h=800&random=7">
+        <div class="slide-info">
+          <h1 class="slide-title">Project Name</h1>
+          <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
+        </div>
+        <img src="https://placem.at/things?w=1024&h=800&random=7" alt="">
+        <h1 class="slider-header">Other Events</h1>
+      </li>
+      <li data-thumb="https://placem.at/things?w=200&h=200&random=8" data-src="https://placem.at/things?w=1024&h=800&random=8">
+        <div class="slide-info">
+          <h1 class="slide-title">Project Name</h1>
+          <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
+        </div>
+        <img src="https://placem.at/things?w=1024&h=800&random=8" alt="">
+        <h1 class="slider-header">Other Events</h1>
+      </li>
+      <li data-thumb="https://placem.at/things?w=200&h=200&random=9" data-src="https://placem.at/things?w=1024&h=800&random=9">
+        <div class="slide-info">
+          <h1 class="slide-title">Project Name</h1>
+          <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
+        </div>
+        <img src="https://placem.at/things?w=1024&h=800&random=9" alt="">
+        <h1 class="slider-header">Other Events</h1>
+      </li>
+      <li data-thumb="https://placem.at/things?w=200&h=200&random=10" data-src="https://placem.at/things?w=1024&h=800&random=10">
+        <div class="slide-info">
+          <h1 class="slide-title">Project Name</h1>
+          <div class="slide-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Curabitur elementum dolor imperdiet nunc dignissim, eget mollis orci dignissim.</div>
+        </div>
+        <img src="https://placem.at/things?w=1024&h=800&random=10" alt="">
+        <h1 class="slider-header">Other Events</h1>
+      </li>
+    </ul>
+  </div>
+</section>

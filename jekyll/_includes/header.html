@@ -7,9 +7,7 @@
 		<button id="show-nav" aria-expanded="false" aria-controls="menu">Menu</button>
 		<ul class="nav-items">
 			{% for link in site.data.navigation %}
-	    <li class="
-	    	{% if page.title == link.title %} active {% endif %}
-	    	nav-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+	    	<li class="{% if page.title == link.title %} active {% endif %} nav-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
 	    {% endfor %}
 		</ul>
 		<div class="search-bar">

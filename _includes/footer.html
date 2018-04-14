@@ -6,14 +6,14 @@
 	    <li><a href="{{ link.url }}">{{ link.title }}</a></li>
 	    {% endfor %}
 		</ul>
-		<ul class="social-media">
-			{% for link in site.data.socialmedia %}
-	    <li><a href="{{ link.url }}"><i class="fa fa-{{ link.title | downcase }}"></i> {{ link.title }}</a></li>
-	    {% endfor %}
-		</ul>
 	</div>
 	<div class="right">
 		<div class="company-info">
+			<ul class="social-media">
+				{% for link in site.data.socialmedia %}
+		    <li><a href="{{ link.url }}"><i class="fa fa-{{ link.title | downcase }}"></i> {{ link.title }}</a></li>
+		    {% endfor %}
+			</ul>
 			<!-- <div class="address">
 				{{ site.data.companyinfo.address }}
 			</div> -->

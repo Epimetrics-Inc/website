@@ -317,9 +317,11 @@ footer .left {
 
 footer .sitemap,
 footer .social-media {
-	margin-right: 4em;
-	text-align: left;
 	list-style-type: none;
+}
+
+footer .sitemap {
+	margin-right: 4em;
 }
 
 footer a {

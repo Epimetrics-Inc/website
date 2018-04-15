@@ -115,6 +115,21 @@ header > .brand img {
 	display: block;
 }
 
+/* only for small screens */
+header > .brand img.square-logo {
+	display: none;
+}
+
+@media screen and (max-width: 450px) {
+	header > .brand img.square-logo {
+		display: block;
+	}
+
+	header > .brand img.full-logo {
+		display: none;
+	}
+}
+
 /* Navigation */
 nav.main-nav {
 	display: flex;

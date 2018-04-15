@@ -8,7 +8,8 @@ layout: page
   {% assign posts_size = site.posts | size %}
   {% if posts_size > 0 %}
     <div class="articles-grid">
-      {% for post in site.posts %}
+      {% assign posts = site.posts | sort: featured %}
+      {% for post in posts %}
       	<a href="{{ post.url | absolute_url }}" class="{% if post.featured %} featured {% endif %}
       		article">
       		<img src="{{ post.featured_image }}" alt="" class="article-image">

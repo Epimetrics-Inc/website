@@ -1560,3 +1560,21 @@ main.page-section section.wrapper {
 		width: 60%;
 	}
 }
+
+/* Search Results style */
+#search-results .section-description {
+	text-align: center;
+}
+
+#search-results ul {
+	width: 80%;
+	margin: 0 auto;
+	padding: 2em;
+	display: block;
+}
+
+#search-results ul li:not(:last-of-type) {
+	padding-bottom: 1em;
+	margin-bottom: 1em;
+	border-bottom: 1px solid var(--epimetrics-darkred);
+}

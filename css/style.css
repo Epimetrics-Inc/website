@@ -421,6 +421,22 @@ main section.with-background {
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
+	position: relative;
+}
+
+main section.with-background::before {
+	content: "";
+	display: block;
+	position: absolute;
+	background-color: rgba(0,0,0,0.35);
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+main section > * {
+	z-index: 5;
 }
 
 main section .section-heading {

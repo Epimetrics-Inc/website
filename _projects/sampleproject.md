@@ -5,6 +5,8 @@ author: hadrian_lim
 featured: true
 client: Sample Client Name
 infographic: https://placem.at/things?w=1024&h=800&random=infographic
+description: This is a sample description for this particular project. This is a required field. This can be a bit longer since it's a project description. But try to mind how many words you put in this project description.
+
 building_blocks:
 - "Leadership and Governance"
 - "Service Delivery"

@@ -1,8 +1,8 @@
 <!-- _includes/header.html -->
 <header id="header">
 	<a href="{{ site.url }}" class="brand">
-		<img class="full-logo" src="{{ site.baseurl }}/img/logo.png" alt="{{ site.title }}">
-		<img class="square-logo" src="{{ site.baseurl }}/img/logo-square.png" alt="{{ site.title }}">
+		<img class="full-logo" src="{% link img/logo.png %}" alt="{{ site.title }}">
+		<img class="square-logo" src="{% link img/logo-square.png %}" alt="{{ site.title }}">
 	</a>
 	<nav class="main-nav" role="navigation">
 		<button id="show-nav" aria-expanded="false" aria-controls="menu">Menu</button>
@@ -12,7 +12,7 @@
 	    {% endfor %}
 		</ul>
 		<div class="search-bar">
-			<form action="{{ site.baseurl }}/search.html" method="get" id="search-site">
+			<form action="{% link search.html %}" method="get" id="search-site">
 				<label for="search">
 					<i class="fa fa-search"></i>
 					<input type="search" id="search" placeholder="Search" name="query">

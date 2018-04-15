@@ -12,8 +12,25 @@ baseurl:
 collections:
   projects:
     output: true
-    permalink: /projects/:categories/:path/
+    # permalink: /projects/:categories/:path/
   events:
     output: false
   photos:
     output: false
+
+defaults:
+  -
+    scope:
+      path: "" # all paths
+      type: "posts"
+    values:
+      layout: "article"
+      featured: "false"
+      comments: "true"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      featured: "false"

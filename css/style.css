@@ -1400,12 +1400,18 @@ main.page-section section.wrapper {
 	-ms-grid-row-span: 1;
 	grid-row: 6 / 7;
 	display: block;
-	background-color: var(--epimetrics-gray-highlight);
-	width: 100%;
-	height: 600px;
+	width: 60%;
+	margin: 0 auto;
+	min-height: 500px;
 	text-align: center;
 	padding: 1em;
 	color: white;
+}
+
+@media screen and (max-width: 600px) {
+	#article-wrapper .article-comments {
+		width: 100%;
+	}
 }
 
 /* PROJECT styles */

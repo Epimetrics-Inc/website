@@ -1,6 +1,5 @@
 ---
 title: My First Article that has a Long Title
-layout: article
 
 # Article Details
 featured_image: https://placem.at/people?w=1024&h=800&random=group

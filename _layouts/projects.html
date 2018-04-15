@@ -2,26 +2,32 @@
 layout: page
 ---
 
-<section id="insights">
+<section id="projects">
   <h2 class="section-heading">
-    {% if page.category %}
-      {{ page.category.name }}
+    {% if page.building_block %}
+      {{ page.building_block }}
     {% else %}
       {{ page.title }}
     {% endif %}
   </h2>
 
-  {% assign projects_size = site.projects | size %}
+  {% assign project_list = site.projects %}
+
+  {% if page.building_block %}
+    {% assign project_list = site.projects | where_exp: "item", "item.building_blocks contains page.building_block" %}
+  {% endif %}
+
+  {% assign projects_size = project_list | size %}
   {% if projects_size > 0 %}
     <div class="articles-grid">
-      {% for project in site.projects %}
+      {% for project in project_list %}
       	<a href="{{ project.url | absolute_url }}" class="{% if project.featured %} featured {% endif %}
       		article">
       		<img src="{{ project.infographic }}" alt="" class="article-image">
       		<div class="article-info">
       			<h3 class="article-title">{{ project.title }}</h3>
       			<div class="article-client">For {{ project.client }}</div>
-      			<div class="article-tags">{{ project.tags | array_to_sentence_string }}</div>
+      			<div class="article-tags">{{ project.building_blocks | array_to_sentence_string }}</div>
       		</div>
     		</a>
       {% endfor %}

@@ -1,17 +1,20 @@
 $(document).ready(function() {
 	// for navbar
-			var navToggle = document.querySelector('#show-nav');
-			var navMenu = document.querySelector('.main-nav');
-			
-			navToggle.addEventListener('click', function() {
-				if (navMenu.classList.contains('is-active')) {
-					this.setAttribute('aria-expanded', 'false');
-					navMenu.classList.remove('is-active');
-				} else {
-					navMenu.classList.add('is-active');
-					this.setAttribute('aria-expanded', 'true');
-				}
-			});
+	var navToggle = document.querySelector('#show-nav');
+	var navMenu = document.querySelector('.main-nav');
+	
+	navToggle.addEventListener('click', function() {
+		if (navMenu.classList.contains('is-active')) {
+			this.setAttribute('aria-expanded', 'false');
+			navMenu.classList.remove('is-active');
+		} else {
+			navMenu.classList.add('is-active');
+			this.setAttribute('aria-expanded', 'true');
+		}
+	});
+
+	// resize image map on Solutions page
+	$('map').imageMapResize();
 
 	// Select all links with hashes
 	$('a[href*="#"]')

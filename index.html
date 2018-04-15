@@ -62,8 +62,7 @@ layout: default
 			<div class="section-description left">{{ site.data.homepageinfo.contact.description | markdownify }}</div>
 		</div>
 		<div class="right">
-			<form action="" id="contact-form">
-				<!-- TODO: add sending of contact messages to contact@epimetrics.com.ph -->
+			<form name="contact-form" method="POST" id="contact-form" netlify>
 				<label for="full-name">
 					Full Name
 					<input type="text" id="full-name" name="full-name" form="contact-form">
@@ -76,6 +75,7 @@ layout: default
 					Message
 					<textarea name="message" id="message" cols="30" rows="5"></textarea>
 				</label>
+				<div data-netlify-recaptcha></div>
 				<input type="submit" value="Send Message" form="contact-form">
 			</form>
 		</div>

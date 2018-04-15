@@ -454,8 +454,7 @@ main section > * {
 	z-index: 5;
 }
 
-main section .section-heading,
-main.page-section h1:first-of-type {
+main section .section-heading {
 	color: var(--epimetrics-red);
 	background-color: var(--white);
 	text-transform: uppercase;
@@ -928,8 +927,7 @@ main.page-section section {
 	margin-bottom: 2em;
 }
 
-main.page-section section .section-heading,
-main.page-section h1:first-of-type {
+main.page-section section .section-heading {
 	display: block;
 	width: 80%;
 	margin: 1em auto;
@@ -937,8 +935,7 @@ main.page-section h1:first-of-type {
 	border-bottom: 4px solid var(--epimetrics-darkred);
 }
 
-main.page-section section .section-heading::after,
-main.page-section h1:first-of-type::after {
+main.page-section section .section-heading::after {
 	content: " ";
 	display: block;
 	width: 25px;
@@ -948,8 +945,7 @@ main.page-section h1:first-of-type::after {
 	margin: 0 auto -40px;
 }
 
-main.page-section section .section-description,
-main.page-section p:first-of-type {
+main.page-section section .section-description {
 	width: 80%;
 	margin: 2em auto;
 }

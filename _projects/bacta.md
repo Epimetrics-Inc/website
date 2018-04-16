@@ -1,9 +1,9 @@
 ---
 title: A Study on Factors Influencing Drug Prices among National Public Hospitals
 date: 2018-03-01
-featured: true
+featured: false
 client: The Philippine Department of Health
-image: https://placem.at/things?w=1024&h=800&random=infographic
+image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/PCHRD_National%20GPP%20Scores.png
 description: |
   Essential medicines that meet the health needs of the population should be available and accessible at all times, in the appropriate dosage forms, and at prices affordable to all. However, in the Philippines, medicine purchase continues to make up a big chunk of out-of-pocket expenditures, especially among the poorest quintile, and drug procurement remains to be a problem. This project looked into factors influencing drug prices among Philippine public hospitals that can aid decision-makers in minimizing these inter-hospital variation in drug prices.
   
@@ -72,6 +72,6 @@ The policy recommendations are directed to the three main policies that affect t
 <br /> 
 Furthermore, data collection should include a larger sample size to allow for logistic regression and further data analysis should be done to evaluate the factors affecting individual drugs in the basket instead of pooling scores into one in each hospital.
 
-[Executive Summary]() [Policy Brief]() [Full Infographic]()
+[Executive Summary](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/Bacta%20Executive%20Sumary%20PDF.pdf) [Policy Brief](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/EpiMetrics_Drug%20Pricing%20Study_Policy%20Brief_03032018.pdf) [Full Infographic](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/EpiMetrics_Drug%20Pricing%20Study_National%20GPP%20Scores_02012018.pdf)
 
 **For more information on the study, email us at [contact@epimetrics.com.ph](contact@epimetrics.com.ph)**

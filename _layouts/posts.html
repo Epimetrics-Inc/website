@@ -8,9 +8,10 @@ layout: page
   {% assign posts_size = site.posts | size %}
   {% if posts_size > 0 %}
     <div class="articles-grid">
-      {% assign posts = site.posts | sort: featured %}
+      <!-- Featured Post -->
+      {% assign posts = site.posts | where: "featured", "true" %}
       {% for post in posts %}
-      	<a href="{{ post.url | absolute_url }}" class="{% if post.featured == true %}featured{% endif %} article">
+      	<a href="{{ post.url | absolute_url }}" class="featured article">
       		<img src="{{ post.featured_image }}" alt="" class="article-image">
       		<div class="article-info">
       			<h3 class="article-title">{{ post.title }}</h3>
@@ -19,6 +20,19 @@ layout: page
       			<div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
       		</div>
     		</a>
+      {% endfor %}
+
+      {% assign posts = site.posts | where: "featured", "false" %}
+      {% for post in posts %}
+        <a href="{{ post.url | absolute_url }}" class="article">
+          <img src="{{ post.featured_image }}" alt="" class="article-image">
+          <div class="article-info">
+            <h3 class="article-title">{{ post.title }}</h3>
+            {% assign author = site.data.team[post.author] %}
+            <div class="article-author">{{ author.name }}</div>
+            <div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
+          </div>
+        </a>
       {% endfor %}
     </div>
   {% else %}

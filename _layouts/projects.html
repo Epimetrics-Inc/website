@@ -10,19 +10,25 @@ layout: page
       {{ page.title }}
     {% endif %}
   </h2>
-
-  {% assign project_list = site.projects | sort: featured %}
+  <!-- Featured Project -->
+  {% assign project_list = site.projects %}
 
   {% if page.building_block %}
-    {% assign project_list = site.projects | where_exp: "item", "item.building_blocks contains page.building_block" | sort: featured %}
+    {% assign project_list = site.projects | where_exp: "item", "item.building_blocks contains page.building_block" %}
   {% endif %}
 
   {% assign projects_size = project_list | size %}
   {% if projects_size > 0 %}
     <div class="articles-grid">
-      {% for project in project_list %}
-      	<a href="{{ project.url | absolute_url }}" class="{% if project.featured %} featured {% endif %}
-      		article">
+      <!-- Featured Project -->
+      {% assign projects = project_list | where: "featured", "true" %}
+
+      {% if page.building_block %}
+        {% assign projects = project_list | where_exp: "item", "item.building_blocks contains page.building_block" | where: "featured", "true" %}
+      {% endif %}
+
+      {% for project in projects %}
+      	<a href="{{ project.url | absolute_url }}" class="featured article">
       		<img src="{{ project.image }}" alt="" class="article-image">
       		<div class="article-info">
       			<h3 class="article-title">{{ project.title }}</h3>
@@ -31,6 +37,25 @@ layout: page
       			<div class="article-tags">{{ project.building_blocks | array_to_sentence_string }}</div>
       		</div>
     		</a>
+      {% endfor %}
+
+      <!-- Regular Projects -->
+      {% assign projects = project_list | where: "featured", "false" %}
+
+      {% if page.building_block %}
+        {% assign projects = project_list | where_exp: "item", "item.building_blocks contains page.building_block" | where: "featured", "false" %}
+      {% endif %}
+
+      {% for project in projects %}
+        <a href="{{ project.url | absolute_url }}" class="article">
+          <img src="{{ project.image }}" alt="" class="article-image">
+          <div class="article-info">
+            <h3 class="article-title">{{ project.title }}</h3>
+            {% assign client = site.data.clients[project.client] %}
+            <div class="article-client">For {{ client.name }}</div>
+            <div class="article-tags">{{ project.building_blocks | array_to_sentence_string }}</div>
+          </div>
+        </a>
       {% endfor %}
     </div>
   {% else %}

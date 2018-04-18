@@ -3,7 +3,7 @@ title: Another Sample Article
 
 # Article Details
 featured_image: https://placem.at/people?w=1024&h=800&random=group
-date: 2018-04-15
+date: 2018-02-15
 author: jac_lin_yu
 ---
 

@@ -11,6 +11,23 @@ description: |
 
   First, the Drug Price Reference Index (DPRI) should be tailored to the location (e.g, having a regional DPRI) and hospital category in order to allow for flexibility in the procurement process and decrease failed biddings. Second, a stricter implementation of R.A. 9184 or the Government Procurement Reform Act (GPRA) must be enforced given that as much as 30% of hospitals only use past consumption for procurement planning, disregarding other useful indicators for proper forecasting. GPRA guidelines must be reviewed and revised to include measures that will prevent supplier collusion and to explore alternative modes of procurement other than public bidding. Lastly, the Generics Law should include provisions to incentivize generic drug procurement, as there are still hospitals that procure 100% branded drugs.
 
+authors:
+- name: John Q. Wong, MD, MSc
+  role: Principal Investigator
+  photo_url: https://placem.at/people?random=1
+- name: Geminn Louis C. Apostol, MD-MBA
+  role: Co-Investigator
+  photo_url: https://placem.at/people?random=2
+- name: Cheyenne Ariana Erika M. Modina
+  role: Research Associate
+  photo_url: https://placem.at/people?random=3
+- name: Joya Bagas
+  role: Research Assistant
+  photo_url: https://placem.at/people?random=4
+- name: Krizelle Cleo Fowler
+  role: Statistician
+  photo_url: https://placem.at/people?random=5
+
 building_blocks:
 - "Access to Essential Medicine"
 ---

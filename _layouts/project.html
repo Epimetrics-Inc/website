@@ -18,18 +18,16 @@ permalink: /project/:building_blocks/:title
 	</div>
 
 	<div class="project-staff">
-		{% if author.size > 1 %}
-			i have multiple authors
-		{% else %}
-			{% assign author = site.data.team[page.author] %}
-			<div class="featured-staff">
-				<div class="staff-info">
-					<h3 class="staff-name">{{ author.name }}</h3>
-					<h5 class="staff-position">{{ author.roles }}</h5>
+		<div class="staff-wrapper">
+			{% for author in page.authors %}
+				<div class="staff">
+					<img src="{{ author.photo_url }}" alt="">
+					<div class="info">
+						<h3 class="name">{{ author.name }}</h3>
+						<h5 class="position">{{ author.role }}</h5>
+					</div>
 				</div>
-				<img src="{{ author.photo_url }}" alt="">
-				<div class="staff-description">{{ author.description }}</div>
-			</div>
-		{% endif %}
+			{% endfor %}
+		</div>
 	</div>
 </section>

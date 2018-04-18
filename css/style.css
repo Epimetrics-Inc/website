@@ -1481,6 +1481,9 @@ main.page-section section.wrapper {
 }
 
 .staff-wrapper .staff img {
+	width: 10rem;
+	height: 10rem;
+	object-fit: cover;
 	border-radius: 50%;
 }
 

@@ -928,6 +928,7 @@ main.page-section section {
 
 main.page-section section .section-heading {
 	display: block;
+	background-color: transparent;
 	width: 80%;
 	margin: 1em auto;
 	padding-bottom: 25px;
@@ -1119,9 +1120,13 @@ main.page-section section.wrapper {
 }
 
 /* SOLUTIONS page */
+#solutions {
+	margin-bottom: 0;
+}
+
 #building-blocks {
 	width: 80%;
-	margin: 0 auto 2em;
+	margin: 0 auto 4em;
 	display: block;
 }
 
@@ -1130,6 +1135,40 @@ main.page-section section.wrapper {
 	width: 100%;
 	height: auto;
 	margin: 0 auto;
+}
+
+#clients {
+	padding-bottom: 1em;
+	display: block;
+	background-color: var(--epimetrics-lightgray);
+}
+
+#clients .client-logos {
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.client-logos img {
+	max-width: 20rem;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+	object-fit: contain;
+}
+
+@media screen and (max-width: 600px) {
+	#clients .client-logos {
+		width: 100%;
+		display: block;
+	}
+
+	.client-logos img {
+		max-width: 80%;
+		margin: 2em auto;
+	}
 }
 
 /* INSIGHTS page */

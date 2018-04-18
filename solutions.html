@@ -22,4 +22,16 @@ layout: page
         <area alt="Access to Essential Medicines" title="Access to Essential Medicines" href="projects/access-to-essential-medicines" coords="348,128,202,127,134,251,202,372,349,373,418,250" shape="poly">
     </map>
   </div>
+
+  {% assign clients_size = site.data.clients | size %}
+  {% if clients_size > 0 %}
+    <div id="clients">
+      <h2 class="section-heading">Our Clients</h2>
+      <div class="client-logos">
+        {% for client in site.data.clients %}
+          <img src="{{ client[1].logo_url }}" alt="{{ client[0].name }}" title="{{ client[0].name }}">
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
 </section>

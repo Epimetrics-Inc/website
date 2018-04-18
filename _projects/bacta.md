@@ -1,8 +1,7 @@
 ---
 title: A Study on Factors Influencing Drug Prices among National Public Hospitals
 date: 2018-03-01
-featured: false
-client: The Philippine Department of Health
+client: philhealth
 image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/PCHRD_National%20GPP%20Scores.png
 description: |
   Essential medicines that meet the health needs of the population should be available and accessible at all times, in the appropriate dosage forms, and at prices affordable to all. However, in the Philippines, medicine purchase continues to make up a big chunk of out-of-pocket expenditures, especially among the poorest quintile, and drug procurement remains to be a problem. This project looked into factors influencing drug prices among Philippine public hospitals that can aid decision-makers in minimizing these inter-hospital variation in drug prices.

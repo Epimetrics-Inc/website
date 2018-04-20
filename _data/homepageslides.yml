@@ -3,16 +3,16 @@
 
 - title: First slide title, will be replaced
   background_image: https://placem.at/people?random=1
-  description: This is a sample short, descriptive paragraph of the company. This can be up to maybe three lines, depending on the size of the screen and how it's styled.
+  description: EpiMetrics is a research institution that advances health equity through rigorous and creative research conception, execution, translation, and communication.
 
 - title: Another demonstration
   background_image: https://placem.at/things?random=2
-  description: Another demonstration of what could be placed here. To update this, go to _data/homepageslides.yml.
+  description: EpiMetrics is a research institution that advances health equity through rigorous and creative research conception, execution, translation, and communication.
 
 - title: Something to take note
   background_image: https://placem.at/places?random=1
-  description: Something to take note though, is that the first slide will always be set to the site's tagline (defined in _config.yml).
+  description: EpiMetrics is a research institution that advances health equity through rigorous and creative research conception, execution, translation, and communication.
 
 - title: Something to take note, continued
   background_image: https://placem.at/places?random=2
-  description: If you want to change your tagline, simply go to _config.yml and change the 'tagline:' value. If you don't want your tagline shown on the first slide, go to index.html.
+  description: EpiMetrics is a research institution that advances health equity through rigorous and creative research conception, execution, translation, and communication.

@@ -1181,19 +1181,22 @@ main.page-section section.wrapper {
 	margin: 0 auto;
 	-ms-grid-columns: (1fr)[3];
 	    grid-template-columns: repeat(3, 1fr);
-	-ms-grid-rows: fit-content(100%);
-	    grid-template-rows: fit-content(100%);
+	    grid-template-rows: minmax(40vh, max-content);
 	grid-gap: 1.5em;
 }
 
 .articles-grid .article {
 	grid-column: span 1;
-	grid-row: span 1;
+	grid-row: span auto;
 	display: block;
 	position: relative;
+	padding: 1em;
 	width: 100%;
-	height: 40vh;
+	min-height: 40vh;
+	height: auto;
 	background-color: var(--epimetrics-gray-highlight);
+	background-position: center;
+	background-size: cover;
 	transition: 0.3s ease;
 	box-shadow: 0 1px 2px rgba(0,0,0,0.4);
 }
@@ -1206,30 +1209,13 @@ main.page-section section.wrapper {
 	z-index: 20;
 }
 
-.articles-grid .article .article-image {
-	display: block;
-	width: 100%;
-	height: 100%;
-	-o-object-fit: cover;
-	   object-fit: cover;
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	z-index: 1;
-}
-
 .articles-grid .article .article-info {
 	display: block;
-	position: absolute;
-	bottom: 1em;
-	left: 1em;
 	padding: 1em;
 	background-color: var(--white);
 	color: var(--epimetrics-red);
 	z-index: 10;
-	width: 70%;
+	max-width: 90%;
 }
 
 .articles-grid .article .article-info .article-title {
@@ -1253,7 +1239,6 @@ main.page-section section.wrapper {
 }
 
 .articles-grid .featured.article .article-info {
-	width: 40%;
 	background-color: var(--epimetrics-red);
 	color: var(--white);
 }
@@ -1263,7 +1248,7 @@ main.page-section section.wrapper {
 	color: var(--epimetrics-lightgray);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 960px) {
 	.articles-grid {
 		display: block;
 	}
@@ -1285,6 +1270,24 @@ main.page-section section.wrapper {
 
 	.articles-grid .featured.article .article-info {
 		width: 50%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.articles-grid .article {
+		min-height: 30vh;
+		height: auto;
+		padding: 1em;
+	}
+
+	.articles-grid .article .article-image {
+		z-index: -10;
+	}
+
+	.articles-grid .article .article-info {
+		position: initial;
+		width: auto;
+		max-width: 85%;
 	}
 }
 

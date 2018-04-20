@@ -4,6 +4,9 @@ layout: page
 
 <section id="insights">
   <h2 class="section-heading">{{ page.title }}</h2>
+  <div class="section-description">
+    {{ content }}
+  </div>
 
   {% assign posts_size = site.posts | size %}
   {% if posts_size > 0 %}
@@ -11,8 +14,7 @@ layout: page
       <!-- Featured Post -->
       {% assign posts = site.posts | where: "featured", "true" %}
       {% for post in posts %}
-      	<a href="{{ post.url | absolute_url }}" class="featured article">
-      		<img src="{{ post.featured_image }}" alt="" class="article-image">
+      	<a href="{{ post.url | absolute_url }}" class="featured article" {% if post.featured_image %}style="background-image: url({{ post.featured_image }});"{% endif %}>
       		<div class="article-info">
       			<h3 class="article-title">{{ post.title }}</h3>
       			{% assign author = site.data.team[post.author] %}
@@ -24,8 +26,7 @@ layout: page
 
       {% assign posts = site.posts | where: "featured", "false" %}
       {% for post in posts %}
-        <a href="{{ post.url | absolute_url }}" class="article">
-          <img src="{{ post.featured_image }}" alt="" class="article-image">
+        <a href="{{ post.url | absolute_url }}" class="article" {% if post.featured_image %}style="background-image: url({{ post.featured_image }});"{% endif %}>
           <div class="article-info">
             <h3 class="article-title">{{ post.title }}</h3>
             {% assign author = site.data.team[post.author] %}

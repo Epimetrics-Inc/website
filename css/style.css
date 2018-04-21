@@ -355,7 +355,7 @@ footer .social-media {
 }
 
 footer .sitemap {
-	margin-right: 4em;
+	margin-left: 0;
 }
 
 footer a {
@@ -857,7 +857,7 @@ main.main section .section-footer .section-button:focus::before {
 
 	#contact-us .circle {
 		position: initial;
-		margin: -90px auto 0;
+		margin: -25px auto 0;
 	}
 
 	#contact-us .left,

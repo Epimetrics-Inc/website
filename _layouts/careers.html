@@ -4,9 +4,12 @@ layout: page
 
 <section id="careers">
   <h2 class="section-heading">Work With Us</h2>
-  <div class="section-description">
-    {{ content }}
-  </div>
+  {% assign content = post.content | strip_newlines %}
+  {% if content != "" %}
+    <div class="section-description">
+      {{ content }}
+    </div>
+  {% endif %}
 
   {% if site.data.jobopenings %}
     <div class="jobs">

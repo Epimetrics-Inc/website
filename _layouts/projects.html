@@ -10,24 +10,40 @@ layout: page
       {{ page.title }}
     {% endif %}
   </h2>
+  {% assign content = post.content | strip_newlines %}
+  {% if content != "" %}
+    <div class="section-description">
+      {{ content }}
+    </div>
+  {% endif %}
+
   <!-- Featured Project -->
   {% assign project_list = site.projects %}
-
+  {% assign featured_project_list = project_list | where: "featured", "true" %}
+  
   {% if page.building_block %}
+    <!-- Check if page is for Building Block -->
     {% assign project_list = site.projects | where_exp: "item", "item.building_blocks contains page.building_block" %}
+    {% assign featured_project_list = project_list | where: "featured", "true" %}
   {% endif %}
 
   {% assign projects_size = project_list | size %}
+  
+  <!-- check if there are any projects -->
   {% if projects_size > 0 %}
+
+    {% assign featured_projects_size = featured_project_list | size %}
+    {% if featured_projects_size == 0 %}
+      {% if page.building_block %}
+        {% assign first_project_in_list = project_list | first %}
+
+        {% assign featured_project_list = featured_project_list | push: first_project_in_list %}
+      {% endif %}
+    {% endif %}
+
     <div class="articles-grid">
       <!-- Featured Project -->
-      {% assign projects = project_list | where: "featured", "true" %}
-
-      {% if page.building_block %}
-        {% assign projects = project_list | where_exp: "item", "item.building_blocks contains page.building_block" | where: "featured", "true" %}
-      {% endif %}
-
-      {% for project in projects %}
+      {% for project in featured_project_list %}
       	<a href="{{ project.url | absolute_url }}" class="featured article" {% if project.image %}style="background-image: url({{ project.image }});"{% endif %}>
       		<div class="article-info">
       			<h3 class="article-title">{{ project.title }}</h3>
@@ -46,6 +62,7 @@ layout: page
       {% endif %}
 
       {% for project in projects %}
+        {% if project.name == featured_project_list[0].name %}{% continue %}{% endif %}
         <a href="{{ project.url | absolute_url }}" class="article" {% if project.image %}style="background-image: url({{ project.image }});"{% endif %}>
           <div class="article-info">
             <h3 class="article-title">{{ project.title }}</h3>

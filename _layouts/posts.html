@@ -4,9 +4,12 @@ layout: page
 
 <section id="insights">
   <h2 class="section-heading">{{ page.title }}</h2>
-  <div class="section-description">
-    {{ content }}
-  </div>
+  {% assign content = post.content | strip_newlines %}
+  {% if content != "" %}
+    <div class="section-description">
+      {{ content }}
+    </div>
+  {% endif %}
 
   {% assign posts_size = site.posts | size %}
   {% if posts_size > 0 %}

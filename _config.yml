@@ -21,6 +21,11 @@ collections:
 defaults:
   -
     scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
       path: "" # all paths
       type: "posts"
     values:

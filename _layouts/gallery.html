@@ -8,14 +8,16 @@ layout: page
 			{% assign items = site[page.source] %}
 			
 			{% for item in items %}
-				<li data-thumb="{{ item.image }}" data-src="{{ item.image }}">
-					<div class="slide-info">
-						<h1 class="slide-title">{{ item.title }}</h1>
-						<div class="slide-description">{{ item.description | markdownify }}</div>
-					</div>
-					<img src="{{ item.image }}" alt="">
-					<h1 class="slider-header">Other {{ page.source | capitalize }}</h1>
-				</li>
+				{% if item.image %}
+					<li data-thumb="{{ item.image }}" data-src="{{ item.image }}">
+						<div class="slide-info">
+							<h1 class="slide-title">{{ item.title }}</h1>
+							<div class="slide-description">{{ item.description | markdownify }}</div>
+						</div>
+						<img src="{{ item.image }}" alt="">
+						<h1 class="slider-header">Other {{ page.source | capitalize }}</h1>
+					</li>
+				{% else %} {% continue %} {% endif %}
 			{% endfor %}
 		</ul>
 	</div>

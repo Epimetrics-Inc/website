@@ -62,7 +62,7 @@ layout: page
       {% endif %}
 
       {% for project in projects %}
-        {% if project.name == featured_project_list[0].name %}{% continue %}{% endif %}
+        {% if project.title == featured_project_list[0].title %}{% continue %}{% endif %}
         <a href="{{ project.url | absolute_url }}" class="article" {% if project.image %}style="background-image: url({{ project.image }});"{% endif %}>
           <div class="article-info">
             <h3 class="article-title">{{ project.title }}</h3>

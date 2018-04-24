@@ -47,7 +47,7 @@ layout: page
       	<a href="{{ project.url | absolute_url }}" class="featured article" {% if project.image %}style="background-image: url({{ project.image }});"{% endif %}>
       		<div class="article-info">
       			<h3 class="article-title">{{ project.title }}</h3>
-            {% assign client = site.data.clients[project.client] %}
+            {% assign client = site.data.partners[project.partners] %}
       			<div class="article-client">For {{ client.name }}</div>
       			<div class="article-tags">{{ project.building_blocks | array_to_sentence_string }}</div>
       		</div>

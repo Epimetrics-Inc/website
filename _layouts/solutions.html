@@ -21,17 +21,17 @@ layout: page
         <area alt="Service Delivery" title="Service Delivery" href="{% link projects-service_delivery.html %}" coords="647,127,790,127,860,250,790,373,647,374,575,251" shape="poly">
         <area alt="Financing" title="Financing" href="{% link projects-financing.html %}" coords="645,380,577,504,647,626,790,627,860,505,791,381" shape="poly">
         <area alt="Human Resources" title="Human Resources" href="{% link projects-human_resources.html %}" coords="568,508,425,510,355,634,425,751,567,753,637,632" shape="poly">
-        <area alt="Human Information Systems" title="Human Information Systems" href="{% link projects-human_information_systems.html %}" coords="348,380,204,383,133,505,203,625,348,626,416,504" shape="poly">
+        <area alt="Health Information Systems" title="Health Information Systems" href="{% link projects-health_information_systems.html %}" coords="348,380,204,383,133,505,203,625,348,626,416,504" shape="poly">
         <area alt="Access to Essential Medicines" title="Access to Essential Medicines" href="{% link projects-access_to_essential_medicines.html %}" coords="348,128,202,127,134,251,202,372,349,373,418,250" shape="poly">
     </map>
   </div>
 
-  {% assign clients_size = site.data.clients | size %}
+  {% assign clients_size = site.data.partners | size %}
   {% if clients_size > 0 %}
     <div id="clients">
-      <h2 class="section-heading">Our Clients</h2>
+      <h2 class="section-heading">Our Partners</h2>
       <div class="client-logos">
-        {% for client in site.data.clients %}
+        {% for client in site.data.partners %}
           <img src="{{ client[1].logo_url }}" alt="{{ client[0].name }}" title="{{ client[0].name }}">
         {% endfor %}
       </div>

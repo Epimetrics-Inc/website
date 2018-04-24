@@ -1,0 +1,21 @@
+# _data/partners.yml
+
+PCHRD:
+  name: Philippine Council for Health Research and Development
+  logo_url: img/logos/pchrd.png
+PhilHealth:
+  name: Philippine Health Insurance Corporation
+  logo_url: img/logos/PhilHealth.png
+DOH:
+  name: The Philippine Department of Health
+  logo_url: img/logos/DOH.png
+UNICEF:
+  name: UNICEF
+  logo_url: img/logos/UNICEF.png
+ADB:
+  name: ADB
+  logo_url: img/logos/adb.png
+PFP:
+  name: Physicians For Peace Philippines
+  logo_url: img/logos/PFP.jpg 
+  

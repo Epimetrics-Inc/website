@@ -1,18 +1,14 @@
 # _data/homepageslides.yml
 # Contains slide details for the main page slider
 
-- title: First slide title, will be replaced
-  background_image: https://placem.at/people?random=1
+- title: Health Equity Through Research
+  background_image: /img/herobanner_01.jpg
   description: EpiMetrics is a research institution that advances health equity through rigorous and creative research conception, execution, translation, and communication.
 
-- title: Another demonstration
-  background_image: https://placem.at/things?random=2
+- title: Health Equity Through Research
+  background_image: /img/herobanner_02.jpg
   description: EpiMetrics is a research institution that advances health equity through rigorous and creative research conception, execution, translation, and communication.
 
-- title: Something to take note
-  background_image: https://placem.at/places?random=1
-  description: EpiMetrics is a research institution that advances health equity through rigorous and creative research conception, execution, translation, and communication.
-
-- title: Something to take note, continued
-  background_image: https://placem.at/places?random=2
+- title: Health Equity Through Research
+  background_image: /img/herobanner_03.jpg
   description: EpiMetrics is a research institution that advances health equity through rigorous and creative research conception, execution, translation, and communication.

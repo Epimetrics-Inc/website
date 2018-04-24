@@ -5,12 +5,12 @@
 solutions:
   title: Solutions
   description: EpiMetrics, Inc. offers independent research and consulting services dedicated to promoting better health outcomes through evidence-based assessments of health policies, service delivery, financing, human resources, health information systems, and access to essential medicines.
-  background_image: /img/bg-solutions.jpg
+  background_image: /img/solutionsbanner_01.jpg
 
 insights:
   title: Insights
   description: Read up on the latest resources, analyses, and commentaries on various issues inside and outside the field of health facing the Philippines and the world at large.
-  background_image: /img/bg-insights.jpg
+  background_image: /img/insightsbanner_01.jpg
 
 about:
   title: About Us
@@ -22,9 +22,9 @@ about:
     We pave new roads for the next generation of researchers who will develop the Philippine health system for decades to come.
 
   featured_images:
-    - /img/sample-01.jpg
-    - /img/sample-02.jpg
-    - /img/sample-03.jpg
+    - /img/banner_02.jpg
+    - /img/banner_01.jpg
+    - /img/banner_03.jpg
 
 contact:
   title: Contact Us

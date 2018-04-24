@@ -3,119 +3,120 @@
 john_q_wong:
   name: John Q. Wong, MD, MSc
   roles: Chairman of the Board, Founder
-  photo_url: https://placem.at/people?w=250&h=250&random=1
+  photo_url: /img/staff/JQW.png
   quote: "In pursuit of miracles; Philippians 4:13"
   description: "This is a sample description for this person."
   links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: johnqwong@gmail.com
+    # linkedin: https://ph.linkedin.com/sample
 
 diana_beatriz_bayani:
   name: Diana Beatriz Bayani, MSc
   roles: Board Member, Founder
-  photo_url: https://placem.at/people?w=250&h=250&random=2
+  photo_url: http://via.placeholder.com/250x250
   quote: "I am a sample quote."
   description: "This is a sample description for this person."
   links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
 
 neil_jason_haw:
   name: Neil Jason Haw, MSc
   roles: Executive Director, Founder
-  photo_url: https://placem.at/people?w=250&h=250&random=3
+  photo_url: /img/staff/NJH.png
   quote: "I am a sample quote."
   description: "This is a sample description for this person."
   links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
 
 jac_lin_yu:
   name: Jac Lin Yu
   roles: Finance and Accounting Officer
-  photo_url: https://placem.at/people?w=250&h=250&random=4
+  photo_url: /img/staff/JLY.png
   quote: "I am a sample quote."
   description: "This is a sample description for this person."
   links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
 
 stephanie_anne_co:
   name: Stephanie Anne Co, MD-MBA
   roles: Research Operations Officer
-  photo_url: https://placem.at/people?w=250&h=250&random=5
+  photo_url: /img/staff/SAC.png
   quote: "I am a sample quote."
   description: "This is a sample description for this person."
   links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
 
 cheyenne_modina:
   name: Cheyenne Ariana Erika Modina
   roles: Innovations Officer
-  photo_url: https://placem.at/people?w=250&h=250&random=6
+  photo_url: /img/staff/EM.png
   quote: "I am a sample quote."
   description: "This is a sample description for this person."
   links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
+
+hadrian_lim:
+  name: Hadrian Paulo Lim, MS
+  roles: Information Technology Officer
+  photo_url: /img/staff/HML.png
+  quote: "I am a sample quote."
+  description: "This is a sample description for this person."
+  links:
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
+
 
 johnny_tamon:
   name: Johnny Raymund Tamon, MD-MBA
   roles: Human Resources Officer
-  photo_url: https://placem.at/people?w=250&h=250&random=7
+  photo_url: /img/staff/JRT.png
   quote: "I am a sample quote."
   description: "This is a sample description for this person."
   links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
-
-hadrian_lim:
-  name: Hadrian Paulo Lim, MSc
-  roles: Information Technology Officer
-  photo_url: https://placem.at/people?w=250&h=250&random=8
-  quote: "I am a sample quote."
-  description: "This is a sample description for this person."
-  links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
 
 kath_baladad:
   name: Anne Kathlyn A. Baladad
   roles: Marketing and Communications Officer
-  photo_url: https://placem.at/people?w=250&h=250&random=9
+  photo_url: /img/staff/AKB.png
   quote: "I am a sample quote."
   description: "This is a sample description for this person."
   links:
-    email: katya.baladad@gmail.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: katya.baladad@gmail.com
+    # linkedin: https://ph.linkedin.com/sample
 
 bernell_go:
   name: Bernell Go
   roles: Executive Assistant, Office Manager
-  photo_url: https://placem.at/people?w=250&h=250&random=10
+  photo_url: /img/staff/BG.png
   quote: "I am a sample quote."
   description: "This is a sample description for this person."
   links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
 
 cleo_fowler:
   name: Krizelle Cleo Fowler
   roles: Quantitative Specialist
-  photo_url: https://placem.at/people?w=250&h=250&random=11
+  photo_url: /img/staff/CF.png
   quote: "I am a sample quote."
   description: "This is a sample description for this person."
   links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
 
 abigail_lim:
   name: Abigail E. Lim
   roles: Qualitative Specialist
-  photo_url: https://placem.at/people?w=250&h=250&random=12
+  photo_url: /img/staff/AEL.png
   quote: "I am a sample quote."
   description: "This is a sample description for this person."
   links:
-    email: sample@email.com
-    linkedin: https://ph.linkedin.com/sample
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample

@@ -11,35 +11,30 @@ description: |
 authors:
 - name: John Q. Wong, MD, MSc
   role: Principal Investigator
-  photo_url: https://placem.at/people?random=1
-- name: Geminn Louis C. Apostol, MD-MBA
+  photo_url: /img/staff/JQW.png
+- name: Johnny Raymund Tamon, MD-MBA
   role: Co-Investigator
-  photo_url: https://placem.at/people?random=2
-- name: Cheyenne Ariana Erika M. Modina
+  photo_url: /img/staff/JRT.png
+- name: Nico Angelo Rabang
   role: Research Associate
-  photo_url: https://placem.at/people?random=3
-- name: Joya Bagas
+  photo_url: http://via.placeholder.com/250x250
+- name: Jean Alexis Go
   role: Research Assistant
-  photo_url: https://placem.at/people?random=4
+  photo_url: http://via.placeholder.com/250x250
+- name: Christine Ingrid Espinosa
+  role: Research Assistant
+  photo_url: http://via.placeholder.com/250x250
+- name: Abigail Lim
+  role: Qualitative Specialist
+  photo_url: /img/staff/AEL.png
 - name: Krizelle Cleo Fowler
   role: Statistician
-  photo_url: https://placem.at/people?random=5
+  photo_url: /img/staff/CF.png
 
 building_blocks:
 - "Health Information Systems"
 - "Leadership and Governance"
 ---
-
-#### Research Authors and Staff:
-Principal Investigator: John Q. Wong, MD, MSc
-
-Co-Investigator: Geminn Louis C. Apostol, MD-MBA
-
-Research Associate: Cheyenne Ariana Erika M. Modina
-
-Research Assistant: Joya Bagas
-
-Statistician: Krizelle Cleo Fowler
 
 # I. Introduction
 

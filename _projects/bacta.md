@@ -13,34 +13,23 @@ description: |
 authors:
 - name: John Q. Wong, MD, MSc
   role: Principal Investigator
-  photo_url: https://placem.at/people?random=1
+  photo_url: /img/staff/JQW.png
 - name: Geminn Louis C. Apostol, MD-MBA
   role: Co-Investigator
-  photo_url: https://placem.at/people?random=2
+  photo_url: http://via.placeholder.com/250x250
 - name: Cheyenne Ariana Erika M. Modina
   role: Research Associate
-  photo_url: https://placem.at/people?random=3
+  photo_url: /img/staff/EM.png
 - name: Joya Bagas
   role: Research Assistant
-  photo_url: https://placem.at/people?random=4
+  photo_url: http://via.placeholder.com/250x250
 - name: Krizelle Cleo Fowler
   role: Statistician
-  photo_url: https://placem.at/people?random=5
+  photo_url: /img/staff/CF.png
 
 building_blocks:
 - "Access to Essential Medicine"
 ---
-
-#### Research Authors and Staff:
-Principal Investigator: John Q. Wong, MD, MSc
-
-Co-Investigator: Geminn Louis C. Apostol, MD-MBA
-
-Research Associate: Cheyenne Ariana Erika M. Modina
-
-Research Assistant: Joya Bagas
-
-Statistician: Krizelle Cleo Fowler
 
 # I. Introduction
 
@@ -71,7 +60,7 @@ On the other hand, factors relating to the hospital’s mark-up are:
   2. Their distance from the centroid
   3. Their compliance to the World Health Organization’s Good Procurement Practice principle on Quality Assurance
   4. The relevance and expertise of their procurement staff on procurement functions
-  5. % of generic drugs that they procure
+  5. The percentage of generic drugs that they procure
   6. Time out of stock of the indicator drugs.
 
 <br /> 

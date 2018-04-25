@@ -4,12 +4,12 @@ layout: page
 
 <section id="careers">
   <h2 class="section-heading">Work With Us</h2>
-  {% assign content = post.content | strip_newlines %}
-  {% if content != "" %}
+  {% assign is_there_content = page.content | strip_newlines %}
+  {% unless is_there_content == "" %}
     <div class="section-description">
       {{ content }}
     </div>
-  {% endif %}
+  {% endunless %}
 
   {% if site.data.jobopenings %}
     <div class="jobs">
@@ -22,8 +22,10 @@ layout: page
       {% endfor %}
     </div>
   {% else %}
-    <h2 class="section-description">No Openings At The Moment.</h2>
-    <h2 class="section-description">Still Interested?</h2>
-    <h2 class="section-description">Send us your resume at <a href="mailto:hr@epimetrics.com.ph?Subject=I&20am%20awesome" target="_top"">hr@epimetrics.com.ph</a> and we'll get in touch.</h2>
+    <div class="section-description center">
+      <h2>No Openings At The Moment.</h2>
+      <p>Still Interested?</p>
+      <p>Send us your resume at <a href="mailto:hr@epimetrics.com.ph?Subject=I&20am%20awesome" target="_top"">hr@epimetrics.com.ph</a> and we'll get in touch.</p>
+    </div>
   {% endif %}
 </section>

@@ -10,12 +10,12 @@ layout: page
       {{ page.title }}
     {% endif %}
   </h2>
-  {% assign content = post.content | strip_newlines %}
-  {% if content != "" %}
+  {% assign is_there_content = page.content | strip_newlines %}
+  {% unless is_there_content == "" %}
     <div class="section-description">
       {{ content }}
     </div>
-  {% endif %}
+  {% endunless %}
 
   <!-- Featured Project -->
   {% assign project_list = site.projects %}

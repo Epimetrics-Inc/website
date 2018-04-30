@@ -1707,6 +1707,12 @@ main.page-section section.wrapper {
 	background-color: rgba(255,255,255,0.8);
 	color: #000;
 	color: var(--text-color);
+	opacity: 1;
+	transition: opacity 0.6s ease;
+}
+
+.gallery-slider li .slide-info:hover {
+	opacity: 0;
 }
 
 .gallery-slider li .slide-info .slide-title {

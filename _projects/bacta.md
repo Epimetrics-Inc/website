@@ -26,9 +26,6 @@ authors:
 - name: Krizelle Cleo Fowler
   role: Statistician
   photo_url: /img/staff/CF.png
-- name: Krizelle Cleo Fowler
-  role: Statistician
-  photo_url: /img/staff/CF.png
 
 building_blocks:
 - "Access to Essential Medicine"

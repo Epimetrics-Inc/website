@@ -15,6 +15,8 @@ $(document).ready(function() {
 
 	// resize image map on Solutions page
 	$('map').imageMapResize();
+
+	// add highlight on image map
 	$('.imagemap').maphilight({
 		'stroke':false,
 		'fillColor':'cc3333',
@@ -42,13 +44,21 @@ $(document).ready(function() {
 	        // Only prevent default if animation is actually gonna happen
 	        event.preventDefault();
 	        $('html, body').animate({
-	          scrollTop: target.offset().top - ($('#header').height() + 50)
+	          scrollTop: target.offset().top - ($('#header').innerHeight() + 50)
 	        }, 1000, function() {
-	        	// TODO: add a minus offset if nanggaling sa ibang screen
+	        	navToggle.setAttribute('aria-expanded', 'false');
+	        	navMenu.classList.remove('is-active');
 	        });
 	      }
 	    }
 	  });
+
+	window.onload = function() {
+		if (window.location.hash != '') {
+			let offset = document.querySelector(window.location.hash).offsetTop;
+			window.scrollTo(0, offset - (document.querySelector('#header').clientHeight + 50));
+		}
+	};
 
 	$('#above-fold-slider').lightSlider({
 		auto: true,

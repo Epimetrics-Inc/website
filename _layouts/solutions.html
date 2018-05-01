@@ -32,7 +32,9 @@ layout: page
       <h2 class="section-heading">Our Partners</h2>
       <div class="client-logos">
         {% for client in site.data.partners %}
-          <img src="{{ client[1].logo_url }}" alt="{{ client[1].name }}" title="{{ client[1].name }}">
+          <div class="client-logo">
+            <img src="{{ client[1].logo_url }}" alt="{{ client[1].name }}" title="{{ client[1].name }}">
+          </div>
         {% endfor %}
       </div>
     </div>

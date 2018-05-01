@@ -69,14 +69,15 @@ $(document).ready(function() {
 		loop: true,
 		pause: 5000,
 		speed: 1000,
+		slideMargin: 0,
 		pager: false,
-		mode: 'slide',
+		mode: 'fade',
 		controls: true,
+		enableDrag: false,
 	});
 
 	$('.gallery-slider').lightSlider({
 		gallery: true,
-		// thumbItem: 5,
 		thumbMargin: 10,
 		item: 1,
 		loop: true,

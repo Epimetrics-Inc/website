@@ -439,10 +439,9 @@ main {
 }
 
 main section {
-	min-height: 90vh;
-	min-height: calc(100vh - 4rem);
-	min-height: calc(100vh - var(--nav-height));
-	height: auto;
+	height: 90vh;
+	height: calc(100vh - 4rem);
+	height: calc(100vh - var(--nav-height));
 	position: relative;
 	display: -ms-grid;
 	display: grid;
@@ -491,21 +490,11 @@ main.main section .section-heading.bottom {
 main.main section .section-heading.left {
 	-ms-grid-column: 1;
 	-ms-grid-column-span: 3;
-	-ms-grid-column-span: 3;
-	-ms-grid-column-span: var(--section-heading-span);
-	grid-column: 1 / span 3;
-	-ms-grid-column: 1;
-	-ms-grid-column-span: 3;
 	grid-column: 1 / span 3;
 	grid-column: 1 / span var(--section-heading-span);
 }
 
 main.main section .section-heading.right {
-	-ms-grid-column: 10;
-	-ms-grid-column-span: 3;
-	-ms-grid-column-span: 3;
-	-ms-grid-column-span: var(--section-heading-span);
-	grid-column: 10 / span 3;
 	-ms-grid-column: 10;
 	-ms-grid-column-span: 3;
 	grid-column: 10 / span 3;

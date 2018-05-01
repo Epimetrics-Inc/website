@@ -439,9 +439,10 @@ main {
 }
 
 main section {
-	height: 90vh;
-	height: calc(100vh - 4rem);
-	height: calc(100vh - var(--nav-height));
+	min-height: 90vh;
+	min-height: calc(100vh - 4rem);
+	min-height: calc(100vh - var(--nav-height));
+	height: auto;
 	position: relative;
 	display: -ms-grid;
 	display: grid;
@@ -471,6 +472,7 @@ main section .section-heading {
 	color: var(--epimetrics-red);
 	background-color: #fff;
 	text-transform: uppercase;
+	margin: 0;
 	padding: 0.5em 0.75em;
 	text-align: center;
 	font-size: 3em;

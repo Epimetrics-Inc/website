@@ -6,7 +6,10 @@ layout: default
 	<section id="above-fold">
 		<div id="above-fold-slider">
 			{% for slide in site.data.homepageslides %}
-				<div class="slide" style="background-image: url('{{ slide.background_image  }}');">
+				<div class="slide" style="background-image: linear-gradient(
+      rgba(0, 0, 0, 0.35), 
+      rgba(0, 0, 0, 0.35)
+    ), url('{{ slide.background_image  }}');">
 					<div class="slide-text">
 						{% if forloop.first %} <h1>{{ site.tagline }}</h1>
 						{% else %} <h1>{{ slide.title }}</h1>
@@ -18,7 +21,10 @@ layout: default
 		</div>
 	</section>
 
-	<section id="solutions" class="with-background aligned-left" style="background-image: url('{{ site.data.homepageinfo.solutions.background_image }}');">
+	<section id="solutions" class="with-background aligned-left" style="background-image: linear-gradient(
+      rgba(0, 0, 0, 0.35), 
+      rgba(0, 0, 0, 0.35)
+    ), url('{{ site.data.homepageinfo.solutions.background_image }}');">
 		<h1 class="section-heading top left">{{ site.data.homepageinfo.solutions.title }}</h1>
 		<div class="section-description left">{{ site.data.homepageinfo.solutions.description | markdownify }}</div>
 		<div class="section-footer">
@@ -28,7 +34,10 @@ layout: default
 		</div>
 	</section>
 
-	<section id="insights" class="with-background aligned-right" style="background-image: url('{{ site.data.homepageinfo.insights.background_image }}');">
+	<section id="insights" class="with-background aligned-right" style="background-image: linear-gradient(
+      rgba(0, 0, 0, 0.35), 
+      rgba(0, 0, 0, 0.35)
+    ), url('{{ site.data.homepageinfo.insights.background_image }}');">
 		<h1 class="section-heading bottom right">{{ site.data.homepageinfo.insights.title }}</h1>
 		<div class="section-description right">{{ site.data.homepageinfo.insights.description | markdownify }}</div>
 

@@ -862,8 +862,7 @@ main.main section .section-footer .section-button:focus::before {
 	}
 
 	#contact-us .circle {
-		position: initial;
-		margin: -25px auto 0;
+		display: none;
 	}
 
 	#contact-us .left,

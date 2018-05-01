@@ -15,6 +15,12 @@ $(document).ready(function() {
 
 	// resize image map on Solutions page
 	$('map').imageMapResize();
+	$('.imagemap').maphilight({
+		'stroke':false,
+		'fillColor':'cc3333',
+		'fillOpacity':0.4,
+		'fade': true,
+	});
 
 	// Select all links with hashes
 	$('a[href*="#"]')

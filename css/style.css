@@ -562,6 +562,7 @@ main.main section .section-footer {
   text-align: center;
   display: flex;
   justify-content: center;
+  z-index: 10;
 }
 
 main.main section .section-footer .section-button {

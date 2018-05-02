@@ -4,43 +4,40 @@ layout: page
 
 <section id="insights">
   <h2 class="section-heading">{{ page.title }}</h2>
-  {% assign is_there_content = page.content | strip_newlines %}
-  {% unless is_there_content == "" %}
-    <div class="section-description">
-      {{ content }}
-    </div>
-  {% endunless %}
-
-  {% assign posts_size = site.posts | size %}
-  {% if posts_size > 0 %}
-    <div class="articles-grid">
-      <!-- Featured Post -->
-      {% assign posts = site.posts | where: "featured", "true" %}
-      {% for post in posts %}
-      	<a href="{{ post.url | absolute_url }}" class="featured article" {% if post.featured_image %}style="background-image: url({{ post.featured_image }});"{% endif %}>
-      		<div class="article-info">
-      			<h3 class="article-title">{{ post.title }}</h3>
-      			{% assign author = site.data.team[post.author] %}
-      			<div class="article-author">{{ author.name }}</div>
-      			<div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
-      		</div>
-    		</a>
-      {% endfor %}
-
-      {% assign posts = site.posts | where: "featured", "false" %}
-      {% for post in posts %}
-        <a href="{{ post.url | absolute_url }}" class="article" {% if post.featured_image %}style="background-image: url({{ post.featured_image }});"{% endif %}>
-          <div class="article-info">
-            <h3 class="article-title">{{ post.title }}</h3>
-            {% assign author = site.data.team[post.author] %}
-            <div class="article-author">{{ author.name }}</div>
-            <div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
-          </div>
-        </a>
-      {% endfor %}
-    </div>
+  {% assign is_there_content = page.content | strip_newlines %} {% unless is_there_content == "" %}
+  <div class="section-description">
+    {{ content }}
+  </div>
+  {% endunless %} {% assign posts_size = site.posts | size %} {% if posts_size > 0 %}
+  <div class="articles-grid">
+    <!-- Featured Post -->
+    {% assign posts = site.posts | where: "featured", "true" %} {% for post in posts %}
+    <a href="{{ post.url | absolute_url }}" class="featured article" {% if post.featured_image %}style="background-image: url({{ post.featured_image }});"
+      {% endif %}>
+      <div class="article-info">
+        <h3 class="article-title">{{ post.title }}</h3>
+        {% assign author = site.data.team[post.author] %}
+        <div class="article-author">{{ author.name }}</div>
+        <div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
+      </div>
+    </a>
+    {% endfor %} {% assign posts = site.posts | where: "featured", "false" %} {% for post in posts %}
+    <a href="{{ post.url | absolute_url }}" class="article" {% if post.featured_image %}style="background-image: url({{ post.featured_image }});"
+      {% endif %}>
+      <div class="article-info">
+        <h3 class="article-title">{{ post.title }}</h3>
+        {% assign author = site.data.team[post.author] %}
+        <div class="article-author">{{ author.name }}</div>
+        <div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
   {% else %}
-    <h2 class="section-description">Insights in Progress. Check again soon!</h2>
+  <div class="section-description center">
+    <h3>Insights in Progress</h3>
+    <p>Check back soon!</p>
+  </div>
   {% endif %}
 
 </section>

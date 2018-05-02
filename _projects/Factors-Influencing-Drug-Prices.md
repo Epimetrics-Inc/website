@@ -16,7 +16,7 @@ authors:
   photo_url: /img/staff/JQW.png
 - name: Geminn Louis C. Apostol, MD-MBA
   role: Co-Investigator
-  photo_url: http://via.placeholder.com/250x250
+  photo_url: /assets/projects/bb8/apostol_gelo.jpg
 - name: Cheyenne Ariana Erika M. Modina
   role: Research Associate
   photo_url: /img/staff/EM.png

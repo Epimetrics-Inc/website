@@ -870,7 +870,7 @@ main.main section .section-footer .section-button:focus::before {
   background-color: var(--epimetrics-red-highlight);
 }
 
-@media screen and (max-width: 1052px) {
+@media screen and (max-width: 975px) {
   #contact-us {
     display: block;
     width: 90%;

@@ -248,7 +248,7 @@ input::-webkit-input-placeholder {
   color: transparent;
 }
 
-@media screen and (max-width: 975px) {
+@media screen and (max-width: 1052px) {
   body {
     display: block;
     width: 100%;
@@ -401,7 +401,7 @@ footer .company-info > * {
   margin-bottom: 1em;
 }
 
-@media screen and (max-width: 975px) {
+@media screen and (max-width: 1052px) {
   footer {
     width: 100%;
   }
@@ -465,14 +465,16 @@ main section {
     [top-header-end content-start] minmax(1em, max-content) [content-end
     bottom-header-start] minmax(min-content, 1fr) [bottom-header-end
     footer-links-start] 0.15fr [footer-links-end];
-  grid-template-rows: 0.15fr [top-header-start] minmax(-webkit-min-content, 1fr) [top-header-end content-start] minmax(
-      1em,
-      -webkit-max-content
-    ) [content-end bottom-header-start] minmax(-webkit-min-content, 1fr) [bottom-header-end footer-links-start] 0.15fr [footer-links-end];
-  grid-template-rows: 0.15fr [top-header-start] minmax(min-content, 1fr) [top-header-end content-start] minmax(
-      1em,
-      max-content
-    ) [content-end bottom-header-start] minmax(min-content, 1fr) [bottom-header-end footer-links-start] 0.15fr [footer-links-end];
+  grid-template-rows:
+    0.15fr [top-header-start] minmax(-webkit-min-content, 1fr)
+    [top-header-end content-start] minmax(1em, -webkit-max-content)
+    [content-end bottom-header-start] minmax(-webkit-min-content, 1fr)
+    [bottom-header-end footer-links-start] 0.15fr [footer-links-end];
+  grid-template-rows:
+    0.15fr [top-header-start] minmax(min-content, 1fr)
+    [top-header-end content-start] minmax(1em, max-content)
+    [content-end bottom-header-start] minmax(min-content, 1fr)
+    [bottom-header-end footer-links-start] 0.15fr [footer-links-end];
   grid-gap: 1em;
 }
 
@@ -592,7 +594,7 @@ main.main section .section-footer .section-button:focus::before {
   right: 0;
 }
 
-@media screen and (max-width: 975px) {
+@media screen and (max-width: 1052px) {
   main {
     padding-top: 4rem;
     padding-top: var(--nav-height);
@@ -677,9 +679,10 @@ main.main section .section-footer .section-button:focus::before {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 975px) {
+@media screen and (max-width: 1052px) {
   #above-fold-slider .slide {
-    height: 70vh;
+    min-height: 70vh;
+    height: auto;
     display: block;
   }
 
@@ -733,7 +736,7 @@ main.main section .section-footer .section-button:focus::before {
   padding-right: 4em;
 }
 
-@media screen and (max-width: 975px) {
+@media screen and (max-width: 1052px) {
   #about {
     height: auto;
   }
@@ -867,7 +870,7 @@ main.main section .section-footer .section-button:focus::before {
   background-color: var(--epimetrics-red-highlight);
 }
 
-@media screen and (max-width: 975px) {
+@media screen and (max-width: 1052px) {
   #contact-us {
     display: block;
     width: 90%;
@@ -1356,7 +1359,7 @@ main.page-section section.wrapper {
   color: var(--epimetrics-lightgray);
 }
 
-@media screen and (max-width: 975px) {
+@media screen and (max-width: 1052px) {
   .articles-grid {
     display: block;
   }
@@ -1453,7 +1456,7 @@ main.page-section section.wrapper {
   margin-bottom: 1em;
 }
 
-@media screen and (max-width: 975px) {
+@media screen and (max-width: 1052px) {
   .wrapper {
     margin-bottom: 2em;
   }
@@ -1584,7 +1587,7 @@ main.page-section section.wrapper {
   padding-bottom: 4em;
 }
 
-@media screen and (max-width: 975px) {
+@media screen and (max-width: 1052px) {
   #project-wrapper .page-header {
     width: 100%;
   }
@@ -1654,7 +1657,7 @@ main.page-section section.wrapper {
   font-weight: bolder;
 }
 
-@media screen and (max-width: 975px) {
+@media screen and (max-width: 1052px) {
   .project-staff .staff-wrapper {
     display: table;
     width: 100%;

@@ -14,7 +14,7 @@ diana_beatriz_bayani:
   name: Diana Beatriz S. Bayani, MSc
   roles: Board Member, Founder
   photo_url: http://via.placeholder.com/250x250
-  quote: "I am a sample quote."
+  quote: ""
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -24,7 +24,7 @@ nel_jason_haw:
   name: Nel Jason L. Haw, MSc
   roles: Executive Director, Founder
   photo_url: /img/staff/NJH.png
-  quote: "I am a sample quote."
+  quote: "\"It is our light, not our darkness, that most frightens us.\" <br> Marianne Willliamson"
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -34,7 +34,7 @@ jac_lin_yu:
   name: Jac Lin T. Yu
   roles: Finance and Accounting Officer
   photo_url: /img/staff/JLY.png
-  quote: "I am a sample quote."
+  quote: "\"Beware of little expenses; a small leak will sink a great ship.\" <br> Benjamin Franklin"
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -44,7 +44,7 @@ stephanie_anne_co:
   name: Stephanie Anne L. Co, MD-MBA
   roles: Research Operations Officer
   photo_url: /img/staff/SAC.png
-  quote: "I am a sample quote."
+  quote: "\"Research is what I’m doing when I don’t know what I’m doing.\" <br> Wehner Von Braun"
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -54,7 +54,7 @@ cheyenne_modina:
   name: Cheyenne Ariana Erika M. Modina
   roles: Innovations Officer
   photo_url: /img/staff/EM.png
-  quote: "I am a sample quote."
+  quote: "\"Innovation begins with an eye.\" <br> Tom Kelley."
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -64,7 +64,7 @@ hadrian_lim:
   name: Hadrian Paulo M. Lim, MS
   roles: Information Technology Officer
   photo_url: /img/staff/HML.png
-  quote: "I am a sample quote."
+  quote: "\"AI might be a powerful technology, but things won't get better simply by adding AI. \" <br> Vivienne Ming"
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -75,7 +75,7 @@ johnny_tamon:
   name: Johnny Raymund Tamon, MD-MBA
   roles: Human Resources Officer
   photo_url: /img/staff/JRT.png
-  quote: "I am a sample quote."
+  quote: ""
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -85,7 +85,7 @@ kath_baladad:
   name: Anne Kathlyn A. Baladad
   roles: Marketing and Communications Officer
   photo_url: /img/staff/AKB.png
-  quote: "I am a sample quote."
+  quote: "\"Option 1 - they thought I had guts they were wrong I was only frightened of more important things.\" <br> Bukowski"
   description: "This is a sample description for this person."
   links:
     # email: katya.baladad@gmail.com
@@ -95,7 +95,7 @@ bernell_go:
   name: Bernell Merwyn S. Go
   roles: Executive Assistant, Office Manager
   photo_url: /img/staff/BG.png
-  quote: "I am a sample quote."
+  quote: ""
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -105,7 +105,7 @@ cleo_fowler:
   name: Krizelle Cleo Fowler
   roles: Quantitative Specialist
   photo_url: /img/staff/CF.png
-  quote: "I am a sample quote."
+  quote: "\"All that we are is a result of what we have thought.\" <br> Buddha"
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -115,7 +115,7 @@ abigail_lim:
   name: Abigail E. Lim
   roles: Qualitative Specialist
   photo_url: /img/staff/AEL.png
-  quote: "I am a sample quote."
+  quote: "\"We meet no ordinary people in our lives.\" <br> C.S. Lewis"
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com

@@ -12,8 +12,7 @@ layout: page
   <div class="articles-grid">
     <!-- Featured Post -->
     {% assign posts = site.posts | where: "featured", "true" %} {% for post in posts %}
-    <a href="{{ post.url | absolute_url }}" class="featured article" {% if post.featured_image %}style="background-image: url({{ post.featured_image }});"
-      {% endif %}>
+    <a href="{{ post.url | absolute_url }}" class="featured article" {% if post.image %}style="background-image: url({{ post.image }});"{% endif %}></a>
       <div class="article-info">
         <h3 class="article-title">{{ post.title }}</h3>
         {% assign author = site.data.team[post.author] %}
@@ -34,10 +33,10 @@ layout: page
     {% endfor %}
   </div>
   {% else %}
-  <div class="section-description center">
+  <!-- <div class="section-description center">
     <h3>Insights in Progress</h3>
-    <p>Check back soon!</p>
-  </div>
+    <p>Check back soon!</p> -->
+  <!-- </div> -->
   {% endif %}
 
 </section>

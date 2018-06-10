@@ -15,10 +15,16 @@ layout: page
     <div class="team-pictures">
       {% for member in site.data.team %}
         <div class="team-member">
-          <div class="picture-with-quote">
-            <img src="{{ member[1].photo_url }}" alt="">
-            <div class="quote">{{ member[1].quote }}</div>
-          </div>
+          {% if member[1].quote != "" %}
+            <div class="picture-with-quote">
+              <img src="{{ member[1].photo_url }}" alt="">
+              <div class="quote">{{ member[1].quote }}</div>
+            </div>
+          {% else %}
+            <div class="picture">
+              <img src="{{ member[1].photo_url }}" alt="">
+            </div>
+          {% endif %}
           <div class="team-info">
             <h4 class="name">{{ member[1].name }}</h4>
             <h6 class="roles">{{ member[1].roles }}</h6>

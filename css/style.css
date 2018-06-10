@@ -1043,7 +1043,8 @@ main.page-section section.wrapper {
   align-items: flex-start;
 }
 
-.team-member .picture-with-quote {
+.team-member .picture-with-quote,
+.team-member .picture {
   display: block;
   margin: 0 auto;
   position: relative;
@@ -1071,7 +1072,8 @@ main.page-section section.wrapper {
   transition: 0.2s ease-in;
 }
 
-.team-member .picture-with-quote img {
+.team-member .picture-with-quote img,
+.team-member .picture img {
   display: block;
   width: 100%;
   height: auto;

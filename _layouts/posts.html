@@ -12,7 +12,7 @@ layout: page
   <div class="articles-grid">
     <!-- Featured Post -->
     {% assign posts = site.posts | where: "featured", "true" %} {% for post in posts %}
-    <a href="{{ post.url | absolute_url }}" class="featured article" {% if post.featured_image %}style="background-image: url({{ post.featured_image }});"
+    <a href="{{ post.url | absolute_url }}" class="featured article" {% if post.featured_image %} style="background-image: url({{ post.featured_image }});"
       {% endif %}>
       <div class="article-info">
         <h3 class="article-title">{{ post.title }}</h3>
@@ -22,7 +22,7 @@ layout: page
       </div>
     </a>
     {% endfor %} {% assign posts = site.posts | where: "featured", "false" %} {% for post in posts %}
-    <a href="{{ post.url | absolute_url }}" class="article" {% if post.featured_image %}style="background-image: url({{ post.featured_image }});"
+    <a href="{{ post.url | absolute_url }}" class="article" {% if post.featured_image %} style="background-image: url({{ post.featured_image }});"
       {% endif %}>
       <div class="article-info">
         <h3 class="article-title">{{ post.title }}</h3>

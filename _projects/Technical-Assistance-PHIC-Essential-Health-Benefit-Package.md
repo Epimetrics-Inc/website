@@ -97,8 +97,11 @@ Using the data and processes obtained from the first two phases, Phase III narro
 Phase IV aimed to identify whether these potential interventions are feasible in the local context, in terms of resource items, unit costs and their respective resource volumes. Results of the study provided an estimate cost of managing the 48 most burdensome diseases in the Philippines. More importantly, it suggests a methodology (top down or cost per bed day approach) that government administrators can adopt to guide and standardize planning and implementing future rate setting and payment mechanisms.
 
 [Phase I: Executive Summary](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/a-series/EpiMetrics_GHBPPhaseI_ExecSumm.pdf)
+
 [Phase II: Executive Summary](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/a-series/EpiMetrics_GHBPPhaseII_ExecSumm.pdf)
+
 [Phase III: Executive Summary](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/a-series/EpiMetrics_GHBPPhaseIII_ExecSumm.pdf)
+
 [Phase IV: Executive Summary](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/a-series/EpiMetrics_GHBPPhaseIV_ExecSumm.pdf)
 
 [Policy Brief](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/a-series/GHBP_PolicyBrief.pdf) 

@@ -12,7 +12,8 @@ layout: page
   <div class="articles-grid">
     <!-- Featured Post -->
     {% assign posts = site.posts | where: "featured", "true" %} {% for post in posts %}
-    <a href="{{ post.url | absolute_url }}" class="featured article" {% if post.image %}style="background-image: url({{ post.image }});"{% endif %}></a>
+    <a href="{{ post.url | absolute_url }}" class="featured article" {% if post.featured_image %} style="background-image: url({{ post.featured_image }});"
+      {% endif %}>
       <div class="article-info">
         <h3 class="article-title">{{ post.title }}</h3>
         {% assign author = site.data.team[post.author] %}

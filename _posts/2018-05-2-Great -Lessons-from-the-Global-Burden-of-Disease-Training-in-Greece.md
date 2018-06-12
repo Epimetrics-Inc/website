@@ -1,11 +1,11 @@
 ---
--title: Great Lessons from the Global Burden of Disease Training in Greece
+title: Great Lessons from the Global Burden of Disease Training in Greece
 
 # Article Details
--image: /assets/posts/2018-05-02-Great/banner.png
--date: 2018-05-2
--author: Jason Haw, MSc, Executive Director
--featured: true
+featured_image: /assets/posts/2018-05-02-Great/banner.png
+date: 2018-05-2
+author: nel_jason_haw
+featured: true
 ---
 
 Together with around 60 participants from dozens of countries, I attended the annual Global Burden of Disease (GBD) of the Institute of Health Metrics and Evaluation (IHME) last April 8 to 16, 2018. I was one of two representatives of the Philippines.
@@ -44,9 +44,5 @@ But we also brainstormed on possible solutions to these problems. A lot of acade
 
 Moving forward, I hope that EpiMetrics will be able to train more Filipinos on the GBD. If you or your institution are interested in getting involved, reach out to us!
 
-## <br>
-
-<br>
-
-_Jason Haw, MSc. is the Executive Director of EpiMetrics, Inc. He is one of the co-founders
-and has a Master of Science in Global Health from Georgetown University. He has been working with Dr. Wong for more than four years on various research projects, mostly focused on epidemiology, community health, and health financing._
+<!-- _Jason Haw, MSc. is the Executive Director of EpiMetrics, Inc. He is one of the co-founders
+and has a Master of Science in Global Health from Georgetown University. He has been working with Dr. Wong for more than four years on various research projects, mostly focused on epidemiology, community health, and health financing._ -->

@@ -13,7 +13,7 @@ john_q_wong:
 diana_beatriz_bayani:
   name: Diana Beatriz S. Bayani, MSc
   roles: Board Member, Founder
-  photo_url: http://via.placeholder.com/250x250
+  photo_url: /img/staff/DBB.png
   quote: ""
   description: "This is a sample description for this person."
   links:
@@ -55,7 +55,7 @@ cheyenne_modina:
   name: Cheyenne Ariana Erika M. Modina
   roles: Innovations Officer
   photo_url: /img/staff/EM.png
-  quote: "\"Innovation begins with an eye.\" <br> Tom Kelley."
+  quote: "\"Innovation begins with an eye.\" <br> Tom Kelley"
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -86,7 +86,7 @@ kath_baladad:
   name: Anne Kathlyn A. Baladad
   roles: Marketing and Communications Officer
   photo_url: /img/staff/AKB.png
-  quote: "\"Option 1 - they thought I had guts they were wrong I was only frightened of more important things.\" <br> Bukowski"
+  quote: "\"Making the simple complicated is commonplace; making the complicated simple, that's creativity.\" <br> Charles Mingus"
   description: "This is a sample description for this person."
   links:
     # email: katya.baladad@gmail.com

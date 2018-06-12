@@ -17,14 +17,13 @@ layout: page
 	</div>
 
 	<div class="article-staff">
-		{% assign author = site.data.team[page.author] %}
 		<div class="featured-staff">
 			<div class="staff-info">
-				<h3 class="staff-name">{{ author.name }}</h3>
-				<h5 class="staff-position">{{ author.roles }}</h5>
+				<h3 class="staff-name">{{ page.author_name }}</h3>
+				<h5 class="staff-position">{{ page.author_roles }}</h5>
 			</div>
-			<img src="{{ author.photo_url }}" alt="">
-			<div class="staff-description">{{ author.description }}</div>
+			<img src="{{ page.author_photo_url }}" alt="">
+			<div class="staff-description">{{ page.author_description }}</div>
 		</div>
 	</div>
 	

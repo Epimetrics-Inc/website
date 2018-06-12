@@ -16,8 +16,7 @@ layout: page
       {% endif %}>
       <div class="article-info">
         <h3 class="article-title">{{ post.title }}</h3>
-        {% assign author = site.data.team[post.author] %}
-        <div class="article-author">{{ author.name }}</div>
+        <div class="article-author">{{ post.author_name }}</div>
         <div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
       </div>
     </a>
@@ -26,8 +25,7 @@ layout: page
       {% endif %}>
       <div class="article-info">
         <h3 class="article-title">{{ post.title }}</h3>
-        {% assign author = site.data.team[post.author] %}
-        <div class="article-author">{{ author.name }}</div>
+        <div class="article-author">{{ post.author_name }}</div>
         <div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
       </div>
     </a>

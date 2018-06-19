@@ -39,3 +39,6 @@ defaults:
     values:
       layout: "project"
       featured: "false"
+
+# Google Analytics
+google_analytics: UA-115634204-2

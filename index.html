@@ -102,11 +102,10 @@ layout: default
 						<div class="article-excerpt">{{ post.content | strip_html | strip_newlines | truncate: 500 }}</div>
 					</div>
 					<div class="featured-staff">
-						{% assign author = site.data.team[post.author] %}
-						<img src="{{ author.photo_url }}" alt="">
+						<img src="{{ post.author_photo_url }}" alt="">
 						<div class="staff-info">
-							<h3 class="staff-name">{{ author.name }}</h3>
-							<h5 class="staff-position">{{ author.roles }}</h5>
+							<h3 class="staff-name">{{ post.author_name }}</h3>
+							<h5 class="staff-position">{{ post.author_roles }}</h5>
 						</div>
 					</div>
 				</section>

@@ -99,7 +99,7 @@ layout: default
 					<div class="month-year-feature">Featured Staff for {{ post.date | date: "%B %Y" }}</div>
 					<div class="article">
 						<h2 class="article-title">{{ post.title }}</h2>
-						<div class="article-excerpt">{{ post.content | strip_html | strip_newlines | truncate: 500 }}</div>
+						<div class="article-excerpt">{{ post.content | strip_html | strip_newlines | truncate: 500 }} <a href="{{ post.internal_url }}">Continue Reading</a> </div>
 					</div>
 					<div class="featured-staff">
 						<img src="{{ post.author_photo_url }}" alt="">

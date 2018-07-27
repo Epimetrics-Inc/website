@@ -1,28 +1,24 @@
 # _data/jobopenings.yml
 
-# - title: Research Assistant
-#   description: >
-#     This is a sample job description for being a Research Assistant. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada.
+- title: Finance Assistants
+  description: >
+    We're looking for Finance Assistants, who are tasked to:
 
-#     Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nec turpis eget nisl posuere maximus sed at nisi. Nulla finibus rutrum diam, fringilla maximus nulla laoreet aliquam.
-
-#     Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nec turpis eget nisl posuere maximus sed at nisi. Nulla finibus rutrum diam, fringilla maximus nulla laoreet aliquam.
-#   keywords: [sample, keyword, only]
-
-# - title: UX Designer
-#   description: >
-#     This is a sample job description for being a UX Designer. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada.
-
-#     Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nec turpis eget nisl posuere maximus sed at nisi. Nulla finibus rutrum diam, fringilla maximus nulla laoreet aliquam.
-#   keywords: [ux, design, research]
-
-# - title: Research Associate
-#   description: >
-#     This is a sample job description for being a Research Associate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vel placerat lacus. Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada.
-
-#     Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nec turpis eget nisl posuere maximus sed at nisi. Nulla finibus rutrum diam, fringilla maximus nulla laoreet aliquam.
-
-#     Nullam aliquam nisl nec nisl viverra, posuere suscipit urna malesuada.
-
-#     Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nec turpis eget nisl posuere maximus sed at nisi. Nulla finibus rutrum diam, fringilla maximus nulla laoreet aliquam.
-#   keywords: [more, of, these, samples]
+      * Assist and lead in creating budgets for project proposals.
+      
+      * Assist in creating protocols and manuals.
+      
+      * Provide presentations to team members and clients on financial protocols, proposals, and outcomes.
+      
+      * Assist in developing and managing the cost library.
+      
+      * Assist in creating and verifying liquidation and reimbursements reports.
+      
+      * Prepares weekly and monthly expense reports.
+      
+      * Bookkeeping of income and expenses for the company.
+      
+      * Assist in creating financial reports for projects.
+      
+      * Attend meetings when needed.
+  keywords: []

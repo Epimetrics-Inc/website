@@ -6,8 +6,8 @@ layout: page
   <h2 class="section-heading">Work With Us</h2>
   {% assign is_there_content = page.content | strip_newlines %}
   {% unless is_there_content == "" %}
-    <div class="section-description">
-      {{ content }}
+    <div class="section-description" style="text-align: center;">
+      <b>{{ content }}</b>
     </div>
   {% endunless %}
 
@@ -16,7 +16,7 @@ layout: page
       {% for job in site.data.jobopenings %}
         <div class="job">
           <h3 class="job-title">{{ job.title }}</h3>
-          <div class="job-description">{{ job.description }}</div>
+          <div class="job-description">{{ job.description | markdownify }}</div>
           <div class="job-keywords">{{ job.keywords | sort | array_to_sentence_string: '' }}</div>
         </div>
       {% endfor %}
@@ -25,7 +25,6 @@ layout: page
     <div class="section-description center">
       <h2>No Openings At The Moment.</h2>
       <p>Still Interested?</p>
-      <p>Send us your resume at <a href="mailto:hr@epimetrics.com.ph?Subject=I&20am%20awesome" target="_top"">hr@epimetrics.com.ph</a> and we'll get in touch.</p>
-    </div>
+      </div>
   {% endif %}
 </section>

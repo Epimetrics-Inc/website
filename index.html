@@ -94,7 +94,6 @@ layout: default
 	{% assign post_size = site.posts | size %}
 	{% if post_size > 0 %}
 		{% for post in site.posts %}
-			{% if post.featured %}
 				<section id="featured">
 					<div class="month-year-feature">Featured Staff for {{ post.date | date: "%B %Y" }}</div>
 					<div class="article">
@@ -109,7 +108,6 @@ layout: default
 						</div>
 					</div>
 				</section>
-			{% endif %}
 			{% break %}
 		{% endfor %}
 	{% endif %}

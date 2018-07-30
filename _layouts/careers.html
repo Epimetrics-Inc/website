@@ -7,7 +7,7 @@ layout: page
   {% assign is_there_content = page.content | strip_newlines %}
   {% unless is_there_content == "" %}
     <div class="section-description" style="text-align: center;">
-      <b>{{ content }}</b>
+      {{ content }}
     </div>
   {% endunless %}
 

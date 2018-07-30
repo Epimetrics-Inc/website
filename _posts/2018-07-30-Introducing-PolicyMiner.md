@@ -3,7 +3,7 @@ title: "PolicyMiner: \n
 Search and Access Administrative Policies from the Philippine Department of Health "
 
 # Article Details
-featured_image:
+featured_image_alt: https://policyminer.epimetrics.com.ph/static/img/logo.7afa7c2.png
 date: 2018-07-30
 # to get the name of the author, you need to refer to team.yml
 author_name: Hadrian Paulo M. Lim, MS
@@ -11,7 +11,7 @@ author_roles: eHealth Division Head
 author_photo_url: /img/staff/HML.png
 author_quote: "\"\" <br> "
 author_description: "Hadrian Paulo Lim has a Master of Science in Computer Science from Ateneo de Manila University. He has previously worked on various research projects and initiatives with EpiMetrics, mostly focused on applying algorithms, simulations modeling, and machine learning techniques. Currently, he leads the projects and initiatives of the eHealth division of EpiMetrics, Inc." 
-featured: true
+featured: false
 internal_url: 2018/07/30/Introducing-PolicyMiner.html
 ---
 

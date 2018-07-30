@@ -1327,6 +1327,8 @@ main.page-section section.wrapper {
   color: var(--epimetrics-red);
   z-index: 10;
   max-width: 90%;
+  position:absolute;
+  bottom: 0;
 }
 
 .articles-grid .article .article-info .article-title {
@@ -1376,6 +1378,8 @@ main.page-section section.wrapper {
 
   .articles-grid .article .article-info {
     width: 50%;
+    position:absolute;
+    bottom: 0;
   }
 
   .articles-grid .featured.article {
@@ -1384,6 +1388,8 @@ main.page-section section.wrapper {
 
   .articles-grid .featured.article .article-info {
     width: 50%;
+    position:absolute;
+    bottom: 0;
   }
 }
 
@@ -1399,9 +1405,10 @@ main.page-section section.wrapper {
   }
 
   .articles-grid .article .article-info {
-    position: initial;
     width: auto;
     max-width: 85%;
+    position:absolute;
+    bottom: 0;
   }
 }
 

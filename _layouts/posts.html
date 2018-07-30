@@ -12,8 +12,14 @@ layout: page
   <div class="articles-grid">
     <!-- Featured Post -->
     {% assign posts = site.posts | where: "featured", "true" %} {% for post in posts %}
-    <a href="{{ post.url | absolute_url }}" class="featured article" {% if post.featured_image %} style="background-image: url({{ post.featured_image }});"
-      {% endif %}>
+      {% assign image_feature = post.featured_image %}
+      {% unless image_feature %}{% assign image_feature = post.featured_image_alt %}{% endunless %}
+    <a href="{{ post.url | absolute_url }}" class="featured article" style="background-image: url({{ image_feature }});  background-repeat: no-repeat;  
+    background-attachment: scroll;  
+    background-position: 0% 0%;
+    background-size: contain;
+    background-position: center top; 
+    background-color: white;">
       <div class="article-info">
         <h3 class="article-title">{{ post.title }}</h3>
         <div class="article-author">{{ post.author_name }}</div>
@@ -21,8 +27,14 @@ layout: page
       </div>
     </a>
     {% endfor %} {% assign posts = site.posts | where: "featured", "false" %} {% for post in posts %}
-    <a href="{{ post.url | absolute_url }}" class="article" {% if post.featured_image %} style="background-image: url({{ post.featured_image }});"
-      {% endif %}>
+    {% assign image_feature = post.featured_image %}
+      {% unless image_feature %}{% assign image_feature = post.featured_image_alt %}{% endunless %}
+    <a href="{{ post.url | absolute_url }}" class="article" style="background-image: url({{ image_feature }});  background-repeat: no-repeat;  
+    background-attachment: scroll;  
+    background-position: 0% 0%;
+    background-size: contain;
+    background-position: 30% 15%;
+    background-color: white;">
       <div class="article-info">
         <h3 class="article-title">{{ post.title }}</h3>
         <div class="article-author">{{ post.author_name }}</div>

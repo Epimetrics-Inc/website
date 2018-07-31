@@ -44,7 +44,16 @@ layout: page
     <div class="articles-grid">
       <!-- Featured Project -->
       {% for project in featured_project_list %}
-      	<a href="{{ project.url | absolute_url }}" class="featured article" {% if project.image %}style="background-image: url({{ project.image }});"{% endif %}>
+        <a href="{{ project.url | absolute_url }}" class="featured article" 
+        {% if project.image %}
+          style="background-image: url({{ project.image }});
+          background-repeat: no-repeat;  
+          background-attachment: scroll;  
+          background-position: 0% 0%;
+          background-size: contain auto;
+          background-position: 30% 15%;
+          background-color: white;"
+        {% endif %}>
       		<div class="article-info">
       			<h3 class="article-title">{{ project.title }}</h3>
             {% assign client = site.data.partners[project.client] %}

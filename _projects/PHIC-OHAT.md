@@ -17,7 +17,6 @@ authors:
   photo_url: /img/staff/SAC.png
 - name: Christine Ingrid Espinosa
   role: Research Assistant
-  photo_url: http://via.placeholder.com/250x250
 - name: Krizelle Cleo Fowler
   role: Statistician
   photo_url: /img/staff/CF.png

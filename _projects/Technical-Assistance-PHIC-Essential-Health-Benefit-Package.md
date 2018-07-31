@@ -1,6 +1,7 @@
 ---
 title: Technical Assistance to the Philippine Health Insurance Corporation in Creating an Essential Health Benefit Package and a Priority-Setting Process
 date: 2018-03-01
+featured: true
 client: PhilHealth
 image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/a-series/top-48-CEA.jpg
 description: |

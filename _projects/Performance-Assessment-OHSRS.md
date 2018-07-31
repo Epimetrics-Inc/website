@@ -1,6 +1,6 @@
 ---
 title: Performance Assessment of DOH Licensed Hospitals in terms of Access and Quality using Annual Hospital Statistical Reports from 2011-2015
-featured: true
+featured: false
 client: PhilHealth
 image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bb8/OHSR_infographic.jpg
 description: |

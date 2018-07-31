@@ -31,21 +31,21 @@ building_blocks:
 - "Access to Essential Medicine"
 ---
 
-# I. Introduction
+# Introduction
 
 Essential medicines are medicines that meet the health needs of majority of the population. They should be available and accessible at all times, in the appropriate dosage forms, and at prices affordable to all. The Philippine National Drug Policy (PNDP) is a response to ensure the provision of good quality, essential medicines to the people. However, issues remain. Medicine purchase accounts for a significant portion of out-of-pocket expenditures for people, including those from the lower-income sector that the PNDP intended to serve. Although the Philippine Health Insurance Corporation (PhilHealth) reimburses inpatient medicines listed in the Philippine National Drug Formulary up to a ceiling, PhilHealth does not reimburse medicines for outpatient treatments. This study aims to determine the factors associated with the variation in drug pricing among national public hospitals.
 
-# II. Methods
+# Methods
 
 The study employed a case-control study design, with a study population of 57 national public hospitals. It is a mixed-method approach across levels. The sample is representative of all levels, regions, and specialty; it also included nine hospitals under GIDA. Six specialized hospitals (10.5%) were also included, the rest being general hospitals. With regard to the distribution in regions, NCR contains the highest percentage of hospitals (22.8%), followed by Region VII with 6 hospitals (10.5%) and Region III with 5 hospitals (8.8%). Univariate, bivariate, and multivariate tests were done to analyze the data.
 
-# III. Results and Discussion
+# Results and Discussion
 
 Sixty percent of hospitals were found to have a Price Ratio (PR) >1 and were procuring 6.44 times higher than the Drug Price Reference Index (DPRI). Factors that were significantly associated with PR>1 include: lack of proper procurement planning, propensity towards alternative modes of procurement (over competitive tender), and location in a GIDA. Hospitals were found to impose a 40.2% median retail price markup. Higher retail price markups of drugs were associated with a lower level of hospital operations, preference for branded over generic drugs, limitations in storage and uncoordinated distribution of drugs. 
 
 The study was also able to describe the process of drug management in national public hospitals and how they fare with the WHO GPP Principles through the conducted KII and administered GPP Checklist. Key stakeholders involved in deciding drug prices in hospitals were also identified.
 
-# IV. Conclusion
+# Conclusion
 
 Factors with significant relationship to the price ratio are:
 
@@ -77,10 +77,10 @@ The policy recommendations are directed to the three main policies that affect t
 <br /> 
 Furthermore, data collection should include a larger sample size to allow for logistic regression and further data analysis should be done to evaluate the factors affecting individual drugs in the basket instead of pooling scores into one in each hospital.
 
-[Executive Summary](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/Bacta%20Executive%20Sumary%20PDF.pdf)
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/Bacta%20Executive%20Sumary%20PDF.pdf" target="_blank">Executive Summary</a>
 
-[Policy Brief](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/EpiMetrics_Drug%20Pricing%20Study_Policy%20Brief_03032018.pdf)
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/EpiMetrics_Drug%20Pricing%20Study_Policy%20Brief_03032018.pdf" target="_blank">Policy Brief</a>
 
-[Full Infographic](https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/EpiMetrics_Drug%20Pricing%20Study_National%20GPP%20Scores_02012018.pdf)
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bacta/EpiMetrics_Drug%20Pricing%20Study_National%20GPP%20Scores_02012018.pdf" target="_blank">Full Infographic</a>
 
 **For more information on the study, email us at [contact@epimetrics.com.ph](contact@epimetrics.com.ph)**

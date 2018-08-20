@@ -22,11 +22,31 @@ diana_beatriz_bayani:
 
 nel_jason_haw:
   name: Nel Jason L. Haw, MSc
-  roles: Executive Director, Founder
+  roles: Global Health Division Head, Founder
   photo_url: /img/staff/NJH.png
   quote: "\"It is our light, not our darkness, that most frightens us.\" <br> Marianne Williamson"
   description: "Jason Haw, MSc. is the Executive Director of EpiMetrics, Inc. He is one of the co-founders
 and has a Master of Science in Global Health from Georgetown University. He has been working with Dr. Wong for more than four years on various research projects, mostly focused on epidemiology, community health, and health financing."
+  links:
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
+
+stephanie_anne_co:
+  name: Stephanie Anne L. Co, MD-MBA
+  roles: Public Health Division Head
+  photo_url: /img/staff/SAC.png
+  quote: "\"Research is what I’m doing when I don’t know what I’m doing.\" <br> Wehner Von Braun"
+  description: "This is a sample description for this person."
+  links:
+    # email: sample@email.com
+    # linkedin: https://ph.linkedin.com/sample
+
+hadrian_lim:
+  name: Hadrian Paulo M. Lim, MS
+  roles: Health Information Systems Division Head
+  photo_url: /img/staff/HML.png
+  quote: "\"AI might be a powerful technology, but things won't get better simply by adding AI. \" <br> Vivienne Ming"
+  description: "This is a sample description for this person."
   links:
     # email: sample@email.com
     # linkedin: https://ph.linkedin.com/sample
@@ -41,11 +61,11 @@ jac_lin_yu:
     # email: sample@email.com
     # linkedin: https://ph.linkedin.com/sample
 
-stephanie_anne_co:
-  name: Stephanie Anne L. Co, MD-MBA
-  roles: Research Operations Officer
-  photo_url: /img/staff/SAC.png
-  quote: "\"Research is what I’m doing when I don’t know what I’m doing.\" <br> Wehner Von Braun"
+bernell_go:
+  name: Bernell Merwyn S. Go
+  roles: Executive Assistant, Office Manager
+  photo_url: /img/staff/BG.png
+  quote: ""
   description: "This is a sample description for this person."
   links:
     # email: sample@email.com
@@ -61,35 +81,14 @@ cheyenne_modina:
     # email: sample@email.com
     # linkedin: https://ph.linkedin.com/sample
 
-hadrian_lim:
-  name: Hadrian Paulo M. Lim, MS
-  roles: Information Technology Officer
-  photo_url: /img/staff/HML.png
-  quote: "\"AI might be a powerful technology, but things won't get better simply by adding AI. \" <br> Vivienne Ming"
-  description: "This is a sample description for this person."
-  links:
-    # email: sample@email.com
-    # linkedin: https://ph.linkedin.com/sample
-
-
 kat_baladad:
   name: Anne Kathlyn A. Baladad
-  roles: Marketing and Communications Officer
+  roles: Communications Officer
   photo_url: /img/staff/AKB.png
   quote: "\"Making the simple complicated is commonplace; making the complicated simple, that's creativity.\" <br> Charles Mingus"
   description: "This is a sample description for this person."
   links:
     # email: katya.baladad@gmail.com
-    # linkedin: https://ph.linkedin.com/sample
-
-bernell_go:
-  name: Bernell Merwyn S. Go
-  roles: Executive Assistant, Office Manager
-  photo_url: /img/staff/BG.png
-  quote: ""
-  description: "This is a sample description for this person."
-  links:
-    # email: sample@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 cleo_fowler:

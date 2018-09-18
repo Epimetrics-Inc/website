@@ -5,9 +5,9 @@ client: Department of Health
 image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/deathstar/DS_Infographic-02.png
 description:
   Over the years, the Administrative Orders (AO) in the DOH have accumulated and the department is unable to monitor the changes in provisions that have occurred. There is also no system in identifying duplications, inconsistencies, and gaps among the policies. Explicitly or implicitly repealed AOs are  subsequently not updated and can be a cause of confusion. Thus, the strategic alignment of these policies to the current Philippine Health Agenda may not be apparent. 
-  <br>
+  
   Using text mining and qualitative tools, systematically reviewing the AOs will allow DOH to effectively oversee that its policies are consistent, coherent, and up to date with the current health agenda. With the integration of these policies, the gaps that exist can be identified, and policies to address these can be recommended.
-  <br>
+  
   This study focused on four population groups -
   (1) Adolescents, (2) Maternal, Newborn, Child health and nutrition, (3) Geriatrics, and (4) Special Populations.
 

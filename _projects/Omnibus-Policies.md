@@ -2,12 +2,12 @@
 title: A Scoping Review of DOH Policies on Selected Population Subgroups
 date: 2018-09-01
 client: Department of Health
-image: https://github.com/Epimetrics-Inc/website/assets/projects/deathstar/DS_Infographic-02.png
-description: |
-  Over the years, the Administrative Orders (AO) in the DOH have accumulated and the department is unable to monitor the changes in provisions that have occurred. There is also no system in identifying duplications, inconsistencies, and gaps among the policies. Explicitly or implicitly repealed AOs are  subsequently not updated and can be a cause of confusion. Thus, the strategic alignment of these policies to the current Philippine Health Agenda may not be apparent.
-
+image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/deathstar/DS_Infographic-02.png
+description:
+  Over the years, the Administrative Orders (AO) in the DOH have accumulated and the department is unable to monitor the changes in provisions that have occurred. There is also no system in identifying duplications, inconsistencies, and gaps among the policies. Explicitly or implicitly repealed AOs are  subsequently not updated and can be a cause of confusion. Thus, the strategic alignment of these policies to the current Philippine Health Agenda may not be apparent. 
+  <br>
   Using text mining and qualitative tools, systematically reviewing the AOs will allow DOH to effectively oversee that its policies are consistent, coherent, and up to date with the current health agenda. With the integration of these policies, the gaps that exist can be identified, and policies to address these can be recommended.
-
+  <br>
   This study focused on four population groups -
   (1) Adolescents, (2) Maternal, Newborn, Child health and nutrition, (3) Geriatrics, and (4) Special Populations.
 
@@ -17,14 +17,14 @@ authors:
   photo_url: /img/staff/JQW.png
 - name: Eryne Joyce L. Ang
   role: Co-Investigator
+- name: Marjerie Brianna S. Go
+  role: Research Associate
 - name: Christine Ingrid M. Espinosa
   role: Research Associate
   photo_url: /img/staff/CIE.png
 - name: Krizelle Cleo Fowler
   role: Research Associate
   photo_url: /img/staff/CF.png
-- name: Marjerie Brianna S. Go
-  role: Research Associate
 - name: Abigail E. Lim
   role: Research Associate
   photo_url: /img/staff/AEL.png

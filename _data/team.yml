@@ -28,7 +28,7 @@ nel_jason_haw:
   description: "Jason Haw, MSc. is the Executive Director of EpiMetrics, Inc. He is one of the co-founders
 and has a Master of Science in Global Health from Georgetown University. He has been working with Dr. Wong for more than four years on various research projects, mostly focused on epidemiology, community health, and health financing."
   links:
-    # email: sample@email.com
+    # email: neljasonhaw@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 stephanie_anne_co:
@@ -38,7 +38,7 @@ stephanie_anne_co:
   quote: "\"Research is what I’m doing when I don’t know what I’m doing.\" <br> Wehner Von Braun"
   description: "This is a sample description for this person."
   links:
-    # email: sample@email.com
+    # email: stephanie.a.co@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 hadrian_lim:
@@ -48,7 +48,7 @@ hadrian_lim:
   quote: "\"AI might be a powerful technology, but things won't get better simply by adding AI. \" <br> Vivienne Ming"
   description: "This is a sample description for this person."
   links:
-    # email: sample@email.com
+    # email: hadrianpaulo@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 jac_lin_yu:
@@ -58,7 +58,7 @@ jac_lin_yu:
   quote: "\"Beware of little expenses; a small leak will sink a great ship.\" <br> Benjamin Franklin"
   description: "This is a sample description for this person."
   links:
-    # email: sample@email.com
+    # email: jaclinyu@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 bernell_go:
@@ -68,7 +68,7 @@ bernell_go:
   quote: ""
   description: "This is a sample description for this person."
   links:
-    # email: sample@email.com
+    # email: bernellgo@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 cheyenne_modina:
@@ -78,7 +78,7 @@ cheyenne_modina:
   quote: "\"Innovation begins with an eye.\" <br> Tom Kelley"
   description: "This is a sample description for this person."
   links:
-    # email: sample@email.com
+    # email: erikamodina@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 kat_baladad:
@@ -98,15 +98,15 @@ cleo_fowler:
   quote: "\"All that we are is a result of what we have thought.\" <br> Buddha"
   description: "This is a sample description for this person."
   links:
-    # email: sample@email.com
+    # email: krizelle.fowler@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 abigail_lim:
-  name: Abigail E. Lim
+  name: Abigail L. Tan
   roles: Qualitative Specialist
   photo_url: /img/staff/AEL.png
   quote: "\"We meet no ordinary people in our lives.\" <br> C.S. Lewis"
   description: "This is a sample description for this person."
   links:
-    # email: sample@email.com
+    # email: abbylim12@email.com
     # linkedin: https://ph.linkedin.com/sample

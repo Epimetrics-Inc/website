@@ -10,8 +10,8 @@ author_name: Christine Ingrid Espinosa
 author_roles: Research Associate, <br> Innovations Associate
 author_photo_url: \img\staff\CIE.png
 author_quote: "\"\" <br> "
-author_description: "Ingrid Espinosa is a Research and Innovations Associate at Epimetrics, Inc. Having been with EpiMetrics since 2016, she has worked on projects with various topics such as leprosy, HIV/AIDS, and hospital and DOH records. In the Innovations Unit, she continues to learn more about the different aspects of public health and design thinking, and is always on the lookout for new challenges to engage in and write about." 
-featured: true
+author_description: "Ingrid Espinosa is a Research and Innovations Associate at EpiMetrics, Inc. Having been with EpiMetrics since 2016, she has worked on projects with various topics such as leprosy, HIV/AIDS, and hospital and DOH records. In the Innovations Unit, she continues to learn more about the different aspects of public health and design thinking, and is always on the lookout for new challenges to engage in and write about." 
+featured: false
 internal_url: 2018/08/10/Getting-to-Know-PLHIV.html
 ---
 
@@ -84,6 +84,8 @@ In our office, all the presentations had been given, reports sent, and forms fil
     display: block;
     margin-left: auto;
     margin-right: auto;"/><i>The study team and representatives from PHIC, UNICEF and UNAIDS at the final presentation of the OHAT study. PHIC is working on and will soon publish a new circular on the OHAT package, partly based on evidence based on this study. (From left) Mx. Mario Baliago of UNICEF; Dr. Mariella Castillo of UNICEF; Dr. Wigdan Madani of UNICEF; Dr. Anne Remonte of PHIC; Dr. Stephanie Co of EpiMetrics; Ms. Leila Coppens of WHO; Ms. Gail Estrada of PHIC; Ms. Ingrid Espinosa of EpiMetrics</i><br><br>
+
+Interested in the project? See the <a href="https://epimetrics.com.ph/projects/phic-ohat" target="_blank">Project Article</a> 
 
 ***
 Helpful links: <br>

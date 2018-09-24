@@ -76,4 +76,6 @@ Through VOSViewer, an incredible open-source visualization tool by Leiden Univer
 
 Data mining products and techniques have already been adopted for supporting governance in multiple governments, such as the United States of America and the European Union. We hope that our work contributes to the initiative of using modern technology to promote data-driven decision-making. At EpiMetrics, we’re continuously working on state of the art products and solutions that aid in policy-making and governance in public health. 
 
-Interested? Let’s get in touch at [https://epimetrics.com.ph](https://epimetrics.com.ph/#contact-us)
+Interested in the project? See the <a href="https://epimetrics.com.ph/projects/omnibus-policies" target="_blank">Project Article</a> 
+
+Want to get to know us? Let’s get in touch at [https://epimetrics.com.ph](https://epimetrics.com.ph/#contact-us)

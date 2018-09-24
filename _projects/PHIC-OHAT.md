@@ -1,6 +1,6 @@
 ---
 title: Review of Outpatient HIV/AIDS Treatment (OHAT) Package of PHIC
-featured: true
+featured: false
 client: PhilHealth
 image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/hoth/EpiMetrics_OHATReview_Infographic.jpg
 description: |

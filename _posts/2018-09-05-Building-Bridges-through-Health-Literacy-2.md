@@ -31,6 +31,6 @@ An important thing that we gained from the attendance in this training was that 
 
 This training also allowed us a chance to do a short presentation to introduce our study to government and non-government stakeholders. This was a great opportunity because at this point, most people did not understand what we were planning to achieve with the OPHELIA method in the Philippines. The training also introduced us to the study being done by UPM that will be implementing a national health literacy survey. Knowing that there are two studies being funded by the government on health literacy is a very encouraging sign that we are on the right path in our efforts to do studies that are relevant and that will potentially create impact on national policies. 
 
-Read about Abby's insights [here](https://epimetrics.com.ph/2018-09-05-Building-Bridges-Through-Health-Literacy-1).
+Read about Abby's insights [here](https://epimetrics.com.ph/2018-09-05-building-bridges-through-healthlLiteracy-1).
 
 Interested in more? Let’s get in touch at [https://epimetrics.com.ph](https://epimetrics.com.ph/#contact-us)

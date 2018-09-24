@@ -34,6 +34,6 @@ It was like an “aha!” moment for me, especially when faced with applying the
 
 Improving health literacy needs is worth it, even if it takes cooperation and partnership with so many different stakeholders. Working with communities to solve these health literacy needs is necessary so that the government could get a clearer picture of what’s happening on the ground, to see if current policies for health service delivery are really effective. The voices of the community would also be well-represented through the process, and local wisdom could contribute in the innovation of solutions that can be based upon existing assets of the community. In order to make sure that the health literacy foundation we are developing through these initiatives will be stable, we need to build and maintain these bridges between the local and national stakeholders. 
 
-Read about Steph's Insights [here](https://epimetrics.com.ph/2018-09-05-Building-Bridges-through-Health-Literacy-2).
+Read about Steph's Insights [here](https://epimetrics.com.ph/2018-09-05-building-bridges-through-health-literacy-2).
 
 Interested in more? Let’s get in touch at [https://epimetrics.com.ph](https://epimetrics.com.ph/#contact-us)

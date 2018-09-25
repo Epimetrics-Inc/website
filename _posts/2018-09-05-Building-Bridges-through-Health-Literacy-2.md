@@ -2,7 +2,7 @@
 title: "Building Bridges Using Health Literacy Initiatives - Part 2"
 
 # Article Details
-featured_image_alt: \assets\posts\2018-09-05-WPRO-Health-Literacy-Training\1.png
+featured_image: https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png
 date: 2018-09-05
 # to get the name of the author, you need to refer to team.yml
 author_name: Stephanie Anne L. Co, MD-MBA

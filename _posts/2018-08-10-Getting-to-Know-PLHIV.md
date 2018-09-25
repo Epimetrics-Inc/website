@@ -3,7 +3,7 @@ title: "Learning to think Positive: \n
 Reflections on working with PLHIV for the OHAT study"
 
 # Article Details
-featured_image: \assets\posts\2018-05-02-Getting to Know\4.png
+featured_image_alt: https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2018-05-02-Getting%20to%20Know/4.png
 date: 2018-08-10
 # to get the name of the author, you need to refer to team.yml
 author_name: Christine Ingrid Espinosa

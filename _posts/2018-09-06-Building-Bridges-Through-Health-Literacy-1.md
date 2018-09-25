@@ -2,8 +2,8 @@
 title: "Building Bridges Using Health Literacy Initiatives - Part 1"
 
 # Article Details
-featured_image_alt: \assets\posts\2018-09-05-WPRO-Health-Literacy-Training\1.png
-date: 2018-09-05
+featured_image_alt: https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png
+date: 2018-09-06
 # to get the name of the author, you need to refer to team.yml
 author_name: Abigail L. Tan
 author_roles: Qualitative Specialist

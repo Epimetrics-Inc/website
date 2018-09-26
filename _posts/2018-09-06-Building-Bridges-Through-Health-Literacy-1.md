@@ -10,7 +10,7 @@ author_roles: Qualitative Specialist
 author_photo_url: /img/staff/AEL.png
 author_quote: "\"\" <br> "
 author_description: "" 
-featured: true
+featured: false
 internal_url: /2018-09-05-Building-Bridges-through-Health-Literacy-1.md
 ---
 

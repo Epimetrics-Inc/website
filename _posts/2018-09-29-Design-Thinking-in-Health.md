@@ -44,7 +44,13 @@ Indeed, there are countless of ways to use design thinking, both in your respect
 
 If you want to get into design thinking, familiarize yourself with the tools and let go of any fear that you aren’t creative or techy enough. There are toolkits available online, and these steps are easy to follow and understand. One of the reasons why there are still apprehensions about design thinking is because it hasn’t been applied in various fields here in the Philippines. I’m encouraging you to have that initiative to use this method in solving problems at work, wherever you may be! 
 
-
+<div style="width:image width px; font-size:80%; text-align:center; font-style:italic;"><img src="/assets/posts/2019-09-29-Design-Thinking-in-Health/2.png" 
+    style="max-width:calc(100% - 20px);;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;"/>Example of an improper PDF page. Documents are scanned with no retrievable text.
+</div>
+<i>Image from the Stanford d.school</i>
 
 Remember, the only way to be a design thinker is to jump right in. 
 

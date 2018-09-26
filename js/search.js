@@ -5,7 +5,7 @@
 
     if (results.length) { // Are there any results?
     	var appendString = '';
-      appendString += '<div class="section-description">Retrieved ' + results.length + ' results</div>';
+      appendString += '<div class="section-description"><b>Retrieved ' + results.length + ' results</b></div>';
       appendString += '<ul>';
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results

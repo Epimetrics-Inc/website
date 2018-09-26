@@ -2,8 +2,7 @@
 title: "Design Thinking in Health"
 
 # Article Details
-featured_image: 
-https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2018-09-29-Design-Thinking-in-Health\1.png
+featured_image: /assets/posts/2019-09-29-Design-Thinking-in-Health/1.png
 date: 2018-09-29
 # to get the name of the author, you need to refer to team.yml
 author_name: Cheyenne Ariana Erika M. Modina
@@ -19,7 +18,7 @@ I first heard of design thinking during my Global Health and Innovation class in
 
 <h2 style="color: #bd1515;">What is design thinking? </h2>
 
-<div style="width:image width px; font-size:80%; text-align:center; font-style:italic;"><img src="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2018-09-29-Design-Thinking-in-Health\1.png" 
+<div style="width:image width px; font-size:80%; text-align:center; font-style:italic;"><img src="/posts/2018-09-29-Design-Thinking-in-Health\1.png" 
     style="max-width:calc(100% - 20px);;
     display: block;
     margin-left: auto;

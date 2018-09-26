@@ -9,10 +9,10 @@ layout: page
 
 <script>
 	window.Epimetrics = {};
-  Epimetrics.store = {
+  posts = {
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
-        "title": "{{ post.title | xml_escape | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip }}",
+        "title": "[Insight] {{ post.title | xml_escape | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip }}",
         "author": "{{ post.author | xml_escape | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip }}",
         "category": "{{ post.category | xml_escape | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
@@ -21,4 +21,19 @@ layout: page
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
   };
+
+  projects = {
+    {% for post in site.projects %}
+      "{{ post.url | slugify }}": {
+        "title": "[Project] {{ post.title | xml_escape | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip }}",
+        "author": "{{ post.author | xml_escape | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip }}",
+        "category": "{{ post.category | xml_escape | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip }}",
+        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ post.url | xml_escape }}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  };
+
+  Epimetrics.store = Object.assign({}, posts, projects);
 </script>

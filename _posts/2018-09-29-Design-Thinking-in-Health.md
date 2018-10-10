@@ -5,8 +5,8 @@ title: "Design Thinking in Health"
 featured_image: /assets/posts/2019-09-29-Design-Thinking-in-Health/1.png
 date: 2018-09-29
 # to get the name of the author, you need to refer to team.yml
-author_name: Cheyenne Ariana Erika M. Modina
-author_roles: Innovations and Monitoring & Evaluation Specialist
+author_name: Cheyenne Ariana<br>Erika M. Modina
+author_roles: Innovations and <br> Monitoring & Evaluation Specialist
 author_photo_url: \img\staff\EM.png
 author_quote: "\"\" <br> "
 author_description: "" 
@@ -17,14 +17,6 @@ internal_url: 2018/09/29/Design-Thinking-in-Health.html
 I first heard of design thinking during my Global Health and Innovation class in college. Week after week, we came up with solutions to solve a wicked problem related to health. The course was novel to all of us, which was refreshing after taking subjects, such as biology, chemistry, and the like. Using IDEO’s human-centered design, I was amazed by the outcomes of my groupmates and my entire class. Not only that, the process of design thinking gave us a clearer perspective of health problems as we’d conduct focus group discussions and interviews with communities. Being more familiar with the health system, I could see myself doing this in the future. Inspired by my undergraduate class, I took a certificate course on technology and innovation from Stanford after graduation. Fast-forward to two years later, I now empathize, brainstorm, and prototype for a living in EpiMetrics. 
 
 <h2 style="color: #bd1515;">What is design thinking? </h2>
-
-<div style="width:image width px; font-size:80%; text-align:center; font-style:italic;"><img src="/posts/2018-09-29-Design-Thinking-in-Health\1.png" 
-    style="max-width:calc(100% - 20px);;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;"/>Example of an improper PDF page. Documents are scanned with no retrievable text.
-</div>
-<i>Image from the Stanford d.school</i>
 
 Design Thinking is an iterative process intended to be performed repeatedly until an optimum solution emerges. This is done using the five steps above, although there are other toolkits used by innovation specialists. These steps aren’t always followed chronologically, and one should keep in mind that for each problem, there are countless ways to start the method. Another common misconception with design thinking or innovation is that its result is a tangible product. However, the outcome of the process can simply be an experience for your users. You don’t have to be an engineer or work in computer science for this - you just have to know how to follow instructions! 
 
@@ -44,14 +36,14 @@ Indeed, there are countless of ways to use design thinking, both in your respect
 
 If you want to get into design thinking, familiarize yourself with the tools and let go of any fear that you aren’t creative or techy enough. There are toolkits available online, and these steps are easy to follow and understand. One of the reasons why there are still apprehensions about design thinking is because it hasn’t been applied in various fields here in the Philippines. I’m encouraging you to have that initiative to use this method in solving problems at work, wherever you may be! 
 
+Remember, the only way to be a design thinker is to jump right in.
+
 <div style="width:image width px; font-size:80%; text-align:center; font-style:italic;"><img src="/assets/posts/2019-09-29-Design-Thinking-in-Health/2.png" 
     style="max-width:calc(100% - 20px);;
     display: block;
     margin-left: auto;
-    margin-right: auto;"/>Example of an improper PDF page. Documents are scanned with no retrievable text.
+    margin-right: auto;"/>
 </div>
-<i>Image from the Stanford d.school</i>
-
-Remember, the only way to be a design thinker is to jump right in. 
+ 
 
 

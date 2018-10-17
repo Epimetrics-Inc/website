@@ -51,7 +51,7 @@ authors:
   role: Research Associate - Phase III
 - name: Maria Clarise N. Valencia, MD-MBA
   role: Research Associate - Phase III
-- name: Ingrid Espinosa
+- name: Christine Ingrid Espinosa
   role: Research Assistant - Phase II
 - name: Deo Estanislao
   role: Research Assistant - Phase II

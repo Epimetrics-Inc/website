@@ -22,6 +22,7 @@ authors:
   photo_url: /img/staff/EM.png
 - name: Joya Bagas
   role: Research Assistant
+  photo_url: /img/staff/NO-PIC.jpg
 - name: Krizelle Cleo Fowler
   role: Statistician
   photo_url: /img/staff/CF.png

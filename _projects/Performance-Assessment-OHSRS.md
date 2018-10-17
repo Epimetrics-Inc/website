@@ -17,10 +17,13 @@ authors:
   photo_url: /img/staff/JRT.png
 - name: Nico Angelo Rabang
   role: Research Associate
+  photo_url: /img/staff/NO-PIC.jpg
 - name: Jean Alexis Go
   role: Research Assistant
+  photo_url: /img/staff/NO-PIC.jpg
 - name: Christine Ingrid Espinosa
   role: Research Assistant
+  photo_url: /img/staff/NO-PIC.jpg
 - name: Abigail Lim
   role: Qualitative Specialist
   photo_url: /img/staff/AEL.png

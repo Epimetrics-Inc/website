@@ -18,8 +18,10 @@ authors:
   photo_url: /img/staff/JQW.png
 - name: Eryne Joyce L. Ang
   role: Co-Investigator
+  photo_url: /img/staff/NO-PIC.jpg
 - name: Marjerie Brianna S. Go
   role: Research Associate
+  photo_url: /img/staff/NO-PIC.jpg
 - name: Christine Ingrid M. Espinosa
   role: Research Associate
   photo_url: /img/staff/CIE.png

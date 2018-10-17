@@ -16,18 +16,21 @@ authors:
 - name: Stephanie Anne L. Co, MD-MBA
   role: Co-Investigator
   photo_url: /img/staff/SAC.png
+- name: Nel Jason L. Haw, MSc
+  role: Co-Investigator
+  photo_url: /img/staff/NJH.png
 - name: Joanna Feliz O. Cortez
   role: Research Associate
-  photo_url: 
+  photo_url: /img/staff/NO-PIC.jpg
 - name: Joy A. Bagas
   role: Research Associate
-  photo_url:
+  photo_url: /img/staff/NO-PIC.jpg
+- name: Ma. Sophia Graciela L. Reyes
+  role: Research Associate
+  photo_url: /img/staff/NO-PIC.jpg
 - name: Hadrian Paulo M. Lim
   role: Research Associate
   photo_url: /img/staff/HML.png
-- name: Ma. Sophia Graciela L. Reyes
-  role: Research Associate
-  photo_url: 
 - name: Krizelle Cleo Fowler
   role: Statistician
   photo_url: /img/staff/CF.png

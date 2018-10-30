@@ -2,7 +2,7 @@
 title: "Design Thinking in Health"
 
 # Article Details
-featured_image: /assets/posts/2019-09-29-Design-Thinking-in-Health/1.png
+featured_image: /assets/posts/2018-09-29-Design-Thinking-in-Health/1.png
 date: 2018-09-29
 # to get the name of the author, you need to refer to team.yml
 author_name: Cheyenne Ariana<br>Erika M. Modina
@@ -10,7 +10,7 @@ author_roles: Innovations and <br> Monitoring & Evaluation Specialist
 author_photo_url: \img\staff\EM.png
 author_quote: "\"\" <br> "
 author_description: "" 
-featured: true
+featured: false
 internal_url: 2018/09/29/Design-Thinking-in-Health.html
 ---
 
@@ -38,7 +38,7 @@ If you want to get into design thinking, familiarize yourself with the tools and
 
 Remember, the only way to be a design thinker is to jump right in.
 
-<div style="width:image width px; font-size:80%; text-align:center; font-style:italic;"><img src="/assets/posts/2019-09-29-Design-Thinking-in-Health/2.png" 
+<div style="width:image width px; font-size:80%; text-align:center; font-style:italic;"><img src="/assets/posts/2018-09-29-Design-Thinking-in-Health/2.png" 
     style="max-width:calc(100% - 20px);;
     display: block;
     margin-left: auto;

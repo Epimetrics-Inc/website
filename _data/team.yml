@@ -81,13 +81,13 @@ cheyenne_modina:
     # email: erikamodina@email.com
     # linkedin: https://ph.linkedin.com/sample
 
-# kat_baladad:
-#   name: Anne Kathlyn A. Baladad
-#   roles: Communications Specialist
-#   photo_url: /img/staff/AKB.png
-#   quote: "\"Making the simple complicated is commonplace; making the complicated simple, that's creativity.\" <br> Charles Mingus"
-#   description: "This is a sample description for this person."
-#   links:
+kat_baladad:
+   name: Anne Kathlyn A. Baladad
+   roles: Communications Specialist
+   photo_url: /img/staff/AKB.png
+   quote: "\"Making the simple complicated is commonplace; making the complicated simple, that's creativity.\" <br> Charles Mingus"
+   description: "This is a sample description for this person."
+   links:
     # email: katya.baladad@gmail.com
     # linkedin: https://ph.linkedin.com/sample
 

@@ -120,3 +120,33 @@ ingrid_espinosa:
   links:
     # email: espinosa.ingrid.m@gmail.com
     # linkedin: https://ph.linkedin.com/sample
+
+aidel_tulio:
+  name: Aideline C. Tulio
+  roles: Admin Assistant
+  photo_url: /img/staff/ACT.png
+  quote: "\"quote\" <br> Author"
+  description: "This is a sample description for this person."
+  links:
+    # email: aideline.tulio96@gmail.com
+    # linkedin: https://ph.linkedin.com/sample
+
+amor_babatido:
+  name: Amor Babatido
+  roles: Finance Assistant 
+  photo_url: /img/staff/AB.png
+  quote: "\"quote\" <br> Author"
+  description: "This is a sample description for this person."
+  links:
+    # email: amorbabatido@gmail.com
+    # linkedin: https://ph.linkedin.com/sample
+
+# firstname_lastname:
+#   name: Firstname Lastname
+#   roles: Position 
+#   photo_url: /img/staff/INITIALS.png
+#   quote: "\"quote\" <br> author"
+#   description: "This is a sample description for this person."
+#   links:
+#     # email: sample@gmail.com
+#     # linkedin: https://ph.linkedin.com/sample

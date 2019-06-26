@@ -23,7 +23,7 @@ authors:
   photo_url: /img/staff/NO-PIC.jpg
 - name: Christine Ingrid Espinosa
   role: Research Assistant
-  photo_url: /img/staff/NO-PIC.jpg
+  photo_url: /img/staff/CIE.png
 - name: Abigail Lim
   role: Qualitative Specialist
   photo_url: /img/staff/AEL.png

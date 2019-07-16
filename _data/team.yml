@@ -125,7 +125,7 @@ aidel_tulio:
   name: Aideline C. Tulio
   roles: Admin Assistant
   photo_url: /img/staff/ACT.png
-  quote: "\"quote\" <br> Author"
+  quote: "\"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence\" <br> Helen Keller"
   description: "This is a sample description for this person."
   links:
     # email: aideline.tulio96@gmail.com
@@ -135,7 +135,7 @@ amor_babatido:
   name: Amor Babatido
   roles: Finance Assistant 
   photo_url: /img/staff/AB.png
-  quote: "\"quote\" <br> Author"
+  quote: "\"If you want to live a happy life, tie it to a goal, not to people or things.\" <br> Albert Einstein"
   description: "This is a sample description for this person."
   links:
     # email: amorbabatido@gmail.com

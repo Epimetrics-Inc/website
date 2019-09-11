@@ -1,0 +1,5 @@
+local host testing
+
+in Visual Studio Code, at terminal, type "jekyll serve"
+
+then, in browser, type in localhost:4000

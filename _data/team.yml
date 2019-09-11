@@ -73,7 +73,7 @@ jac_lin_yu:
 
 cheyenne_modina:
   name: Cheyenne Ariana Erika M. Modina
-  roles: Innovations and Monitoring & Evaluation Specialist
+  roles: Strategy Officer 
   photo_url: /img/staff/EM.png
   quote: "\"Innovation begins with an eye.\" <br> Tom Kelley"
   description: "This is a sample description for this person."
@@ -113,7 +113,7 @@ abigail_lim:
 
 ingrid_espinosa:
   name: Christine Ingrid M. Espinosa
-  roles: Innovations and Research Associate
+  roles: Strategy and Research Associate
   photo_url: /img/staff/CIE.png
   quote: "\"Our imagination is stretched to the utmost, not in fiction...but to comprehend those things which are there.\" <br> Richard Feynman"
   description: "This is a sample description for this person."
@@ -125,7 +125,7 @@ aidel_tulio:
   name: Aideline C. Tulio
   roles: Admin Assistant
   photo_url: /img/staff/ACT.png
-  quote: "\"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence\" <br> Helen Keller"
+  quote: "\"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.\" <br> Helen Keller"
   description: "This is a sample description for this person."
   links:
     # email: aideline.tulio96@gmail.com

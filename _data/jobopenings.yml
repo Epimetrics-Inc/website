@@ -1,24 +1,14 @@
-# _data/jobopenings.yml
+#  _data/jobopenings.yml
 
-#- title: Finance Assistants
-  # description: >
-  #   We're looking for Finance Assistants, who are tasked to:
+- title: Research Associate
+  description: >
+    We're looking for a Research Associate, who is tasked to:
 
-  #     * Assist and lead in creating budgets for project proposals.
+    * Work on the Burden of Disease  project concentrating on executing the methodology, validating the data, research writing, and other research phases
       
-  #     * Assist in creating protocols and manuals.
+    * Expected to handle the technical aspect of the project including but not limited to planning, validation of estimates, research writing and results presentation (as needed)
       
-  #     * Provide presentations to team members and clients on financial protocols, proposals, and outcomes.
-      
-  #     * Assist in developing and managing the cost library.
-      
-  #     * Assist in creating and verifying liquidation and reimbursements reports.
-      
-  #     * Prepares weekly and monthly expense reports.
-      
-  #     * Bookkeeping of income and expenses for the company.
-      
-  #     * Assist in creating financial reports for projects.
-      
-  #     * Attend meetings when needed.
-  # keywords: []
+    * Work in a team under a Project Manager and assisting the Senior Research Associate
+    
+    
+  keywords: [research, associate, burden of disease]

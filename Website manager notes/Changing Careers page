@@ -1,0 +1,12 @@
+For changing available positions
+1. Open "jobopenings.yml"
+2. Without changing the format or indentation, change the information after the colons and asterisks.
+3. If there is more than one position available, copy the whole section from "-title" to "keywords", making sure the indentation is the same. Edit accordingly 
+4. Test changes on local host
+5. Revise accordingly.
+6. Save changes.
+
+If there are no available positions:
+1. Open jobopenings.yml
+2. Convert all to comment (highlight all > edit > Toggle comment)
+Notes: Relevant pages are careers.md (intro text) , careers.html (infrastructure for each job opening), and jobopenings.yml (content for each job opening). 

@@ -4,7 +4,6 @@ layout: default
 
 <main class="main">
 	<section id="above-fold">
-		<a src=https://www.epimetrics.com.ph/2020/04/02/covid-19>
 		<div id="above-fold-slider">
 			{% for slide in site.data.homepageslides %}
 				
@@ -12,16 +11,27 @@ layout: default
       rgba(0, 0, 0, 0.35), 
       rgba(0, 0, 0, 0.35)
     ), url('{{ slide.background_image  }}');">
-					<div class="slide-text">
-						{% if forloop.first %} <h1>{{ site.tagline }}</h1>
-						{% else %} <h1>{{ slide.title }}</h1>
-						{% endif %}
-						<p>{{ slide.description }}</p>
-					</div>
+
+					{% if forloop.first %} 
+						<a src=https://www.epimetrics.com.ph/2020/04/02/covid-19>
+						<div class="slide-text">
+							{% if forloop.first %} <h1>{{ site.tagline }}</h1>
+							{% else %} <h1>{{ slide.title }}</h1>
+							{% endif %}
+							<p>{{ slide.description }}</p>
+						</div>
+						</a>
+					{% else %}
+						<div class="slide-text">
+							{% if forloop.first %} <h1>{{ site.tagline }}</h1>
+							{% else %} <h1>{{ slide.title }}</h1>
+							{% endif %}
+							<p>{{ slide.description }}</p>
+						</div>
+					{% endif %}
 				</div>
 			{% endfor %}
 		</div>
-		</a>
 	</section>
 
 	<section id="solutions" class="with-background aligned-left" style="background-image: linear-gradient(

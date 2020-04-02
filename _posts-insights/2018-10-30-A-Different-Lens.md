@@ -10,13 +10,13 @@ author_roles: Quantitative Specialist
 author_photo_url: \img\staff\CF.png
 author_quote: "\"\" <br> "
 author_description: "" 
-featured: true
+featured: false
 internal_url: 2018/10/30/A-Different-Lens.html
 ---
 
 The 17th National Health Research Forum for Action (NHRFA) is an event organized by the Department of Health - Health Policy Development and Planning Bureau (DOH-HPDPB), entitled this year as <strong><i>Full Speed AHEAD</i></strong>. True to its theme, the goal of this year’s forum was for all stakeholders, from researchers to policy-makers, to meet and fuel possible collaborations in the future all the while recognizing the vitality of health systems research in evidence-based policy-making to achieve WHO’s SDG 3 or the Universal Health Coverage.
 
-I attended the forum in solidarity for EpiMetrics’ contribution to the event. As one of the institutional grantees of the AHEAD program, we presented our progress on the project <i>[“Optimising Health Literacy (OpHeLia) in the Philippines”](https://www.epimetrics.com.ph/2018/09/06/building-bridges-through-health-literacy-1)</i>. This project aims to provide baseline health literacy information, through co-creating interventions with the communities. We were also invited to present the results of the study of <i>[“Factors Affecting Drug Pricing in National Public Hospitals”](https://www.epimetrics.com.ph/projects/factors-influencing-drug-prices)</i>. As part of these projects, I was really excited that they were presented.
+I attended the forum in solidarity for EpiMetrics’ contribution to the event. As one of the institutional grantees of the AHEAD program, we presented our progress on the project <i>“Optimising Health Literacy (OpHeLia) in the Philippines”</i>. This project aims to provide baseline health literacy information, through co-creating interventions with the communities. We were also invited to present the results of the study of <i>[“Factors Affecting Drug Pricing in National Public Hospitals”](https://www.epimetrics.com.ph/projects/factors-influencing-drug-prices)</i>. As part of these projects, I was really excited that they were presented.
 
 <img src="\assets\posts\2018-10-30-A-Different-Lens\1.png" 
     style="max-width: calc(100% - 50px);>;
@@ -42,4 +42,11 @@ There is so much left to do for public health since the researches are only at t
 The NHRFA should also recognize the importance of inviting other organizations. The practice of having only health professionals should be changed since public health encompasses economics, sociology, and other disciplines. By doing so, the public health community grows through collaboration, innovation and participation of different sectors. While the goal is for more sophisticated research to be produced throughout time - this is a two-way street. Even if we have the best of the best researchers in the field, results depend on the quality of data we collect. Having different sectors working together lead to better chances of achieving this.
 
 As a quantitative researcher and aspiring epidemiologist, I dream of a day when my fundamental knowledge in methods would be integrated to my knowledge in health systems. For now, I appreciate this kind of venture and the welcoming feeling in the field. I can only do so much as a budding researcher but what I can offer is to be an advocate of using statistics to only provide only the truth albeit it being not palatable to policy-makers. Statistics is a great tool in policy-making but it should not be used to deceive the public. If given the chance, I would promote the responsible use of statistics in researches, especially in public health.
+ 
+<img src="\assets\posts\2018-10-30-A-Different-Lens\2.jpg" 
+    style="max-width: calc(200% - 50px);>;
+    max-height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;"><br>
 

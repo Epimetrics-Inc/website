@@ -12,15 +12,15 @@ layout: default
       rgba(0, 0, 0, 0.35)
     ), url('{{ slide.background_image  }}');">
 
-					{% if forloop.last %} 
-						<div class="slide-text" onclick="location.href='https://www.epimetrics.com.ph/2020/04/02/covid-19';" style="cursor: pointer;">
+					{% if forloop.first %} 
+						<div class="slide-text">
 							{% if forloop.first %} <h1>{{ site.tagline }}</h1>
 							{% else %} <h1>{{ slide.title }}</h1>
 							{% endif %}
 							<p>{{ slide.description }}</p>
 						</div>
 					{% else %}
-						<div class="slide-text">
+						<div class="slide-text" onclick="location.href='https://www.epimetrics.com.ph/2020/04/02/covid-19';" style="cursor: pointer;">
 							{% if forloop.first %} <h1>{{ site.tagline }}</h1>
 							{% else %} <h1>{{ slide.title }}</h1>
 							{% endif %}

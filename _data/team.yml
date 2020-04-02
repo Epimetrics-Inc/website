@@ -10,24 +10,24 @@ john_q_wong:
     # email: johnqwong@gmail.com
     # linkedin: https://ph.linkedin.com/sample
 
-diana_beatriz_bayani:
-  name: Diana Beatriz S. Bayani, MSc
-  roles: Board Member, Founder
-  photo_url: /img/staff/DBB.png
-  quote: ""
-  description: "This is a sample description for this person."
-  links:
+# diana_beatriz_bayani:
+#   name: Diana Beatriz S. Bayani, MSc
+#   roles: Board Member, Founder
+#   photo_url: /img/staff/DBB.png
+#   quote: ""
+#   description: "This is a sample description for this person."
+#   links:
     # email: sample@email.com
     # linkedin: https://ph.linkedin.com/sample
 
-nel_jason_haw:
-  name: Nel Jason L. Haw, MSc
-  roles: Global Health Division Head, Founder
-  photo_url: /img/staff/NJH.png
-  quote: "\"It is our light, not our darkness, that most frightens us.\" <br> Marianne Williamson"
-  description: "Jason Haw, MSc. is the Executive Director of EpiMetrics, Inc. He is one of the co-founders
-and has a Master of Science in Global Health from Georgetown University. He has been working with Dr. Wong for more than four years on various research projects, mostly focused on epidemiology, community health, and health financing."
-  links:
+# nel_jason_haw:
+#   name: Nel Jason L. Haw, MSc
+#   roles: Global Health Division Head, Founder
+#   photo_url: /img/staff/NJH.png
+#   quote: "\"It is our light, not our darkness, that most frightens us.\" <br> Marianne Williamson"
+#   description: "Jason Haw, MSc. is the Executive Director of EpiMetrics, Inc. He is one of the co-founders
+# and has a Master of Science in Global Health from Georgetown University. He has been working with Dr. Wong for more than four years on various research projects, mostly focused on epidemiology, community health, and health financing."
+#   links:
     # email: neljasonhaw@email.com
     # linkedin: https://ph.linkedin.com/sample
 
@@ -41,13 +41,13 @@ stephanie_anne_co:
     # email: stephanie.a.co@email.com
     # linkedin: https://ph.linkedin.com/sample
 
-hadrian_lim:
-  name: Hadrian Paulo M. Lim, MS
-  roles: Health Information Systems Division Head
-  photo_url: /img/staff/HML.png
-  quote: "\"AI might be a powerful technology, but things won't get better simply by adding AI. \" <br> Vivienne Ming"
-  description: "This is a sample description for this person."
-  links:
+# hadrian_lim:
+#   name: Hadrian Paulo M. Lim, MS
+#   roles: Health Information Systems Division Head
+#   photo_url: /img/staff/HML.png
+#   quote: "\"AI might be a powerful technology, but things won't get better simply by adding AI. \" <br> Vivienne Ming"
+#   description: "This is a sample description for this person."
+#   links:
     # email: hadrianpaulo@email.com
     # linkedin: https://ph.linkedin.com/sample
 
@@ -61,19 +61,19 @@ jac_lin_yu:
     # email: jaclinyu@email.com
     # linkedin: https://ph.linkedin.com/sample
 
-bernell_go:
-  name: Bernell Merwyn S. Go
-  roles: Executive Assistant, Office Manager
-  photo_url: /img/staff/BG.png
-  quote: ""
-  description: "This is a sample description for this person."
-  links:
+# bernell_go:
+#   name: Bernell Merwyn S. Go
+#   roles: Executive Assistant, Office Manager
+#   photo_url: /img/staff/BG.png
+#   quote: ""
+#   description: "This is a sample description for this person."
+#   links:
     # email: bernellgo@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 cheyenne_modina:
   name: Cheyenne Ariana Erika M. Modina
-  roles: Innovations and Monitoring & Evaluation Specialist
+  roles: Strategy Officer 
   photo_url: /img/staff/EM.png
   quote: "\"Innovation begins with an eye.\" <br> Tom Kelley"
   description: "This is a sample description for this person."
@@ -81,13 +81,13 @@ cheyenne_modina:
     # email: erikamodina@email.com
     # linkedin: https://ph.linkedin.com/sample
 
-kat_baladad:
-  name: Anne Kathlyn A. Baladad
-  roles: Communications Specialist
-  photo_url: /img/staff/AKB.png
-  quote: "\"Making the simple complicated is commonplace; making the complicated simple, that's creativity.\" <br> Charles Mingus"
-  description: "This is a sample description for this person."
-  links:
+#kat_baladad:
+#   name: Anne Kathlyn A. Baladad
+#   roles: Communications Specialist
+#   photo_url: /img/staff/AKB.png
+#   quote: "\"Making the simple complicated is commonplace; making the complicated simple, that's creativity.\" <br> Charles Mingus"
+#   description: "This is a sample description for this person."
+#   links:
     # email: katya.baladad@gmail.com
     # linkedin: https://ph.linkedin.com/sample
 
@@ -110,3 +110,43 @@ abigail_lim:
   links:
     # email: abbylim12@email.com
     # linkedin: https://ph.linkedin.com/sample
+
+ingrid_espinosa:
+  name: Christine Ingrid M. Espinosa
+  roles: Strategy and Research Associate
+  photo_url: /img/staff/CIE.png
+  quote: "\"Our imagination is stretched to the utmost, not in fiction...but to comprehend those things which are there.\" <br> Richard Feynman"
+  description: "This is a sample description for this person."
+  links:
+    # email: espinosa.ingrid.m@gmail.com
+    # linkedin: https://ph.linkedin.com/sample
+
+aidel_tulio:
+  name: Aideline C. Tulio
+  roles: Admin Assistant
+  photo_url: /img/staff/ACT.png
+  quote: "\"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.\" <br> Helen Keller"
+  description: "This is a sample description for this person."
+  links:
+    # email: aideline.tulio96@gmail.com
+    # linkedin: https://ph.linkedin.com/sample
+
+amor_babatido:
+  name: Amor Babatido
+  roles: Finance Assistant 
+  photo_url: /img/staff/AB.png
+  quote: "\"If you want to live a happy life, tie it to a goal, not to people or things.\" <br> Albert Einstein"
+  description: "This is a sample description for this person."
+  links:
+    # email: amorbabatido@gmail.com
+    # linkedin: https://ph.linkedin.com/sample
+
+# firstname_lastname:
+#   name: Firstname Lastname
+#   roles: Position 
+#   photo_url: /img/staff/INITIALS.png
+#   quote: "\"quote\" <br> author"
+#   description: "This is a sample description for this person."
+#   links:
+#     # email: sample@gmail.com
+#     # linkedin: https://ph.linkedin.com/sample

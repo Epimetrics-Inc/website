@@ -1,0 +1,6 @@
+1. While in VisualStudio, make changes
+2. Save in VisualStudio (Ctrl+S)
+3. Open Github
+4. Write the summary and description of changes, and click "commit to master"
+5. On the right side, click "Push to origin"
+6. Expect changes in the website in 30 minutes at most.

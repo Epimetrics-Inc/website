@@ -1,0 +1,7 @@
+Local host testing
+
+1. Open Visual Studio Code. At terminal, type "jekyll serve"
+
+2. Open browser. In the URL bar, type "localhost:4000"
+
+3. Navigate website through this URL to see changes, once saved in VisualStudio

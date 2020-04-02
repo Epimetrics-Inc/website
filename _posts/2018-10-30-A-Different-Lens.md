@@ -10,7 +10,7 @@ author_roles: Quantitative Specialist
 author_photo_url: \img\staff\CF.png
 author_quote: "\"\" <br> "
 author_description: "" 
-featured: false
+featured: true
 internal_url: 2018/10/30/A-Different-Lens.html
 ---
 

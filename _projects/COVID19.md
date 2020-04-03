@@ -3,7 +3,7 @@ title: Prescriptions. A Special Technical Brief Series on the COVID-19 Pandemic
 date: 2020-04-02
 client: 
 featured: true
-image: https://github.com/Epimetrics-Inc/website/raw/master/assets//posts/2020-04-02-COVID19/c19intro.png
+image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/covid19/c19qc.png
 description: 
     Read our latest policy and technical briefs on responding to the COVID-19 pandemic, for the Philippines.
     Created by the joint study team of EpiMetrics Inc. with the University of the Philippines – College of Public Health, and the Ateneo School of Medicine and Public Health.
@@ -14,7 +14,7 @@ authors:
   photo_url: /img/staff/JQW.png
 - name: Krizelle Cleo Fowler
   role: Team Lead, EpiMetrics Inc.
-  photo_url: /img/staff/CF.jpg
+  photo_url: /img/staff/CF.png
 - name: Viviane Cen Apostol
   role: Team Lead, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
@@ -26,7 +26,7 @@ authors:
   photo_url: /img/staff/NO-PIC.jpg
 - name: Christine Ingrid M. Espinosa 
   role: Team Lead, EpiMetrics Inc.
-  photo_url: /img/staff/CIE.jpg
+  photo_url: /img/staff/CIE.png
 - name: Carlo Emmanuel L Yao, MD MBA
   role: Team Lead, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
@@ -44,7 +44,7 @@ authors:
   photo_url: /img/staff/NO-PIC.jpg
 - name: Stephanie Anne  L Co, MD MBA
   role: Research team, EpiMetrics Inc.
-  photo_url: /img/staff/SAC.jpg
+  photo_url: /img/staff/SAC.png
 - name: Kim Carmela D Co, RN MSc
   role: Research team, UP CPH
   photo_url: /img/staff/NO-PIC.jpg

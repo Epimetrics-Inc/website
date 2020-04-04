@@ -3,7 +3,7 @@ title: Prescriptions. A Special Technical Brief Series on the COVID-19 Pandemic
 date: 2020-04-02
 client: 
 featured: true
-image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/covid19/c19qc.png
+image: https://github.com/Epimetrics-Inc/website/raw//assets/projects/c19/c19qc.png
 description: 
     Read our latest policy and technical briefs on responding to the COVID-19 pandemic, for the Philippines.
     Created by the joint study team of EpiMetrics Inc. with the University of the Philippines – College of Public Health, and the Ateneo School of Medicine and Public Health.
@@ -89,8 +89,9 @@ building_blocks:
 Read our latest policy and technical briefs on responding to the COVID-19 pandemic, for the Philippines.
 
 Created by the joint study team of EpiMetrics Inc. with the University of the Philippines – College of Public Health, and the Ateneo School of Medicine and Public Health.
+Design and layout by Ingrid Espinosa and Krisia Misa.
 
-<!-- Click on the titles to download the files.
+Click on the titles to download the files.
 
 # Policy and Technical Briefs 
 <b> 1.	Surveillance, Epidemiology, and Laboratory Activities </b>
@@ -99,7 +100,7 @@ Created by the joint study team of EpiMetrics Inc. with the University of the Ph
 
 <b> 2.  Community Mitigation Measures </b>
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Social vaccine: A Review of Community Mitigation Interventions for Social Immunity. 23 March 2020</a> 
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/4.pdf" target="_blank">Social vaccine: A Review of Community Mitigation Interventions for Social Immunity. 23 March 2020</a> 
 
 <b> 3. Medical Countermeasures: Diagnostic Devices, Vaccines, Therapeutics, and Respiratory Devices </b>
 
@@ -116,7 +117,7 @@ Created by the joint study team of EpiMetrics Inc. with the University of the Ph
 <!-- 5. Communications and Public Outreach -->
 <!-- 6. Scientific Infrastructure and Preparedness -->
 
-<!-- <b> 5. Domestic and International Response Policy, Incident Management, and Global
+<b> 5. Domestic and International Response Policy, Incident Management, and Global
 Partnerships and Capacity Building </b>
 
 <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Answers without Barriers: Wall-Free Solutions Against COVID-19. 23 March 2020</a> 
@@ -128,4 +129,4 @@ Partnerships and Capacity Building </b>
 
 <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Health Care System Preparedness and Response Activities for LGUs (Handout). Appendices only.</a>
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Empowered Devolution: The COVID-19 Preparedness and Response System. Appendices only.</a> --> -->
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Empowered Devolution: The COVID-19 Preparedness and Response System. Appendices only.</a>

@@ -3,7 +3,7 @@ title: Prescriptions. A Special Technical Brief Series on the COVID-19 Pandemic
 date: 2020-04-02
 client: 
 featured: true
-image: https://github.com/Epimetrics-Inc/website/raw//assets/projects/c19/c19qc.png
+image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/c19qc.png
 description: 
     Read our latest policy and technical briefs on responding to the COVID-19 pandemic, for the Philippines.
     Created by the joint study team of EpiMetrics Inc. with the University of the Philippines – College of Public Health, and the Ateneo School of Medicine and Public Health.

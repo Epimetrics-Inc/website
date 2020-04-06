@@ -88,28 +88,26 @@ building_blocks:
 
 Read our latest policy and technical briefs on responding to the COVID-19 pandemic, for the Philippines.
 
-Created by the joint study team of EpiMetrics Inc. with the University of the Philippines – College of Public Health, and the Ateneo School of Medicine and Public Health.
+Created by the joint study team of EpiMetrics Inc. with the University of the Philippines College of Public Health, and the Ateneo School of Medicine and Public Health.
 
 Click on the titles to download the files.
 
 # Policy and Technical Briefs 
 <b> 1.	Surveillance, Epidemiology, and Laboratory Activities </b>
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">A Rapid Review of Surveillance Strategies Against COVID 19. 23 March 2020</a> 
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/2.pdf" target="_blank">Is ECQ Working? A COVID-19 Monitoring and Evaluation Guide for Government Response. 23 March 2020</a>  
 
 <b> 2.  Community Mitigation Measures </b>
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/4.pdf" target="_blank">Social vaccine: A Review of Community Mitigation Interventions for Social Immunity. 23 March 2020</a> 
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/3.pdf" target="_blank">Social vaccine: A Review of Community Mitigation Interventions for Social Immunity. 23 March 2020</a> 
 
 <b> 3. Medical Countermeasures: Diagnostic Devices, Vaccines, Therapeutics, and Respiratory Devices </b>
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Watching the flare: A Rapid Review of Surveillance Strategies Against COVID 19. 23 March 2020</a> 
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/4.pdf" target="_blank">Casting a wider net: A Rapid Review of Surveillance Strategies Against COVID 19. 23 March 2020</a> 
 
 <b> 4. Health Care System Preparedness and Response Activities </b>
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Health Care System Preparedness and Response Activities for LGUs (Handout)</a>
-
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Empowered Devolution: The COVID-19 Preparedness and Response System</a>
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/5.pdf" target="_blank">Empowered Devolution: The COVID-19 Preparedness and Response System</a>
 
 
 
@@ -119,15 +117,22 @@ Click on the titles to download the files.
 <b> 5. Domestic and International Response Policy, Incident Management, and Global
 Partnerships and Capacity Building </b>
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Answers without Barriers: Wall-Free Solutions Against COVID-19. 23 March 2020</a> 
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/6.pdf" target="_blank">Contain, not detain: Best practices in Country Solutions Against COVID-19. 23 March 2020</a> 
 
+<br />
+
+<b> Summaries/Cross-domain </b>
+
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/1.pdf" target="_blank">Summary of Recommendations. 24 March 2020</a> 
+
+<br />
 
 ## Appendixes: 
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">A Monitoring and Evaluation Guide for Government Response to COVID-19. Appendix 1. Summary of Case Studies</a> 
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/3a.pdf" target="_blank">A Monitoring and Evaluation Guide for Government Response to COVID-19. Appendix. Summary of Case Studies</a> 
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Health Care System Preparedness and Response Activities for LGUs (Handout). Appendices only.</a>
+<!-- <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/3.pdf" target="_blank">Health Care System Preparedness and Response Activities for LGUs (Handout). Appendices only.</a> -->
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2020-04-02-COVID19/C19V1I3.pdf" target="_blank">Empowered Devolution: The COVID-19 Preparedness and Response System. Appendices only.</a>
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/5a.pdf" target="_blank">Empowered Devolution: The COVID-19 Preparedness and Response System. Appendices only.</a>
 
 Design and layout by Ingrid Espinosa and Krisia Misa.

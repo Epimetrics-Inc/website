@@ -54,6 +54,9 @@ authors:
 - name: Roxanne B. Coronel
   role: Research team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
+- name: Maria Teresa O. Dela Cruz
+  role: Research team, ASMPH
+  photo_url: /img/staff/NO-PIC.jpg
 - name: Angelica Anne Latorre, MPH
   role: Research team, UP CPH
   photo_url: /img/staff/NO-PIC.jpg

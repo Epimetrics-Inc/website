@@ -21,19 +21,19 @@ authors:
 - name: Denise Castro, MD MBA
   role: Team Lead, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
-- name: Joanne Abigail R Pamin, MD MBA
+- name: Joanne Abigail R. Pamin, MD MBA
   role: Team Lead, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
 - name: Christine Ingrid M. Espinosa 
   role: Team Lead, EpiMetrics Inc.
   photo_url: /img/staff/CIE.png
-- name: Carlo Emmanuel L Yao, MD MBA
+- name: Carlo Emmanuel L. Yao, MD MBA
   role: Team Lead, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
-- name: Erin Jay G Feliciano
+- name: Erin Jay G. Feliciano
   role: Team Lead, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
-- name: Arianna Racquel S Abundo
+- name: Arianna Racquel S. Abundo
   role: Research team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Michael B. Agoncillo 
@@ -42,28 +42,31 @@ authors:
 - name: John Rafael Y. Arda
   role: Research team, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
-- name: Stephanie Anne  L Co, MD MBA
+- name: Joshua Joel F. Cahatol
+  role: Research team, EpiMetrics Inc.
+  photo_url: /img/staff/NO-PIC.jpg
+- name: Stephanie Anne L. Co, MD MBA
   role: Research team, EpiMetrics Inc.
   photo_url: /img/staff/SAC.png
-- name: Kim Carmela D Co, RN MSc
+- name: Kim Carmela D. Co, RN MSc
   role: Research team, UP CPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Roxanne B. Coronel
   role: Research team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
-- name: Angelica Anne  Latorre, MPH
+- name: Angelica Anne Latorre, MPH
   role: Research team, UP CPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: John Robert Medina
   role: Research team, UP CPH
   photo_url: /img/staff/NO-PIC.jpg
-- name: Carlos Diego S Mendoza
+- name: Carlos Diego S. Mendoza
   role: Research team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Krisia Denise Misa
   role: Research team, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
-- name: Maria Patricia M Nitura
+- name: Maria Patricia M. Nitura
   role: Research team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Paul Adrian Pinlac, MD MPH
@@ -72,13 +75,13 @@ authors:
 - name: Ana Karina Sesbreno
   role: Research team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
-- name: Margarita B Simbulan
+- name: Margarita B. Simbulan
   role: Research team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
-- name: Adrianne Mei L Uy
+- name: Adrianne Mei L. Uy
   role: Research team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
-- name: Morisson Ezra O Wong Gonzales
+- name: Morisson Ezra O. Wong Gonzales
   role: Research team, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
 

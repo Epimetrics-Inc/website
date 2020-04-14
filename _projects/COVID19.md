@@ -130,6 +130,7 @@ Partnerships and Capacity Building </b>
 <b> Summaries/Cross-domain </b>
 
 <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/1.pdf" target="_blank">Summary of Recommendations. 24 March 2020</a> 
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/pb1.pdf" target="_blank">Rapid Policy Recommendation to the Philippine COVID19 Response Attaining Coherence in a  Decentralized Low-Middle Income Country Healthcare Setting. 24 March 2020</a> 
 
 <br />
 

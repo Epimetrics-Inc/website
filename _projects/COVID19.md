@@ -103,6 +103,9 @@ Click on the titles to download the files.
 
 <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/2.pdf" target="_blank">Is ECQ Working? A COVID-19 Monitoring and Evaluation Guide for Government Response. 23 March 2020</a>  
 
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/7.pdf" target="_blank">How will we know if the Enhanced Community Quarantine (ECQ) has been effective? A technical guide. 30 March 2020</a>
+
+
 <b> 2.  Community Mitigation Measures </b>
 
 <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/3.pdf" target="_blank">Social vaccine: A Review of Community Mitigation Interventions for Social Immunity. 23 March 2020</a> 
@@ -142,5 +145,9 @@ Partnerships and Capacity Building </b>
 <!-- <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/3.pdf" target="_blank">Health Care System Preparedness and Response Activities for LGUs (Handout). Appendices only.</a> -->
 
 <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/5a.pdf" target="_blank">Empowered Devolution: The COVID-19 Preparedness and Response System. Appendices only.</a>
+
+
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/5h.pdf" target="_blank">Empowered Devolution: The COVID-19 Preparedness and Response System (Handout).</a>
+
 
 Design and layout by Ingrid Espinosa and Krisia Misa.

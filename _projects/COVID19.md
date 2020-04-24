@@ -23,13 +23,13 @@ authors:
   photo_url: /img/staff/NO-PIC.jpg
 - name: Joanne Abigail R. Pamin, MD MBA
   role: Team Lead, EpiMetrics Inc.
-  photo_url: /img/staff/NO-PIC.jpg
+  photo_url: /img/staff/JAP.png
 - name: Christine Ingrid M. Espinosa 
   role: Team Lead, EpiMetrics Inc.
   photo_url: /img/staff/CIE.png
 - name: Carlo Emmanuel L. Yao, MD MBA
   role: Team Lead, EpiMetrics Inc.
-  photo_url: /img/staff/NO-PIC.jpg
+  photo_url: /img/staff/CEY.png
 - name: Erin Jay G. Feliciano
   role: Team Lead, ASMPH
   photo_url: /img/staff/NO-PIC.jpg

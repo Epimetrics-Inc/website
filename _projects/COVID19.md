@@ -98,56 +98,47 @@ Created by the joint study team of EpiMetrics Inc. with the University of the Ph
 
 Click on the titles to download the files.
 
-# Policy and Technical Briefs 
-<b> 1.	Surveillance, Epidemiology, and Laboratory Activities </b>
+## Policy and Technical Briefs
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/2.pdf" target="_blank">Technical Brief Issue 2. Is ECQ Working? A COVID-19 Monitoring and Evaluation Guide for Government Response. 23 March 2020</a>  
+1. **Surveillance, Epidemiology, and Laboratory Activities**
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/7.pdf" target="_blank">Technical Brief Issue 7. How will we know if the Enhanced Community Quarantine (ECQ) has been effective? A technical guide. 30 March 2020</a>
+    [Technical Brief Issue 2. Is ECQ Working? A COVID-19 Monitoring and Evaluation Guide for Government Response. 23 March 2020](../assets/projects/c19/2.pdf){:target="_blank":rel="nofollow"}
 
+    [Technical Brief Issue 7. How will we know if the Enhanced Community Quarantine (ECQ) has been effective? A technical guide. 30 March 2020](../assets/projects/c19/7.pdf){:target="_blank":rel="nofollow"}
 
-<b> 2.  Community Mitigation Measures </b>
+2. **Community Mitigation Measures**
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/3.pdf" target="_blank">Technical Brief Issue 3. Social vaccine: A Review of Community Mitigation Interventions for Social Immunity. 23 March 2020</a> 
+    [Technical Brief Issue 3. Social vaccine: A Review of Community Mitigation Interventions for Social Immunity. 23 March 2020](../assets/projects/c19/3.pdf){:target="_blank":rel="nofollow"}
 
-<b> 3. Medical Countermeasures: Diagnostic Devices, Vaccines, Therapeutics, and Respiratory Devices </b>
+3. **Medical Countermeasures: Diagnostic Devices, Vaccines, Therapeutics, and Respiratory Devices**
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/4.pdf" target="_blank">Technical Brief Issue 4. Casting a wider net: A Rapid Review of Surveillance Strategies Against COVID 19. 23 March 2020</a> 
+    [Technical Brief Issue 4. Casting a wider net: A Rapid Review of Surveillance Strategies Against COVID 19. 23 March 2020](../assets/projects/c19/4.pdf){:target="_blank":rel="nofollow"}
 
-<b> 4. Health Care System Preparedness and Response Activities </b>
+4. **Health Care System Preparedness and Response Activities**
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/5.pdf" target="_blank">Technical Brief Issue 5. Empowered Devolution: The COVID-19 Preparedness and Response System</a>
+    [Technical Brief Issue 5. Empowered Devolution: The COVID-19 Preparedness and Response System](../assets/projects/c19/5.pdf){:target="_blank":rel="nofollow"}
 
+    <!-- 5. Communications and Public Outreach -->
+    <!-- 6. Scientific Infrastructure and Preparedness -->
 
+5. **Domestic and International Response Policy, Incident Management, Partnerships and Capacity Building**
 
-<!-- 5. Communications and Public Outreach -->
-<!-- 6. Scientific Infrastructure and Preparedness -->
+    [Technical Brief Issue 6. Contain, not detain: Best practices in Country Solutions Against COVID-19. 23 March 2020](../assets/projects/c19/6.pdf){:target="_blank":rel="nofollow"}
 
-<b> 5. Domestic and International Response Policy, Incident Management, and Global
-Partnerships and Capacity Building </b>
+## Summaries/Cross-domain
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/6.pdf" target="_blank">Technical Brief Issue 6. Contain, not detain: Best practices in Country Solutions Against COVID-19. 23 March 2020</a> 
-
-<br />
-
-<b> Summaries/Cross-domain </b>
-
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/1.pdf" target="_blank">Technical Brief Issue 1. Summary of Recommendations. 24 March 2020</a>
+[Technical Brief Issue 1. Summary of Recommendations. 24 March 2020](../assets/projects/c19/1.pdf){:target="_blank"}
  
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/pb1.pdf" target="_blank">Policy Brief Issue 1. Rapid Policy Recommendation to the Philippine COVID19 Response Attaining Coherence in a  Decentralized Low-Middle Income Country Healthcare Setting. 24 March 2020</a> 
+[Policy Brief Issue 1. Rapid Policy Recommendation to the Philippine COVID19 Response Attaining Coherence in a  Decentralized Low-Middle Income Country Healthcare Setting. 24 March 2020](../assets/projects/c19/pb1.pdf){:target="_blank"}
 
-<br />
+## Appendixes:
 
-## Appendixes: 
-
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/3a.pdf" target="_blank">Technical Brief Issue 3A. A Monitoring and Evaluation Guide for Government Response to COVID-19. Appendix. Summary of Case Studies</a> 
+[Technical Brief Issue 3A. A Monitoring and Evaluation Guide for Government Response to COVID-19. Appendix. Summary of Case Studies](../assets/projects/c19/3a.pdf){:target="_blank"}
 
 <!-- <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/3.pdf" target="_blank">Health Care System Preparedness and Response Activities for LGUs (Handout). Appendices only.</a> -->
 
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/5a.pdf" target="_blank">Technical Brief Issue 5A. Empowered Devolution: The COVID-19 Preparedness and Response System. Appendices only.</a>
+[Technical Brief Issue 5A. Empowered Devolution: The COVID-19 Preparedness and Response System. Appendices only.](../assets/projects/c19/5a.pdf){:target="_blank"}
 
-
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/5h.pdf" target="_blank">Technical Brief Issue 5H. Empowered Devolution: The COVID-19 Preparedness and Response System (Handout).</a>
-
+[Technical Brief Issue 5H. Empowered Devolution: The COVID-19 Preparedness and Response System (Handout).](../assets/projects/c19/5h.pdf){:target="_blank"}
 
 Design and layout by Ingrid Espinosa and Krisia Misa.

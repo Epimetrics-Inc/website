@@ -130,8 +130,6 @@ Click on the titles to download the files.
     [Technical Brief Issue 8. A Nudge in the Right Direction: How to Encourage Protective Behavior Against COVID-19. 30 May 2020](../assets/projects/c19/8.pdf){:target="_blank":rel="nofollow"}
 
 ## Summaries/Cross-domain
-
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/1.pdf" target="_blank">Technical Brief Issue 1. Summary of Recommendations. 24 March 2020</a>
 [Technical Brief Issue 1. Summary of Recommendations. 24 March 2020](../assets/projects/c19/1.pdf){:target="_blank"}
  
 [Policy Brief Issue 1. Rapid Policy Recommendation to the Philippine COVID19 Response Attaining Coherence in a  Decentralized Low-Middle Income Country Healthcare Setting. 24 March 2020](../assets/projects/c19/pb1.pdf){:target="_blank"}

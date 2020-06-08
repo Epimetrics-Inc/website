@@ -137,7 +137,7 @@ Click on the titles to download the files.
 [Policy Brief Issue 1. Rapid Policy Recommendation to the Philippine COVID19 Response Attaining Coherence in a  Decentralized Low-Middle Income Country Healthcare Setting. 24 March 2020](../assets/projects/c19/pb1.pdf){:target="_blank"}
 
 ## Manuals:
-<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/5m.pdf" target="_blank">Technical Brief Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios](../assets/projects/c19/5m.pdf){:target="_blank"}
+[Technical Brief Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios. 30 May 2020](../assets/projects/c19/5m.pdf){:target="_blank":rel="nofollow"}
 
 ## Appendixes:
 

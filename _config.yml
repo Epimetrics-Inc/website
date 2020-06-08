@@ -45,3 +45,4 @@ google_analytics: UA-115634204-2
 
 plugins:
   - jekyll-sitemap
+  - jekyll-target-blank

@@ -128,6 +128,8 @@ Partnerships and Capacity Building </b>
 
 <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/6.pdf" target="_blank">Technical Brief Issue 6. Contain, not detain: Best practices in Country Solutions Against COVID-19. 23 March 2020</a> 
 
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/8.pdf" target="_blank">Technical Brief Issue 8. A Nudge in the Right Direction: How to Encourage Protective Behavior Against COVID-19. 30 May 2020</a> 
+
 <br />
 
 <b> Summaries/Cross-domain </b>
@@ -137,6 +139,9 @@ Partnerships and Capacity Building </b>
 <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/pb1.pdf" target="_blank">Policy Brief Issue 1. Rapid Policy Recommendation to the Philippine COVID19 Response Attaining Coherence in a  Decentralized Low-Middle Income Country Healthcare Setting. 24 March 2020</a> 
 
 <br />
+
+## Appendixes: 
+<a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/5m.pdf" target="_blank">Technical Brief Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios. 30 May 2020</a> 
 
 ## Appendixes: 
 

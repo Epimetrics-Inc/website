@@ -143,6 +143,8 @@ Partnerships and Capacity Building </b>
 ## Appendixes: 
 <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/5m.pdf" target="_blank">Technical Brief Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios. 30 May 2020</a> 
 
+<br />
+
 ## Appendixes: 
 
 <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/3a.pdf" target="_blank">Technical Brief Issue 3A. A Monitoring and Evaluation Guide for Government Response to COVID-19. Appendix. Summary of Case Studies</a> 

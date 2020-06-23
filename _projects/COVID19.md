@@ -118,6 +118,10 @@ Click on the titles to download the files.
 
     [Technical Brief Issue 5. Empowered Devolution: The COVID-19 Preparedness and Response System](../assets/projects/c19/5.pdf){:target="_blank":rel="nofollow"}
 
+    [Technical Brief Issue 5H. Empowered Devolution: The COVID-19 Preparedness and Response System (Handout).](../assets/projects/c19/5h.pdf){:target="_blank"}
+
+    [Technical Brief Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios. 30 May 2020](../assets/projects/c19/5m.pdf){:target="_blank":rel="nofollow"}
+
     <!-- 5. Communications and Public Outreach -->
     <!-- 6. Scientific Infrastructure and Preparedness -->
 

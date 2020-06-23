@@ -129,8 +129,6 @@ Click on the titles to download the files.
 
     [Technical Brief Issue 6. Contain, not detain: Best practices in Country Solutions Against COVID-19. 23 March 2020](../assets/projects/c19/6.pdf){:target="_blank":rel="nofollow"}
 
-    [Technical Brief Issue 6. Contain, not detain: Best practices in Country Solutions Against COVID-19. 23 March 2020](../assets/projects/c19/6.pdf){:target="_blank":rel="nofollow"}
-
     [Technical Brief Issue 8. A Nudge in the Right Direction: How to Encourage Protective Behavior Against COVID-19. 30 May 2020](../assets/projects/c19/8.pdf){:target="_blank":rel="nofollow"}
 
 ## Summaries/Cross-domain

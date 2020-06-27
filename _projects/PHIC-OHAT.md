@@ -2,7 +2,7 @@
 title: Review of Outpatient HIV/AIDS Treatment (OHAT) Package of PHIC
 featured: false
 client: PhilHealth
-image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/hoth/EpiMetrics_OHATReview_Infographic.jpg
+image: ../assets/projects/hoth/EpiMetrics_OHATReview_Infographic.jpg
 description: |
   To ensure good quality care and improved service delivery in the country, health facilities are monitored by the Department of Health (DOH). In compliance with these health facilities’ annual licensing, DOH requires submission of Hospital Statistical Reports (HSRs), which are reports on quality management, hospital operations, staffing patterns, and finances. This study assessed the online Hospital Statistical Reports (OHSR) in terms of health information resources, indicators, data management, and information products. 
 
@@ -101,4 +101,4 @@ potential role of the private sector as providers.
 
 [Full Infographic](../assets/projects/hoth/EpiMetrics_OHATReview_Infographic.jpg){:target="_blank"}
 
-**For more information on the study, email us at [contact@epimetrics.com.ph](contact@epimetrics.com.ph)**
+**For more information on the study, email us at [contact@epimetrics.com.ph](mailto:contact@epimetrics.com.ph)**

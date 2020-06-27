@@ -3,7 +3,7 @@ title: A Scoping Review of DOH Policies on Selected Population Subgroups
 date: 2018-09-01
 client: Department of Health
 featured: false
-image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/deathstar/DS_Infographic-02.png
+image: ../assets/projects/deathstar/DS_Infographic-02.png
 description:
   Over the years, the Administrative Orders (AO) in the DOH have accumulated and the department is unable to monitor the changes in provisions that have occurred. There is also no system in identifying duplications, inconsistencies, and gaps among the policies. Explicitly or implicitly repealed AOs are  subsequently not updated and can be a cause of confusion. Thus, the strategic alignment of these policies to the current Philippine Health Agenda may not be apparent. 
   <br><br>
@@ -96,4 +96,4 @@ Based on the produced Omnibus policies and Policy Development Plans for each lif
 
 [Full Infographic](../assets/projects/deathstar/EpiMetrics_OmnibusPolicy_Infographic_032018.pdf){:target="_blank"}
 
-**For more information on the study, email us at [contact@epimetrics.com.ph](contact@epimetrics.com.ph)**
+**For more information on the study, email us at [contact@epimetrics.com.ph](mailto:contact@epimetrics.com.ph)**

@@ -3,7 +3,7 @@ title: Technical Assistance to the Philippine Health Insurance Corporation in Cr
 date: 2018-03-01
 featured: false
 client: PhilHealth
-image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/a-series/top-48-CEA.jpg
+image: ../assets/projects/a-series/top-48-CEA.jpg
 description: |
 
 authors:
@@ -99,4 +99,4 @@ Using the data and processes obtained from the first two phases, **Phase III** n
 
 ![](../assets/projects/a-series/Infographic%20IV.jpg){:style="max-width: calc(100% - 20px);"}
 
-**For more information on the study, email us at [contact@epimetrics.com.ph](contact@epimetrics.com.ph)**
+**For more information on the study, email us at [contact@epimetrics.com.ph](mailto:contact@epimetrics.com.ph)**

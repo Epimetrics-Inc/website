@@ -2,7 +2,7 @@
 title: Performance Assessment of DOH Licensed Hospitals in terms of Access and Quality using Annual Hospital Statistical Reports from 2011-2015
 featured: false
 client: PhilHealth
-image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/bb8/OHSR_infographic.jpg
+image: ../assets/projects/bb8/OHSR_infographic.jpg
 description: |
   To ensure good quality care and improved service delivery in the country, health facilities are monitored by the Department of Health (DOH). In compliance with these health facilities’ annual licensing, DOH requires submission of Hospital Statistical Reports (HSRs), which are reports on quality management, hospital operations, staffing patterns, and finances. This study assessed the online Hospital Statistical Reports (OHSR) in terms of health information resources, indicators, data management, and information products. 
 
@@ -75,4 +75,4 @@ Process efficiency should be looked into by way of a deeper dive analysis of pro
 
 [Full Infographic](../assets/projects/bb8/Infographic.pdf){:target="_blank}
 
-**For more information on the study, email us at [contact@epimetrics.com.ph](contact@epimetrics.com.ph)**
+**For more information on the study, email us at [contact@epimetrics.com.ph](mailto:contact@epimetrics.com.ph)**

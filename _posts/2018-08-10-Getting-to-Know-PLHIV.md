@@ -3,12 +3,12 @@ title: "Learning to think Positive: \n
 Reflections on working with PLHIV for the OHAT study"
 
 # Article Details
-featured_image_alt: https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2018-05-02-Getting%20to%20Know/4.png
+featured_image_alt: /assets/posts/2018-05-02-Getting%20to%20Know/4.png
 date: 2018-08-10
 # to get the name of the author, you need to refer to team.yml
 author_name: Christine Ingrid Espinosa
 author_roles: Research Associate, <br> Innovations Associate
-author_photo_url: \img\staff\CIE.png
+author_photo_url: /img/staff/CIE.png
 author_quote: "\"\" <br> "
 author_description: "Ingrid Espinosa is a Research and Innovations Associate at EpiMetrics, Inc. Having been with EpiMetrics since 2016, she has worked on projects with various topics such as leprosy, HIV/AIDS, and hospital and DOH records. In the Innovations Unit, she continues to learn more about the different aspects of public health and design thinking, and is always on the lookout for new challenges to engage in and write about." 
 featured: false
@@ -27,7 +27,7 @@ We spent weeks reading, discussing, and writing the research plan to suit the ci
 
 My first encounter with PLHIV, sometimes called “positives”, was during our pre-test. I arrived at the clinic with all the carefully prepared documents, but expected little since I was preoccupied with doing every part of the protocol right. Aside from a few awkward questions like pinning down how to classify work (yes, actors are “professionals”), or the trial of asking questions like “what kind of toilet does your household use” or “do you own a motorized or non-motorized <i>banca</i>”, it seemed like any other interview for a randomly-selected group for a survey. While we don’t downplay the struggles of these patients too, I would soon find that this private clinic was unique, and that I hadn’t yet seen the more difficult challenges that PLHIV faced. <br>
 
-<img src="\assets\posts\2018-05-02-Getting to Know\1.png" 
+<img src="/assets/posts/2018-05-02-Getting to Know/1.png" 
     style="max-width: calc(50% - 20px);>;
     display: block;
     margin-left: auto;
@@ -57,7 +57,7 @@ In fact, in 2010-2011, less than 1% of people eligible for OHAT claimed the comp
  
 In 2015, new guidelines were released declaring that the employer’s signature, a generic requirement for all PhilHealth claims, was no longer necessary for claiming OHAT. A simple change allowing for some privacy encouraged hundreds to claim the help that they were entitled to. 
 
-<img src="\assets\posts\2018-05-02-Getting to Know\2.png" 
+<img src="/assets/posts/2018-05-02-Getting to Know/2.png" 
     style="max-width: calc(50% - 20px);>;
     display: block;
     margin-left: auto;
@@ -79,13 +79,13 @@ HIV is a challenging illness, but it does not define the lives of those who have
 
 In our office, all the presentations had been given, reports sent, and forms filled out and closed. A small rectangle of dust is left on the floor for all the documents we went through. The objects are gone, but the lessons remain.
  
-<img src="\assets\posts\2018-05-02-Getting to Know\3.png" 
+<img src="/assets/posts/2018-05-02-Getting to Know/3.png" 
     style="max-width: calc(70% - 20px);>;
     display: block;
     margin-left: auto;
     margin-right: auto;"/><i>The study team and representatives from PHIC, UNICEF and UNAIDS at the final presentation of the OHAT study. PHIC is working on and will soon publish a new circular on the OHAT package, partly based on evidence based on this study. (From left) Mx. Mario Baliago of UNICEF; Dr. Mariella Castillo of UNICEF; Dr. Wigdan Madani of UNICEF; Dr. Anne Remonte of PHIC; Dr. Stephanie Co of EpiMetrics; Ms. Leila Coppens of WHO; Ms. Gail Estrada of PHIC; Ms. Ingrid Espinosa of EpiMetrics</i><br><br>
 
-Interested in the project? See the <a href="https://epimetrics.com.ph/projects/phic-ohat" target="_blank">Project Article</a> 
+Interested in the project? See the [Project Article]({% link _projects/PHIC-OHAT.md %}){:target="blank"}
 
 ***
 Helpful links: <br>

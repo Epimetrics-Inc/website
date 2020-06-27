@@ -2,7 +2,7 @@
 title: "Building Bridges Using Health Literacy Initiatives - Part 1"
 
 # Article Details
-featured_image_alt: https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png
+featured_image_alt: /assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png
 date: 2018-09-06
 # to get the name of the author, you need to refer to team.yml
 author_name: Abigail L. Tan
@@ -16,7 +16,7 @@ internal_url: /2018-09-05-Building-Bridges-through-Health-Literacy-1.md
 
 The World Health Organization Western Pacific Regional Office (WHO-WPRO) recently conducted a health literacy training in partnership with Deakin University’s Prof. Richard Osborne. This training lasted for two days and involved the key stakeholders from the Department of Health, along with organizational representatives of institutions spearheading health literacy initiatives in the Philippines. EpiMetrics, Inc. was privileged to take part in the training as we are currently in our first year of applying the OPHELIA (Optimizing Health Literacy) process in the Philippines. This process was designed by WHO, Deakin University, and Monash University, and it focuses on health literacy needs assessment of communities, co-creation of interventions with the community, and implementation evaluation of those interventions with the community. 
 
-<img src="\assets\posts\2018-09-05-WPRO-Health-Literacy-Training\1.png" 
+<img src="/assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png" 
     style="max-width: calc(200% - 50px);>;
     max-height: 500px;
     display: block;
@@ -34,6 +34,6 @@ It was like an “aha!” moment for me, especially when faced with applying the
 
 Improving health literacy needs is worth it, even if it takes cooperation and partnership with so many different stakeholders. Working with communities to solve these health literacy needs is necessary so that the government could get a clearer picture of what’s happening on the ground, to see if current policies for health service delivery are really effective. The voices of the community would also be well-represented through the process, and local wisdom could contribute in the innovation of solutions that can be based upon existing assets of the community. In order to make sure that the health literacy foundation we are developing through these initiatives will be stable, we need to build and maintain these bridges between the local and national stakeholders. 
 
-Read about Steph's Insights [here](https://epimetrics.com.ph/2018-09-05-building-bridges-through-health-literacy-2).
+Read about Steph's Insights [here]({% post_url 2018-09-05-Building-Bridges-through-Health-Literacy-2 %}).
 
 Interested in more? Let’s get in touch at [https://epimetrics.com.ph](https://epimetrics.com.ph/#contact-us)

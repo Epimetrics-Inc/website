@@ -2,7 +2,7 @@
 title: "Building Bridges Using Health Literacy Initiatives - Part 2"
 
 # Article Details
-featured_image: https://github.com/Epimetrics-Inc/website/raw/master/assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png
+featured_image_alt: /assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png
 date: 2018-09-05
 # to get the name of the author, you need to refer to team.yml
 author_name: Stephanie Anne L. Co, MD-MBA
@@ -16,7 +16,7 @@ internal_url: /2018-09-05-Building-Bridges-through-Health-Literacy-2.md
 
 The World Health Organization Western Pacific Regional Office (WHO-WPRO) recently conducted a health literacy training in partnership with Deakin University’s Prof. Richard Osborne. This training lasted for two days and involved the key stakeholders from the Department of Health, along with organizational representatives of institutions spearheading health literacy initiatives in the Philippines. EpiMetrics, Inc. was privileged to take part in the training as we are currently in our first year of applying the OPHELIA (Optimizing Health Literacy) process in the Philippines. This process was designed by WHO, Deakin University, and Monash University, and it focuses on health literacy needs assessment of communities, co-creation of interventions with the community, and implementation evaluation of those interventions with the community. 
 
-<img src="\assets\posts\2018-09-05-WPRO-Health-Literacy-Training\1.png" 
+<img src="/assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png" 
     style="max-width: calc(200% - 50px);>;
     max-height: 500px;
     display: block;
@@ -31,6 +31,6 @@ An important thing that we gained from the attendance in this training was that 
 
 This training also allowed us a chance to do a short presentation to introduce our study to government and non-government stakeholders. This was a great opportunity because at this point, most people did not understand what we were planning to achieve with the OPHELIA method in the Philippines. The training also introduced us to the study being done by UPM that will be implementing a national health literacy survey. Knowing that there are two studies being funded by the government on health literacy is a very encouraging sign that we are on the right path in our efforts to do studies that are relevant and that will potentially create impact on national policies. 
 
-Read about Abby's insights [here](https://epimetrics.com.ph/2018-09-05-building-bridges-through-healthlLiteracy-1).
+Read about Abby's insights [here]({% post_url 2018-09-06-Building-Bridges-Through-Health-Literacy-1 %}).
 
 Interested in more? Let’s get in touch at [https://epimetrics.com.ph](https://epimetrics.com.ph/#contact-us)

@@ -5,7 +5,7 @@ john_q_wong:
   roles: President, Founder
   photo_url: /img/staff/JQW.png
   quote: "In pursuit of miracles; Philippians 4:13"
-  description: "This is a sample description for this person."
+  # description: "This is a sample description for this person."
   links:
     # email: johnqwong@gmail.com
     # linkedin: https://ph.linkedin.com/sample
@@ -33,10 +33,10 @@ john_q_wong:
 
 stephanie_anne_co:
   name: Stephanie Anne L. Co, MD-MBA
-  roles: Public Health Division Head
+  roles: Operations
   photo_url: /img/staff/SAC.png
   quote: "\"Research is what I’m doing when I don’t know what I’m doing.\" <br> Wehner Von Braun"
-  description: "This is a sample description for this person."
+  # description: "This is a sample description for this person."
   links:
     # email: stephanie.a.co@email.com
     # linkedin: https://ph.linkedin.com/sample
@@ -56,7 +56,7 @@ jac_lin_yu:
   roles: Administrative Division Head
   photo_url: /img/staff/JLY.png
   quote: "\"Beware of little expenses; a small leak will sink a great ship.\" <br> Benjamin Franklin"
-  description: "This is a sample description for this person."
+  # description: "This is a sample description for this person."
   links:
     # email: jaclinyu@email.com
     # linkedin: https://ph.linkedin.com/sample
@@ -73,10 +73,10 @@ jac_lin_yu:
 
 cheyenne_modina:
   name: Cheyenne Ariana Erika M. Modina
-  roles: Strategy Officer 
+  roles: Monitoring & Evaluation
   photo_url: /img/staff/EM.png
   quote: "\"Innovation begins with an eye.\" <br> Tom Kelley"
-  description: "This is a sample description for this person."
+  # description: "This is a sample description for this person."
   links:
     # email: erikamodina@email.com
     # linkedin: https://ph.linkedin.com/sample
@@ -93,30 +93,30 @@ cheyenne_modina:
 
 cleo_fowler:
   name: Krizelle Cleo Fowler
-  roles: Quantitative Specialist
+  roles: Science Team. Human Resources
   photo_url: /img/staff/CF.png
   quote: "\"All that we are is a result of what we have thought.\" <br> Buddha"
-  description: "This is a sample description for this person."
+  # description: "This is a sample description for this person."
   links:
     # email: krizelle.fowler@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 abigail_lim:
   name: Abigail L. Tan
-  roles: Qualitative Specialist
+  roles: Science Team
   photo_url: /img/staff/AEL.png
   quote: "\"We meet no ordinary people in our lives.\" <br> C.S. Lewis"
-  description: "This is a sample description for this person."
+  # description: "This is a sample description for this person."
   links:
     # email: abbylim12@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 ingrid_espinosa:
   name: Christine Ingrid M. Espinosa
-  roles: Strategy and Research Associate
+  roles: Marketing & Communication
   photo_url: /img/staff/CIE.png
   quote: "\"Our imagination is stretched to the utmost, not in fiction...but to comprehend those things which are there.\" <br> Richard Feynman"
-  description: "This is a sample description for this person."
+  # description: "This is a sample description for this person."
   links:
     # email: espinosa.ingrid.m@gmail.com
     # linkedin: https://ph.linkedin.com/sample
@@ -126,7 +126,7 @@ aidel_tulio:
   roles: Admin Assistant
   photo_url: /img/staff/ACT.png
   quote: "\"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.\" <br> Helen Keller"
-  description: "This is a sample description for this person."
+  # description: "This is a sample description for this person."
   links:
     # email: aideline.tulio96@gmail.com
     # linkedin: https://ph.linkedin.com/sample
@@ -136,7 +136,7 @@ amor_babatido:
   roles: Finance Assistant 
   photo_url: /img/staff/AB.png
   quote: "\"If you want to live a happy life, tie it to a goal, not to people or things.\" <br> Albert Einstein"
-  description: "This is a sample description for this person."
+  # description: "This is a sample description for this person."
   links:
     # email: amorbabatido@gmail.com
     # linkedin: https://ph.linkedin.com/sample

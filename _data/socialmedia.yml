@@ -1,9 +1,10 @@
-# _data.socialmedia.yml
-# - title: Facebook
-#   url: https://fb.com/Epimetrics
+# _data/socialmedia.yml
 
-# - title: Twitter
-#   url: https://twitter.com/epimetrics
+- title: Facebook
+  url: https://www.facebook.com/epimetricsph/
 
-# - title: LinkedIn
-#   url: https://ph.linkedin.com/company/epimetrics
+- title: Twitter
+  url: https://twitter.com/epimetricsph
+
+- title: LinkedIn
+  url: https://www.linkedin.com/company/epimetricsph/

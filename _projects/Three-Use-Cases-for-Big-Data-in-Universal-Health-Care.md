@@ -4,10 +4,13 @@ date: 2020-06-27
 client: Department of Health, Philippine Health Insurance Corporation
 featured: false
 image: ../assets/projects/big-data/EpiMetrics_C3OutlierDetection_Infographic_022018.png
-description: 
+description: |
   Government agencies, specifically, the Department of Health (DOH) and the Philippine Health Insurance Corporation (PhilHealth) have been amassing data about the nation’s health, universal health  care, and on the social determinants of health (SDH). To assist the Department of Health (DOH) and the Philippine Health Insurance Corporation (PhilHealth) in the achievement of national and global health goals for sustainable development, this project used big data tools to maximize the generation of actionable information from the amassed data.
- The project applied big data methods in three topics highly relevant to the DOH. The first case quantified the contribution of significant SDH factors to disease and health inequities in the Philippines. The second case used geospatial software for the DOH that can visualize and analyze performance for indicators at the LGU-level for service delivery networks (SDN), DOH programs and departments, SDH and health inequities, and LGU health statistics. Lastly, the third case was for PhilHealth outlier detection for insurance claims together with Thinking Machines.
- Since the application of big data in the Philippine setting is an emerging field, this project was a proof of concept for the DOH and PhilHealth to explore the field for important tools in the monitoring and evaluation of public health. With big data, analysis of diverse and voluminous data becomes possible, and the DOH can gain insight into the factors that significantly impact and influence the health of the nation. However, mechanisms and policies must be put in place to ensure that data is available, accessible, and of good quality in order to properly apply big data analytics.
+  
+  The project applied big data methods in three topics highly relevant to the DOH. The first case quantified the contribution of significant SDH factors to disease and health inequities in the Philippines. The second case used geospatial software for the DOH that can visualize and analyze performance for indicators at the LGU-level for service delivery networks (SDN), DOH programs and departments, SDH and health inequities, and LGU health statistics. Lastly, the third case was for PhilHealth outlier detection for insurance claims together with Thinking Machines.
+  
+  Since the application of big data in the Philippine setting is an emerging field, this project was a proof of concept for the DOH and PhilHealth to explore the field for important tools in the monitoring and evaluation of public health. With big data, analysis of diverse and voluminous data becomes possible, and the DOH can gain insight into the factors that significantly impact and influence the health of the nation. However, mechanisms and policies must be put in place to ensure that data is available, accessible, and of good quality in order to properly apply big data analytics.
+
 authors: 
 - name: John Q. Wong, MSc
   role: Principal Investigator
@@ -50,9 +53,9 @@ authors:
   photo_url: /img/staff/NO-PIC.jpg
 
 building_blocks:
-- Health Information Systems
-- Service Delivery
-- Financing
+- "Health Information Systems"
+- "Service Delivery"
+- "Financing"
 ---
 
 Government agencies, specifically, the Department of Health (DOH) and the Philippine Health Insurance Corporation (PhilHealth) have been amassing data about the nation’s health, universal health  care, and on the social determinants of health (SDH). To assist the Department of Health (DOH) and the Philippine Health Insurance Corporation (PhilHealth) in the achievement of national and global health goals for sustainable development, this project used big data tools to maximize the generation of actionable information from the amassed data.

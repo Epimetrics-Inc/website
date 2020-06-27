@@ -7,7 +7,7 @@ date: 2018-10-30
 # to get the name of the author, you need to refer to team.yml
 author_name: Krizelle Cleo Fowler
 author_roles: Quantitative Specialist
-author_photo_url: \img\staff\CF.png
+author_photo_url: /img/staff/CF.png
 author_quote: "\"\" <br> "
 author_description: "" 
 featured: false
@@ -18,7 +18,7 @@ The 17th National Health Research Forum for Action (NHRFA) is an event organized
 
 I attended the forum in solidarity for EpiMetrics’ contribution to the event. As one of the institutional grantees of the AHEAD program, we presented our progress on the project <i>“Optimising Health Literacy (OpHeLia) in the Philippines”</i>. This project aims to provide baseline health literacy information, through co-creating interventions with the communities. We were also invited to present the results of the study of <i>[“Factors Affecting Drug Pricing in National Public Hospitals”](https://www.epimetrics.com.ph/projects/factors-influencing-drug-prices)</i>. As part of these projects, I was really excited that they were presented.
 
-<img src="\assets\posts\2018-10-30-A-Different-Lens\1.png" 
+<img src="/assets/posts/2018-10-30-A-Different-Lens/1.png" 
     style="max-width: calc(100% - 50px);>;
     max-height: 500px;
     display: block;
@@ -30,7 +30,7 @@ Since the event comprised of breakout sessions, I was only able to attend the <i
 
 For me, there is a need to do this more often -- a place where researchers can meet. I believe events like this help prevent research duplication and let audiences notice research gaps to be filled. As much as possible, we want national studies to complement each other. I noticed during the open forum that a study similar to one presented during <i>Access to Medicines</i> was already done by another researcher and an attendee kept asking how it was different from their results. The forum then became a good avenue to compare results and see how the two can be integrated. For the research gaps, we are still developing the public health research arena so it is fortunate that we have a repository of existing research, enabling us to learn from one another’s research limitations and eventually do the research recommendations proposed.
 
-<img src="\assets\posts\2018-10-30-A-Different-Lens\3.jpg" 
+<img src="/assets/posts/2018-10-30-A-Different-Lens/3.jpg" 
     style="max-width: calc(100% - 50px);>;
     max-height: 500px;
     display: block;
@@ -43,7 +43,7 @@ The NHRFA should also recognize the importance of inviting other organizations. 
 
 As a quantitative researcher and aspiring epidemiologist, I dream of a day when my fundamental knowledge in methods would be integrated to my knowledge in health systems. For now, I appreciate this kind of venture and the welcoming feeling in the field. I can only do so much as a budding researcher but what I can offer is to be an advocate of using statistics to only provide only the truth albeit it being not palatable to policy-makers. Statistics is a great tool in policy-making but it should not be used to deceive the public. If given the chance, I would promote the responsible use of statistics in researches, especially in public health.
  
-<img src="\assets\posts\2018-10-30-A-Different-Lens\2.jpg" 
+<img src="/assets/posts/2018-10-30-A-Different-Lens/2.jpg" 
     style="max-width: calc(200% - 50px);>;
     max-height: 500px;
     display: block;

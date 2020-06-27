@@ -21,4 +21,21 @@ PFP:
 WHO:
   name: World Health Organization
   logo_url: img/logos/WHO-logo.jpg
-  
+USAID:
+  name: USAID
+  logo_url: img/logos/a_USAID.png
+JSI:
+  name: JSI
+  logo_url: img/logos/b_JSI.png
+HRH2030:
+  name: HRH2030
+  logo_url: img/logos/c_HRH2030.png
+Chemonics:
+  name: Chemonics
+  logo_url: img/logos/d_chemonics_logo.png
+RCPH:
+  name: RCPH
+  logo_url: img/logos/e_RareCancersLogo.png
+# acronym:
+#   name: acronym
+#   logo_url: img/logos/path

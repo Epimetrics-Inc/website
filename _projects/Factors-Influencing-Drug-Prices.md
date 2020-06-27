@@ -77,10 +77,10 @@ The policy recommendations are directed to the three main policies that affect t
 <br>
 Furthermore, data collection should include a larger sample size to allow for logistic regression and further data analysis should be done to evaluate the factors affecting individual drugs in the basket instead of pooling scores into one in each hospital.
 
-[Executive Summary](../assets/projects/bacta/Bacta%20Executive%20Sumary%20PDF.pdf){:target="_blank}
+[Executive Summary](../assets/projects/bacta/Bacta%20Executive%20Sumary%20PDF.pdf){:target="_blank"}
 
-[Policy Brief](../assets/projects/bacta/EpiMetrics_Drug%20Pricing%20Study_Policy%20Brief_03032018.pdf){:target="_blank}
+[Policy Brief](../assets/projects/bacta/EpiMetrics_Drug%20Pricing%20Study_Policy%20Brief_03032018.pdf){:target="_blank"}
 
-[Full Infographic](../assets/projects/bacta/EpiMetrics_Drug%20Pricing%20Study_National%20GPP%20Scores_02012018.pdf){:target="_blank}
+[Full Infographic](../assets/projects/bacta/EpiMetrics_Drug%20Pricing%20Study_National%20GPP%20Scores_02012018.pdf){:target="_blank"}
 
 **For more information on the study, email us at [contact@epimetrics.com.ph](contact@epimetrics.com.ph)**

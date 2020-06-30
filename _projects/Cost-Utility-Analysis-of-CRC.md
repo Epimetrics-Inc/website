@@ -1,7 +1,8 @@
 ---
 title: Cost-Utility Analysis of Colorectal Cancer Screening in the Philippines
 date: 2018-10-15
-client: PhilHealth
+clients:
+- PhilHealth
 featured: false
 image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/crc/1.png
 description: 

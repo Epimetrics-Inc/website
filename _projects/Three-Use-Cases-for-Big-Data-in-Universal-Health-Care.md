@@ -1,7 +1,9 @@
 ---
 title: "Three Use Cases for Big Data in Universal Health Care: Social Determinants of Health, Service Delivery Networks, and Fraud Detection"
 date: 2020-06-27
-client: Department of Health, Philippine Health Insurance Corporation
+clients:
+ - DOH
+ - PhilHealth
 featured: false
 image: ../assets/projects/big-data/EpiMetrics_C3OutlierDetection_Infographic_022018.png
 description: |

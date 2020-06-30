@@ -1,7 +1,7 @@
 ---
 title: Prescriptions. A Special Technical Brief Series on the COVID-19 Pandemic
 date: 2020-04-02
-client: 
+clients: 
 featured: true
 image: ../assets/projects/c19/ws1.png
 description: 

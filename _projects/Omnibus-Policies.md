@@ -1,7 +1,8 @@
 ---
 title: A Scoping Review of DOH Policies on Selected Population Subgroups
 date: 2018-09-01
-client: Department of Health
+clients:
+- DOH
 featured: false
 image: ../assets/projects/deathstar/DS_Infographic-02.png
 description:

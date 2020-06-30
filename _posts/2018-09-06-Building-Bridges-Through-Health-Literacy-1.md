@@ -16,15 +16,11 @@ internal_url: /2018-09-05-Building-Bridges-through-Health-Literacy-1.md
 
 The World Health Organization Western Pacific Regional Office (WHO-WPRO) recently conducted a health literacy training in partnership with Deakin University’s Prof. Richard Osborne. This training lasted for two days and involved the key stakeholders from the Department of Health, along with organizational representatives of institutions spearheading health literacy initiatives in the Philippines. EpiMetrics, Inc. was privileged to take part in the training as we are currently in our first year of applying the OPHELIA (Optimizing Health Literacy) process in the Philippines. This process was designed by WHO, Deakin University, and Monash University, and it focuses on health literacy needs assessment of communities, co-creation of interventions with the community, and implementation evaluation of those interventions with the community. 
 
-<img src="/assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png" 
-    style="max-width: calc(200% - 50px);>;
-    max-height: 500px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;"><i>From left to right: Dr Clarissa Encisa, Research Associate, Technical Services Cluster; (back) Dr Jason Ligot, Consultant, Health Promotion and Communications, NCD, HQ; (front) Ms Maria Victoria Madura, Health Education and Promotion Officer III (HPCS); Ms Aurora Banda-Alfonso, Health Education and Promotion Officer III (HPCS); Ms. Frances Onagan; Professor Richard Osborne, Director of the Health Systems Improvement Unit, WHO Collaboration Centre for Health Literacy, Deakin University in Melbourne, Australia; Dr. Faith Alberto, Department of Health (DOH) Health Promotion and Communication Services Director; Dr Maria Carmela Mijares-Majini, Consultant, NCD and Health Promotion (DNH); Dr Stephanie Anne Co, Co-Investigator from EpiMetrics, Inc.; Ms Abigail Lim, OPHELIA Implementer and Qualitative researcher from EpiMetrics, Inc.; Dr. Ma. Carmen Tolabing, Chairperson, Department of Biostatistics and Epidemiology, University of the Philippines, Manila</i><br>
+![](/assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png){: .size-medium .align-center}
+_From left to right: Dr Clarissa Encisa, Research Associate, Technical Services Cluster; (back) Dr Jason Ligot, Consultant, Health Promotion and Communications, NCD, HQ; (front) Ms Maria Victoria Madura, Health Education and Promotion Officer III (HPCS); Ms Aurora Banda-Alfonso, Health Education and Promotion Officer III (HPCS); Ms. Frances Onagan; Professor Richard Osborne, Director of the Health Systems Improvement Unit, WHO Collaboration Centre for Health Literacy, Deakin University in Melbourne, Australia; Dr. Faith Alberto, Department of Health (DOH) Health Promotion and Communication Services Director; Dr Maria Carmela Mijares-Majini, Consultant, NCD and Health Promotion (DNH); Dr Stephanie Anne Co, Co-Investigator from EpiMetrics, Inc.; Ms Abigail Lim, OPHELIA Implementer and Qualitative researcher from EpiMetrics, Inc.; Dr. Ma. Carmen Tolabing, Chairperson, Department of Biostatistics and Epidemiology, University of the Philippines, Manila_
+{: .image-caption}
 
-
-<h2 style="color: #bd1515;">Abby's Insights</h2>
+## Abby's Insights
 
 As one of the organizational representatives from EpiMetrics sent to the training, it was heartwarming to hear that the Philippines is one of the few countries taking huge steps towards improving health literacy needs of the people. So what is health literacy and how is it different from health education? 
 

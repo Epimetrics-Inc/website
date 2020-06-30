@@ -1463,6 +1463,10 @@ main.page-section section.wrapper {
   margin-bottom: var(--nav-height);
 }
 
+.wrapper .page-content h2 {
+  color: #bd1515;
+}
+
 .wrapper .page-content p {
   line-height: 1.5;
   margin-bottom: 1em;

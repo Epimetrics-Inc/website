@@ -1332,9 +1332,8 @@ main.page-section section.wrapper {
   bottom: 0;
 }
 
-.articles-grid .article .article-info .article-title {
-  margin-bottom: 0.5em;
-}
+.articles-grid .article .article-info .article-title { margin-bottom: 0.75em; }
+.articles-grid .article .article-info .article-client { margin-bottom: 0.5em }
 
 .articles-grid .article .article-info .article-author,
 .articles-grid .article .article-info .article-month-year {

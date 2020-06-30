@@ -86,7 +86,7 @@ The **second case** used geospatial software for the DOH that can visualize and 
 
 [Case 2: Infographic](../assets/projects/big-data/EpiMetrics_C2SDNDevelopment_Infographic_062018.pdf){:target="_blank"}
 
-<!-- ![](../assets/projects/big-data/EpiMetrics_C2SDNDevelopment_Infographic_062018.pdf) -->
+![](../assets/projects/big-data/EpiMetrics_C2SDNDevelopment_Infographic_062018.png)
 
 ## The Third Case
 

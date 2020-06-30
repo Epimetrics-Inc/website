@@ -36,6 +36,9 @@ Chemonics:
 RCPH:
   name: RCPH
   logo_url: img/logos/e_RareCancersLogo.png
+DDB:
+  name: Dangerous Drugs Board
+  logo_url: img/logos/Dangerous_Drugs_Board_(DDB).svg
 # acronym:
 #   name: acronym
 #   logo_url: img/logos/path

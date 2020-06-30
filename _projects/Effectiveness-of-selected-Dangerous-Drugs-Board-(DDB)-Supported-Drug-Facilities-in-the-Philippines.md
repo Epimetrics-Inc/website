@@ -2,7 +2,7 @@
 title: Effectiveness of selected Dangerous Drugs Board (DDB)-Supported Drug Facilities in the Philippines
 date: 2020-06-27
 image: ../assets/projects/kessel/Kessel_Infog.png
-client: Dangerous Drugs Board
+client: DDB
 featured: false
 description: |
  
@@ -75,7 +75,9 @@ The study recommends improvements in the form of policy revisions, institutional
 3. Finally, conducting research on patient responses to aftercare and facility conditions is necessary, and financial audits would also be helpful in making useful changes to the DTRC systems.
 
 [Executive Summary](../assets/projects/kessel/EpiMetrics_EffectivenessDrugFaci_ExecSum.pdf){:target="blank"}
+
 [Policy Brief](../assets/projects/kessel/EpiMetrics_EffectivenessDrugFacilities_PolicyBrief.pdf){:target="blank"}
+
 [Infographic](../assets/projects/kessel/Kessel_Infog.png){:target="blank"}
 
 ![](../assets/projects/kessel/Kessel_Infog.png)

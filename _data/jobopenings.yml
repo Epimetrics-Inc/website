@@ -1,12 +1,5 @@
 #  _data/jobopenings.yml
-
-- title: Research Associate
-  description: |
-    We're looking for a Research Associate, who is tasked to:
-
-    * Work on the Burden of Disease  project concentrating on executing the methodology, validating the data, research writing, and other research phases
-      
-    * Expected to handle the technical aspect of the project including but not limited to planning, validation of estimates, research writing and results presentation (as needed)
-      
-    * Work in a team under a Project Manager and assisting the Senior Research Associate
-  keywords: [research, associate, burden of disease]
+# - title: Job Title
+#   description: |
+#     Give a brief description of the job opening.
+#   keywords: [list,keywords,like,this]

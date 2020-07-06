@@ -153,4 +153,4 @@ Click on the titles to download the files.
 
 [Technical Brief Issue 9A: COVID-19 Response Checklist for LGUs. 30 June 2020. Appendices only.](../assets/projects/c19/9a.pdf){:target="_blank":rel="nofollow"}
 
-Design and layout by Ingrid Espinosa and Krisia Misa. Proofreading for issues 8 onward.
+Design and layout by Ingrid Espinosa and Krisia Misa. Copyreading by Celine Villanueva for issues 8 onward.

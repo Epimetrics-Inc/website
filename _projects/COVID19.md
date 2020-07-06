@@ -122,6 +122,8 @@ Click on the titles to download the files.
 
     [Technical Brief Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios. 30 May 2020](../assets/projects/c19/5m.pdf){:target="_blank":rel="nofollow"}
 
+    [Technical Brief Issue 9: COVID-19 Response Checklist for LGUs. 30 June 2020](../assets/projects/c19/9.pdf){:target="_blank":rel="nofollow"}
+
     <!-- 5. Communications and Public Outreach -->
     <!-- 6. Scientific Infrastructure and Preparedness -->
 
@@ -149,4 +151,6 @@ Click on the titles to download the files.
 
 [Technical Brief Issue 5H. Empowered Devolution: The COVID-19 Preparedness and Response System (Handout).](../assets/projects/c19/5h.pdf){:target="_blank"}
 
-Design and layout by Ingrid Espinosa and Krisia Misa.
+[Technical Brief Issue 9A: COVID-19 Response Checklist for LGUs. 30 June 2020. Appendices only.](../assets/projects/c19/9a.pdf){:target="_blank":rel="nofollow"}
+
+Design and layout by Ingrid Espinosa and Krisia Misa. Proofreading for issues 8 onward.

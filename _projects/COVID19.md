@@ -34,59 +34,62 @@ authors:
   role: Team Lead, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Arianna Racquel S. Abundo
-  role: Research team, ASMPH
+  role: Research Team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Michael B. Agoncillo 
-  role: Research team, ASMPH
+  role: Research Team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: John Rafael Y. Arda
-  role: Research team, EpiMetrics Inc.
+  role: Research Team, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
 - name: Joshua Joel F. Cahatol
-  role: Research team, EpiMetrics Inc.
+  role: Research Team, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
 - name: Stephanie Anne L. Co, MD MBA
-  role: Research team, EpiMetrics Inc.
+  role: Research Team, EpiMetrics Inc.
   photo_url: /img/staff/SAC.png
 - name: Kim Carmela D. Co, RN MSc
-  role: Research team, UP CPH
+  role: Research Team, UP CPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Roxanne B. Coronel
-  role: Research team, ASMPH
+  role: Research Team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Maria Teresa O. Dela Cruz
-  role: Research team, ASMPH
+  role: Research Team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Angelica Anne Latorre, MPH
-  role: Research team, UP CPH
+  role: Research Team, UP CPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: John Robert Medina
-  role: Research team, UP CPH
+  role: Research Team, UP CPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Carlos Diego S. Mendoza
-  role: Research team, ASMPH
+  role: Research Team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Krisia Denise Misa
-  role: Research team, EpiMetrics Inc.
+  role: Communications Team, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
 - name: Maria Patricia M. Nitura
-  role: Research team, ASMPH
+  role: Research Team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Paul Adrian Pinlac, MD MPH
-  role: Research team, UP CPH
+  role: Research Team, UP CPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Ana Karina Sesbreno
-  role: Research team, ASMPH
+  role: Research Team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Margarita B. Simbulan
-  role: Research team, ASMPH
+  role: Research Team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
 - name: Adrianne Mei L. Uy
-  role: Research team, ASMPH
+  role: Research Team, ASMPH
+  photo_url: /img/staff/NO-PIC.jpg
+- name: Celinve Villanueva
+  role: Communications Team, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
 - name: Morisson Ezra O. Wong Gonzales
-  role: Research team, EpiMetrics Inc.
-  photo_url: /img/staff/NO-PIC.jpg
+  role: Research Team, EpiMetrics Inc.
+  photo_url: /img/staff/NO-PIC.jpg  
 
 building_blocks:
 - "Leadership and Governance"

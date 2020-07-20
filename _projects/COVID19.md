@@ -84,7 +84,7 @@ authors:
 - name: Adrianne Mei L. Uy
   role: Research Team, ASMPH
   photo_url: /img/staff/NO-PIC.jpg
-- name: Celinve Villanueva
+- name: Celine Villanueva
   role: Communications Team, EpiMetrics Inc.
   photo_url: /img/staff/NO-PIC.jpg
 - name: Morisson Ezra O. Wong Gonzales

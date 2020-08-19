@@ -2,12 +2,22 @@
 
 john_q_wong:
   name: John Q. Wong, MD, MSc
-  roles: President, Founder
+  roles: Founder, Senior Technical Advisor
   photo_url: /img/staff/JQW.png
   quote: "In pursuit of miracles; Philippians 4:13"
   # description: "This is a sample description for this person."
   links:
     # email: johnqwong@gmail.com
+    # linkedin: https://ph.linkedin.com/sample
+
+cheyenne_modina:
+  name: Cheyenne Ariana Erika M. Modina
+  roles: President
+  photo_url: /img/staff/EM.png
+  quote: "\"Innovation begins with an eye.\" <br> Tom Kelley"
+  # description: "This is a sample description for this person."
+  links:
+    # email: erikamodina@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 # diana_beatriz_bayani:
@@ -71,15 +81,6 @@ jac_lin_yu:
     # email: bernellgo@email.com
     # linkedin: https://ph.linkedin.com/sample
 
-cheyenne_modina:
-  name: Cheyenne Ariana Erika M. Modina
-  roles: Monitoring & Evaluation
-  photo_url: /img/staff/EM.png
-  quote: "\"Innovation begins with an eye.\" <br> Tom Kelley"
-  # description: "This is a sample description for this person."
-  links:
-    # email: erikamodina@email.com
-    # linkedin: https://ph.linkedin.com/sample
 
 #kat_baladad:
 #   name: Anne Kathlyn A. Baladad
@@ -116,6 +117,16 @@ ingrid_espinosa:
   roles: Marketing & Communication
   photo_url: /img/staff/CIE.png
   quote: "\"Our imagination is stretched to the utmost, not in fiction...but to comprehend those things which are there.\" <br> Richard Feynman"
+  # description: "This is a sample description for this person."
+  links:
+    # email: espinosa.ingrid.m@gmail.com
+    # linkedin: https://ph.linkedin.com/sample
+
+catrina_yang:
+  name: Catrina M. Yang, MD-MBA
+  roles: Innovations
+  photo_url: /img/staff/CY.png
+  quote: ""
   # description: "This is a sample description for this person."
   links:
     # email: espinosa.ingrid.m@gmail.com

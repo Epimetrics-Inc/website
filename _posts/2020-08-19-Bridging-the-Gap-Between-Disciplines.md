@@ -6,8 +6,8 @@ featured_image: /assets/posts/2020-08-19-Bridging-the-Gap-Between-Disciplines/Ez
 date: 2020-08-19
 # to get the name of the author, you need to refer to team.yml
 author_name: Morisson Ezra Wong Gonzales
-# author_roles: Quantitative Specialist
-# author_photo_url: 
+author_roles: Contributor
+author_photo_url: /img/authors/EWG.png
 author_quote: "\"\" <br> "
 author_description: "Morisson Ezra Wong Gonzales is a graduate from Ateneo De Manila University of BS Health Sciences, having worked with Epimetrics, Inc. as a research assistant for one year on various proposals and evidence summaries spanning air pollution, mental health, WASH, and nutrition. Currently, he is a first year medical student in University of the East Ramon Magsaysay Memorial Medical Center College of Medicine."
 featured: false

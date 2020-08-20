@@ -1,10 +1,10 @@
 ---
 title: "A Capacity-Building Program on Implementation Research for PhilHealth"
-date: 2020-08-19
+date: 2020-08-20
 clients:
  - PhilHealth
 featured: false
-image: ../assets/projects/big-data/EpiMetrics_C3OutlierDetection_Infographic_022018.png
+image: ../assets/projects/boonta/EpiMetrics_ImpleResCapBuild_Infog_17Aug2020.png
 description:
 
 authors: 
@@ -91,5 +91,7 @@ For inquiries, feel free to send us an e-mail.
 [Executive Summary](../assets/projects/capacity-building/EpiMetrics_ImpleResCapBuild_ExecSumm.pdf){:target="_blank"}
 
 [Infographic](../assets/projects/capacity-building/EpiMetrics_ImpleResCapBuild_Infog_17Aug2020.pdf){:target="_blank"}
+
+![](../assets/projects/boonta/EpiMetrics_ImpleResCapBuild_Infog_17Aug2020.png){: .size-large .align-center}
 
 **For more information on the study, email us at [contact@epimetrics.com.ph](mailto:contact@epimetrics.com.ph)**

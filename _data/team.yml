@@ -14,7 +14,7 @@ cheyenne_modina:
   name: Cheyenne Ariana Erika M. Modina
   roles: President
   photo_url: /img/staff/EM.png
-  quote: "\"Innovation begins with an eye.\" <br> Tom Kelley"
+  quote: "“Innovation begins with an eye.” <br> Tom Kelley"
   # description: "This is a sample description for this person."
   links:
     # email: erikamodina@email.com
@@ -34,7 +34,7 @@ cheyenne_modina:
 #   name: Nel Jason L. Haw, MSc
 #   roles: Global Health Division Head, Founder
 #   photo_url: /img/staff/NJH.png
-#   quote: "\"It is our light, not our darkness, that most frightens us.\" <br> Marianne Williamson"
+#   quote: "“It is our light, not our darkness, that most frightens us.” <br> Marianne Williamson"
 #   description: "Jason Haw, MSc. is the Executive Director of EpiMetrics, Inc. He is one of the co-founders
 # and has a Master of Science in Global Health from Georgetown University. He has been working with Dr. Wong for more than four years on various research projects, mostly focused on epidemiology, community health, and health financing."
 #   links:
@@ -45,7 +45,7 @@ stephanie_anne_co:
   name: Stephanie Anne L. Co, MD-MBA
   roles: Operations
   photo_url: /img/staff/SAC.png
-  quote: "\"Research is what I’m doing when I don’t know what I’m doing.\" <br> Wehner Von Braun"
+  quote: "“Research is what I’m doing when I don’t know what I’m doing.” <br> Wehner Von Braun"
   # description: "This is a sample description for this person."
   links:
     # email: stephanie.a.co@email.com
@@ -55,7 +55,7 @@ stephanie_anne_co:
 #   name: Hadrian Paulo M. Lim, MS
 #   roles: Health Information Systems Division Head
 #   photo_url: /img/staff/HML.png
-#   quote: "\"AI might be a powerful technology, but things won't get better simply by adding AI. \" <br> Vivienne Ming"
+#   quote: "“AI might be a powerful technology, but things won't get better simply by adding AI. \" <br> Vivienne Ming"
 #   description: "This is a sample description for this person."
 #   links:
     # email: hadrianpaulo@email.com
@@ -65,7 +65,7 @@ jac_lin_yu:
   name: Jac Lin T. Yu
   roles: Administrative Division Head
   photo_url: /img/staff/JLY.png
-  quote: "\"Beware of little expenses; a small leak will sink a great ship.\" <br> Benjamin Franklin"
+  quote: "“Beware of little expenses; a small leak will sink a great ship.” <br> Benjamin Franklin"
   # description: "This is a sample description for this person."
   links:
     # email: jaclinyu@email.com
@@ -86,7 +86,7 @@ jac_lin_yu:
 #   name: Anne Kathlyn A. Baladad
 #   roles: Communications Specialist
 #   photo_url: /img/staff/AKB.png
-#   quote: "\"Making the simple complicated is commonplace; making the complicated simple, that's creativity.\" <br> Charles Mingus"
+#   quote: "“Making the simple complicated is commonplace; making the complicated simple, that's creativity.” <br> Charles Mingus"
 #   description: "This is a sample description for this person."
 #   links:
     # email: katya.baladad@gmail.com
@@ -96,7 +96,7 @@ cleo_fowler:
   name: Krizelle Cleo Fowler
   roles: Science Team, Human Resources
   photo_url: /img/staff/CF.png
-  quote: "\"All that we are is a result of what we have thought.\" <br> Buddha"
+  quote: "“All that we are is a result of what we have thought.” <br> Buddha"
   # description: "This is a sample description for this person."
   links:
     # email: krizelle.fowler@email.com
@@ -106,7 +106,7 @@ abigail_lim:
   name: Abigail L. Tan
   roles: Science Team
   photo_url: /img/staff/AEL.png
-  quote: "\"We meet no ordinary people in our lives.\" <br> C.S. Lewis"
+  quote: "“We meet no ordinary people in our lives.” <br> C.S. Lewis"
   # description: "This is a sample description for this person."
   links:
     # email: abbylim12@email.com
@@ -116,7 +116,7 @@ ingrid_espinosa:
   name: Christine Ingrid M. Espinosa
   roles: Marketing & Communication
   photo_url: /img/staff/CIE.png
-  quote: "\"Our imagination is stretched to the utmost, not in fiction...but to comprehend those things which are there.\" <br> Richard Feynman"
+  quote: "“Our imagination is stretched to the utmost, not in fiction...but to comprehend those things which are there.” <br> Richard Feynman"
   # description: "This is a sample description for this person."
   links:
     # email: espinosa.ingrid.m@gmail.com
@@ -126,7 +126,7 @@ catrina_yang:
   name: Catrina M. Yang, MD-MBA
   roles: Innovations
   photo_url: /img/staff/CY.png
-  quote: ""
+  quote: "“All grown-ups were once children... but only few of them remember it.” <br> Antoine de Saint-Exupéry"
   # description: "This is a sample description for this person."
   links:
     # email: espinosa.ingrid.m@gmail.com
@@ -136,7 +136,7 @@ aidel_tulio:
   name: Aideline C. Tulio
   roles: Admin Assistant
   photo_url: /img/staff/ACT.png
-  quote: "\"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.\" <br> Helen Keller"
+  quote: "“Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.” <br> Helen Keller"
   # description: "This is a sample description for this person."
   links:
     # email: aideline.tulio96@gmail.com
@@ -146,7 +146,7 @@ amor_babatido:
   name: Amor Babatido
   roles: Finance Assistant 
   photo_url: /img/staff/AB.png
-  quote: "\"If you want to live a happy life, tie it to a goal, not to people or things.\" <br> Albert Einstein"
+  quote: "“If you want to live a happy life, tie it to a goal, not to people or things.” <br> Albert Einstein"
   # description: "This is a sample description for this person."
   links:
     # email: amorbabatido@gmail.com
@@ -156,7 +156,7 @@ amor_babatido:
 #   name: Firstname Lastname
 #   roles: Position 
 #   photo_url: /img/staff/INITIALS.png
-#   quote: "\"quote\" <br> author"
+#   quote: "“quote\" <br> author"
 #   description: "This is a sample description for this person."
 #   links:
 #     # email: sample@gmail.com

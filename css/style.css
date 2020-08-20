@@ -1552,6 +1552,7 @@ main.page-section section.wrapper {
 #article-wrapper .article-staff .featured-staff .staff-description {
   text-align: left;
   width: 40%;
+  margin: 2em auto;
 }
 
 #article-wrapper .article-staff .featured-staff img {

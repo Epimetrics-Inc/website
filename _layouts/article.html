@@ -26,14 +26,29 @@ layout: page
 	</div>
 
 	<div class="article-staff">
-		<div class="featured-staff">
-			<div class="staff-info">
-				<h3 class="staff-name">{{ page.author_name }}</h3>
-				<h5 class="staff-position">{{ page.author_roles }}</h5>
+		{% if page.authors %}<!-- if page has authors -->
+			{% for author in page.authors %}
+			{% assign curr_author = site.data.team[author] %}
+			<div class="featured-staff">
+				<div class="staff-info">
+					<h3 class="staff-name">{{ curr_author.name }}</h3>
+					<h5 class="staff-position">{{curr_author.roles}}</h5>
+				</div>
+				<img src="{{ curr_author.photo_url }}" alt="">
+				<div class="staff-description">{{ curr_author.description }}</div>
 			</div>
-			<img src="{{ page.author_photo_url }}" alt="">
-			<div class="staff-description">{{ page.author_description }}</div>
-		</div>
+			{% if forloop.last != true %}{% endif %}
+			{% endfor %}
+		{% else %}
+			<div class="featured-staff">
+				<div class="staff-info">
+					<h3 class="staff-name">{{ page.author_name }}</h3>
+					<h5 class="staff-position">{{page.author_roles}}</h5>
+				</div>
+				<img src="{{ page.author_photo_url }}" alt="">
+				<div class="staff-description">{{ page.author_description }}</div>
+			</div>
+		{% endif %}
 	</div>
 	
 	{% if page.comments %}

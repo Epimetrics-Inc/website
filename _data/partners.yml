@@ -39,6 +39,9 @@ RCPH:
 DDB:
   name: Dangerous Drugs Board
   logo_url: img/logos/Dangerous_Drugs_Board_(DDB).svg
+NRC:
+  name: National Resilience Council
+  logo_url: img/logos/NRC.png
 # acronym:
 #   name: acronym
 #   logo_url: img/logos/path

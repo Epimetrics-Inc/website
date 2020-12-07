@@ -4,10 +4,10 @@ date: 2020-12-07
 clients:
 - DOH
 featured: false
-Image: <infog>
+image: <infog>
 description:
  
-Authors:
+authors:
 - name: John Q. Wong, MD, MSc
   role: Principal Investigator
   photo_url: /img/staff/JQW.png
@@ -21,8 +21,6 @@ Authors:
   role: Research Associate
   photo_url: /img/staff/MGT.png
 
- 
- 
 building_blocks:
 - "Health Information Systems"
  

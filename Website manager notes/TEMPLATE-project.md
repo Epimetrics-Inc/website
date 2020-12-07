@@ -28,3 +28,7 @@ building_blocks:
 ---
 
 <!-- Add all the body text of the project here -->
+
+**For more information on the study, email us at [contact@epimetrics.com.ph](mailto:contact@epimetrics.com.ph)**
+
+<!-- Quick note: whenever including emails as links, always set the link to mailto:<email address>, so that the browser knows it's an email address -->

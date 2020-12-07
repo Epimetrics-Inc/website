@@ -49,8 +49,11 @@ By decreasing and streamlining the hospital indicators to be collected, it was a
 With the goal of aiding in streamlining the process for hospital reports, the project study was able to harmonize the indicators and created a minimum basic data with an aim to produce relevant information that will  guide decision makers in creating new policies and standards.
 
 [Executive Summary](../assets/projects/bb9e/EpiMetrcs_HarmonizationHospInd_ExecSumm.pdf){:target="_blank"}
+
 [Policy Brief](../assets/projects/bb9e/EpiMetrics_HarmonizationHospInd_PolicyBrief.pdf){:target="_blank"}
+
 [Plain Language Summary](../assets/projects/bb9e/Harmonization-Plain_Language_Summary.pdf){:target="_blank"}
+
 <!-- Infographic -->
 
 

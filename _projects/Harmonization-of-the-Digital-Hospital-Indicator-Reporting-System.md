@@ -4,7 +4,7 @@ date: 2020-12-07
 clients:
 - DOH
 featured: false
-image: ../assets/projects/bb9e/Final Harmonization version 1-01.jpg
+image: ../assets/projects/bb9e/Final_Harmonization_version_1-01.jpg
 description:
  
 authors:
@@ -52,8 +52,8 @@ With the goal of aiding in streamlining the process for hospital reports, the pr
 
 [Plain Language Summary](../assets/projects/bb9e/Harmonization-Plain_Language_Summary.pdf){:target="_blank"}
 
-[Infographic](../assets/projects/bb9e/Final Harmonization version 1-01.jpg){:target="_blank"}
+[Infographic](../assets/projects/bb9e/Final_Harmonization_version_1-01.jpg){:target="_blank"}
 
-![](assets/projects/bb9e/Final Harmonization version 1-01.jpg){: .size-large .align-center}
+![](assets/projects/bb9e/Final_Harmonization_version_1-01.jpg){: .size-large .align-center}
 
 **For more information on the study, email us at [contact@epimetrics.com.ph](mailto:contact@epimetrics.com.ph)**

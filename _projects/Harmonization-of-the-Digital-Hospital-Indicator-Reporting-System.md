@@ -54,6 +54,6 @@ With the goal of aiding in streamlining the process for hospital reports, the pr
 
 [Infographic](../assets/projects/bb9e/Final_Harmonization_version_1-01.jpg){:target="_blank"}
 
-![](assets/projects/bb9e/Final_Harmonization_version_1-01.jpg){: .size-large .align-center}
+![](../assets/projects/bb9e/Final_Harmonization_version_1-01.jpg){: .size-large .align-center}
 
 **For more information on the study, email us at [contact@epimetrics.com.ph](mailto:contact@epimetrics.com.ph)**

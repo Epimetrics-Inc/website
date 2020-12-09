@@ -97,7 +97,8 @@ cleo_fowler:
   roles: Science Team, Human Resources
   photo_url: /img/staff/CF.png
   quote: "“All that we are is a result of what we have thought.” <br> Buddha"
-  # description: "This is a sample description for this person."
+  description: "Krizelle is the quantitative data specialist at EpiMetrics, Inc. She is the go-to person for quantitative sampling, data processing, and analysis. She works closely with the research associates and qualitative data specialist to enrich data narratives and build stories through numbers. Krizelle also lectures for capacity-building, sharing her knowledge on statistics and basic epidemiology. She is currently taking her Master of Science in Epidemiology at the London School of Hygiene and Tropical Medicine. Aside from that, she acts as the Human Resources Officer of the company.
+"
   links:
     # email: krizelle.fowler@email.com
     # linkedin: https://ph.linkedin.com/sample
@@ -117,7 +118,7 @@ ingrid_espinosa:
   roles: Marketing & Communication
   photo_url: /img/staff/CIE.png
   quote: "“Our imagination is stretched to the utmost, not in fiction...but to comprehend those things which are there.” <br> Richard Feynman"
-  # description: "This is a sample description for this person."
+  description: "Ingrid Espinosa is a Research Associate and Marketing and Communications Officer at EpiMetrics, Inc. Having been with EpiMetrics since 2016, she has worked on projects with various topics such as HIV/AIDS, the rural deployment program, and hospital and DOH records. In Marketing and Communications, she continues to learn more about bridging the research community and the public, especially as public health receives more attention. She is also interested in design thinking and is an occasional writer. "
   links:
     # email: espinosa.ingrid.m@gmail.com
     # linkedin: https://ph.linkedin.com/sample

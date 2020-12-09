@@ -91,7 +91,7 @@ Interested in the project? See the [Project Article]({% link _projects/PHIC-OHAT
 
 [How to talk about HIV - UNAIDS Terminology Guidelines 2015](http://www.unaids.org/sites/default/files/media_asset/2015_terminology_guidelines_en.pdf)
 
-*Bonus insight:
+Bonus insight:
 
 While walking around the area with the data collectors, I would encounter old signs that referred to the HIV center as a “social hygiene clinic”, a name that sounded rather dated. Upon further reading, I found that “social hygiene” originated in the late 19th century as a movement for abolishing sexual activity that was considered “immoral” to traditional Christian beliefs, and was even linked to eugenics (a very controversial concept on improving the “genetic” quality of the population). As time went by however, “social hygiene” had adapted to mean something closer to sexual health, and is now most often aligned to public health, with regard to sexually-transmitted and other infectious diseases. Some centers for HIV care in Manila today are called Social Hygiene Clinics. I hope that perceptions surrounding HIV have also adapted to the times in the Philippines.
 

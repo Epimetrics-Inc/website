@@ -7,7 +7,7 @@
 	<!-- Jekyll-specific -->
 	{% if page.title %}
 		<title>{{ page.title }} | {{ site.title }}</title> <!-- Add title of project / article first -->
-		<meta name="description" content="{{ page.description }}">
+		<meta name="description" content="{%if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncatewords: 50 }}{% endif %}">
 	{% else %}
 		<title>{{ site.title }} | {{ site.tagline }}</title> <!-- Add name of company and tagline -->
 		<meta name="description" content="EpiMetrics, Inc. is a health research institution geared towards the achievement of health equity through rigorous and creative conception, execution, translation, and communication of health systems and policy research.">

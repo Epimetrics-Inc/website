@@ -5,11 +5,10 @@ title: "A Different Lens: My First Public Health Conference as a Statistician"
 featured_image: /assets/posts/2018-10-30-A-Different-Lens/4.jpg
 date: 2018-10-30
 # to get the name of the author, you need to refer to team.yml
-author_name: Krizelle Cleo Fowler
-author_roles: Quantitative Specialist
-author_photo_url: /img/staff/CF.png
-author_quote: "\"\" <br> "
-author_description: "" 
+authors:
+- name: Krizelle Cleo Fowler
+  roles: Quantitative Specialist
+  photo_url: /img/staff/CF.png
 featured: false
 internal_url: 2018/10/30/A-Different-Lens.html
 ---

@@ -28,26 +28,16 @@ layout: page
 	<div class="article-staff">
 		{% if page.authors %}<!-- if page has authors -->
 			{% for author in page.authors %}
-			<!--{% assign curr_author = site.data.team[author] %}-->
 			<div class="featured-staff">
+				{% if author.photo_url %}<img src="{{ author.photo_url }}" alt="">{% endif %}
 				<div class="staff-info">
 					<h3 class="staff-name">{{ author.name }}</h3>
 					<h5 class="staff-position">{{author.roles}}</h5>
 				</div>
-				{% if author.photo_url %}<img src="{{ author.photo_url }}" alt="">{% endif %}
 				{% if author.description %}<div class="staff-description">{{ author.description }}</div>{% endif %}
 			</div>
 			{% if forloop.last != true %}{% endif %}
 			{% endfor %}
-		{% else %}
-			<div class="featured-staff">
-				<div class="staff-info">
-					<h3 class="staff-name">{{ page.author_name }}</h3>
-					<h5 class="staff-position">{{page.author_roles}}</h5>
-				</div>
-				<img src="{{ page.author_photo_url }}" alt="">
-				<div class="staff-description">{{ page.author_description }}</div>
-			</div>
 		{% endif %}
 	</div>
 	
@@ -63,15 +53,13 @@ layout: page
 			     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: 
 			     *  https://disqus.com/admin/universalcode/#configuration-variables
 			     */
-			    /*
 			    var disqus_config = function () {
 			        // Replace PAGE_URL with your page's canonical URL variable
-			        this.page.url = PAGE_URL;  
+			        this.page.url = "{{ page.url | absolute_url }}";  
 			        
 			        // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-			        this.page.identifier = PAGE_IDENTIFIER; 
+			        this.page.identifier = "{{ page.id }}"; 
 			    };
-			    */
 			    
 			    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
 			        var d = document, s = d.createElement('script');

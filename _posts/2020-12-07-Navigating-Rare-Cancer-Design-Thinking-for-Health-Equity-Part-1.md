@@ -5,7 +5,10 @@ title: "Navigating Rare Cancer: Design Thinking for Health Equity (Part 1)"
 featured_image: /assets/posts/2020-12-07-Navigating-Rare-Cancer-Design-Thinking-for-Health-Equity-Part-1/ekay-design-thinking.png
 date: 2020-12-07
 authors:
-- cheyenne_modina
+- name: Cheyenne Ariana Erika M. Modina
+  roles: President
+  photo_url: /img/staff/EM.png
+  description: "Erika is currently the President of EpiMetrics and a part-time professor under the Health Sciences Program at the Ateneo de Manila University, teaching Design Thinking in Public Health. Her current research focuses on health literacy and health promotion. Her previous projects have contributed to the development of the Universal Health Care Law and the Guidelines for the Maximum Retail Price of Drug and Medicine in the Philippines. She is currently taking her Master of Science in Public Health (Health Promotion stream) at the London School of Hygiene and Tropical Medicine and holds a graduate certificate course in Technology and Innovation from Stanford University. She is also working with a health venture builder in innovating products in health and medicine."
 featured: false
 internal_url: 2020/12/07/Navigating-Rare-Cancer-Design-Thinking-for-Health-Equity-Part-1.html
 ---

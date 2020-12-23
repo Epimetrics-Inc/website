@@ -6,17 +6,25 @@ featured_image: /assets/posts/2020-12-07-17th-National-Medical-Writers-Workshop-
 date: 2020-12-07
 # to get the name of the author, you need to refer to _data/team.yml
 authors:
-- ingrid_espinosa
-- stephanie_anne_co
-- cheyenne_modina
-- cleo_fowler
+- name: Christine Ingrid M. Espinosa
+  roles: Research Associate, Marketing & Communications
+  photo_url: /img/staff/CIE.png
+  description: "Ingrid Espinosa is a Research Associate and Marketing and Communications Officer at EpiMetrics, Inc. Having been with EpiMetrics since 2016, she has worked on projects with various topics such as HIV/AIDS, the rural deployment program, and hospital and DOH records. In Marketing and Communications, she continues to learn more about bridging the research community and the public, especially as public health receives more attention. She is also interested in design thinking and is an occasional writer. "
+- name: Stephanie Anne L. Co, MD-MBA
+  roles: Operations
+  photo_url: /img/staff/SAC.png
+- name: Cheyenne Ariana Erika M. Modina
+  roles: President
+  photo_url: /img/staff/EM.png
+  description: "Erika is currently the President of EpiMetrics and a part-time professor under the Health Sciences Program at the Ateneo de Manila University, teaching Design Thinking in Public Health. Her current research focuses on health literacy and health promotion. Her previous projects have contributed to the development of the Universal Health Care Law and the Guidelines for the Maximum Retail Price of Drug and Medicine in the Philippines. She is currently taking her Master of Science in Public Health (Health Promotion stream) at the London School of Hygiene and Tropical Medicine and holds a graduate certificate course in Technology and Innovation from Stanford University. She is also working with a health venture builder in innovating products in health and medicine."
+- name: Krizelle Cleo Fowler
+  roles: Statistician, Human Resources
+  photo_url: /img/staff/CF.png
+  description: "Krizelle is the quantitative data specialist at EpiMetrics, Inc. She is the go-to person for quantitative sampling, data processing, and analysis. She works closely with the research associates and qualitative data specialist to enrich data narratives and build stories through numbers. Krizelle also lectures for capacity-building, sharing her knowledge on statistics and basic epidemiology. She is currently taking her Master of Science in Epidemiology at the London School of Hygiene and Tropical Medicine. Aside from that, she acts as the Human Resources Officer of the company."
 featured: false
 internal_url: _posts/2020-12-07-17th-National-Medical-Writers-Workshop-Support-for-the-Marathon-of-Journal-Publication.html
 
 ---
-
-Article Body
-
 
 Journal publication is an important channel of research communication, the final step of the research process. On October 26-30, four EpiMetrics researchers participated in the week-long 17th National Medical Writers Workshop organized by the Philippine Association of Medical Journal Editors with the Philippine Council for Health Research and Development and the Asia Pacific Medical Editors Association. The workshop featured lectures by esteemed figures in Philippine and Asian medical writing, and facilitators from various esteemed Philippine medical journals. Apart from lectures, participants also workshopped their own manuscripts in small groups, in preparation for future publication.
 At the end of the week, Dr Steph Co, Christine Ingrid Espinosa, Krizelle Fowler, and Erika Modina, along with their fellow participants from all over the country, outlined their insights and concrete changes they would be making to their manuscripts to make it publication-ready. Dr Steph Co was also among those cited to have the “Most Ready to Publish” manuscripts in their small groups. Specifically, Dr Co belonged to the Public Health group.

@@ -1429,8 +1429,8 @@ main.page-section section.wrapper {
   display: inline-block;
   width: 60%;
   height: 80vh;
-  -o-object-fit: cover;
-  object-fit: cover;
+  -o-object-fit: contain;
+  object-fit: contain;
   float: left;
   margin: 2em 2em 2em 0;
 }
@@ -1520,17 +1520,20 @@ main.page-section section.wrapper {
 
 /* ARTICLE page ONLY styles */
 #article-wrapper .article-staff {
-  display: block;
+  display: flex;
   width: 100%;
   height: auto;
   background-color: #efe0df;
   background-color: var(--epimetrics-peach);
   color: #470006;
   color: var(--epimetrics-darkred);
+  padding: 2em 4em;
+  flex-wrap: wrap;
 }
 
 #article-wrapper .article-staff .featured-staff {
-  width: 80%;
+  max-width: 80%;
+  flex: 1 1 auto;
   margin: 0 auto;
   display: flex;
   justify-content: center;
@@ -1539,8 +1542,7 @@ main.page-section section.wrapper {
 }
 
 #article-wrapper .article-staff .featured-staff .staff-info {
-  text-align: right;
-  width: 20%;
+  flex: 0 0 25%;
   font-size: 1.2em;
   font-weight: bolder;
 }
@@ -1551,7 +1553,7 @@ main.page-section section.wrapper {
 
 #article-wrapper .article-staff .featured-staff .staff-description {
   text-align: left;
-  width: 40%;
+  flex: 1 1 auto;
   margin: 2em auto;
 }
 

@@ -5,11 +5,11 @@ title: "Bridging the Gap Between Disciplines: My Journey with Epimetrics"
 featured_image: /assets/posts/2020-08-19-Bridging-the-Gap-Between-Disciplines/Ezra_Hi-ASAP.jpg
 date: 2020-08-19
 # to get the name of the author, you need to refer to team.yml
-author_name: Morisson Ezra Wong Gonzales
-author_roles: Contributor
-author_photo_url: /img/authors/EWG.png
-author_quote: "\"\" <br> "
-author_description: "Morisson Ezra Wong Gonzales is a graduate from Ateneo De Manila University of BS Health Sciences, having worked with Epimetrics, Inc. as a research assistant for one year on various proposals and evidence summaries spanning air pollution, mental health, WASH, and nutrition. Currently, he is a first year medical student in University of the East Ramon Magsaysay Memorial Medical Center College of Medicine."
+authors:
+- name: Morisson Ezra Wong Gonzales
+  roles: Contributor
+  photo_url: /img/authors/EWG.png
+  description: "Morisson Ezra Wong Gonzales is a graduate from Ateneo De Manila University of BS Health Sciences, having worked with Epimetrics, Inc. as a research assistant for one year on various proposals and evidence summaries spanning air pollution, mental health, WASH, and nutrition. Currently, he is a first year medical student in University of the East Ramon Magsaysay Memorial Medical Center College of Medicine."
 featured: false
 internal_url: 2020/08/19/Bridging-the-Gap-Between-Disciplines.html
 ---

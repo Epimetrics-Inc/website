@@ -6,11 +6,11 @@ Reflections on working with PLHIV for the OHAT study"
 featured_image_alt: /assets/posts/2018-05-02-Getting%20to%20Know/4.png
 date: 2018-08-10
 # to get the name of the author, you need to refer to team.yml
-author_name: Christine Ingrid Espinosa
-author_roles: Research Associate, <br> Innovations Associate
-author_photo_url: /img/staff/CIE.png
-author_quote: "\"\" <br> "
-author_description: "Ingrid Espinosa is a Research and Innovations Associate at EpiMetrics, Inc. Having been with EpiMetrics since 2016, she has worked on projects with various topics such as leprosy, HIV/AIDS, and hospital and DOH records. In the Innovations Unit, she continues to learn more about the different aspects of public health and design thinking, and is always on the lookout for new challenges to engage in and write about." 
+authors:
+- name: Christine Ingrid Espinosa
+  roles: Research Associate, <br> Innovations Associate
+  photo_url: /img/staff/CIE.png
+  description: "Ingrid Espinosa is a Research and Innovations Associate at EpiMetrics, Inc. Having been with EpiMetrics since 2016, she has worked on projects with various topics such as leprosy, HIV/AIDS, and hospital and DOH records. In the Innovations Unit, she continues to learn more about the different aspects of public health and design thinking, and is always on the lookout for new challenges to engage in and write about." 
 featured: false
 internal_url: 2018/08/10/Getting-to-Know-PLHIV.html
 ---

@@ -5,11 +5,10 @@ title: "Building Bridges Using Health Literacy Initiatives - Part 1"
 featured_image_alt: /assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png
 date: 2018-09-06
 # to get the name of the author, you need to refer to team.yml
-author_name: Abigail L. Tan
-author_roles: Qualitative Specialist
-author_photo_url: /img/staff/AEL.png
-author_quote: "\"\" <br> "
-author_description: "" 
+authors:
+- name: Abigail L. Tan
+  roles: Qualitative Specialist
+  photo_url: /img/staff/AEL.png
 featured: false
 internal_url: /2018-09-05-Building-Bridges-through-Health-Literacy-1.md
 ---

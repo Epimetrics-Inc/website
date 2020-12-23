@@ -28,14 +28,14 @@ layout: page
 	<div class="article-staff">
 		{% if page.authors %}<!-- if page has authors -->
 			{% for author in page.authors %}
-			{% assign curr_author = site.data.team[author] %}
+			<!--{% assign curr_author = site.data.team[author] %}-->
 			<div class="featured-staff">
 				<div class="staff-info">
-					<h3 class="staff-name">{{ curr_author.name }}</h3>
-					<h5 class="staff-position">{{curr_author.roles}}</h5>
+					<h3 class="staff-name">{{ author.name }}</h3>
+					<h5 class="staff-position">{{author.roles}}</h5>
 				</div>
-				<img src="{{ curr_author.photo_url }}" alt="">
-				<div class="staff-description">{{ curr_author.description }}</div>
+				{% if author.photo_url %}<img src="{{ author.photo_url }}" alt="">{% endif %}
+				{% if author.description %}<div class="staff-description">{{ author.description }}</div>{% endif %}
 			</div>
 			{% if forloop.last != true %}{% endif %}
 			{% endfor %}

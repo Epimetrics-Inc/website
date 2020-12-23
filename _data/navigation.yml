@@ -1,4 +1,7 @@
 # _data/navigation.yml
+- title: EpiToMe
+  url: https://anchor.fm/epitome-hsc51
+
 - title: Solutions
   url: /solutions
 

@@ -7,7 +7,8 @@ date: YYYY-MM-DD
 clients:
 - List all clients here even if only 1
 featured: false # if featured in Projects page or not (the 2 block sized card)
-description:
+description: |
+  Please replace this text with a short description of the project. If ever this goes beyond 200 characters, it will be automatically truncated in descriptions.
 
 authors:
 # list all authors here with following format:

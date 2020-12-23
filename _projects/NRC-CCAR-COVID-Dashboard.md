@@ -6,7 +6,7 @@ clients:
 - NRC
 Collaborating companies/organizations (if any): Xavier University - Ateneo de Cagayan, Ateneo de Manila University Coastal Cities at Risk Philippines
 featured: false
-image: ../assets/projects/holomap/Holomap1.png
+image: ..assets/projects/holomap/Holomap1v2.png
 description:
  
 authors:
@@ -23,22 +23,22 @@ authors:
   photo_url: /img/staff/CF.png
 
 - name: Anne Kathlyn A. Baladad
-  role: Technical Consultant for geographic information system (GIS)
+  role: Technical Consultant for Geographic Information System (GIS)
   photo_url: /img/staff/AKB.png
 
-- name: Jac Lin T. Yu
+- name: Jac Lin T. Yu, MSc
   role: Lead Developer
   photo_url: /img/staff/JLY.png
 
-- name: Sandro Luis R. Silva
+- name: Sandro Luis R. Silva, MSc
   role: Developer
   photo_url: /img/staff/NO-PIC.jpg
 
-- name: Erika Arielle Michaela G. Ortigas
+- name: Erika Arielle Michaela G. Ortigas, MSc
   role: Developer
   photo_url: /img/staff/NO-PIC.jpg
 
-- name: Armand Louis A. De Leon
+- name: Armand Louis A. De Leon, MSc
   role: Developer
   photo_url: /img/staff/NO-PIC.jpg
 
@@ -54,7 +54,7 @@ The thrust of this project was to enable partner local government units (LGUs) t
 
 This online application allows LGUs to input case data and healthcare (facilities, testing, and health worker) capacity. The application generates graphs for the epidemic curve, reproductive number, doubling times, and positivity rates over time. It also generates choropleth maps to demonstrate the barangays’ active case counts. To add significance to this data, the application utilized Local Indicators of Spatial Association (LISA) to identify cluster hotspots.  All generated graphs and maps are downloadable and easily incorporated to the main LGU COVID-19 dashboards. Additional resources and guidelines are also incorporated in the application site. Since its delivery, the application has aided local committees in presenting their data to the local chief executives for monitoring and planning actions. 
 
-![](../assets/projects/holomap/Holomap1.png){: .size-large .align-center}
+![](../assets/projects/holomap/Holomap1v2.png){: .size-large .align-center}
 ![](../assets/projects/holomap/Holomap2.png){: .size-large .align-center}
 
 _Sample images of the dashboard taken using dummy data. Map was pixelated to hide actual locations, but actual dashboard will be clear using Google Maps._

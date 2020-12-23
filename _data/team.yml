@@ -63,7 +63,7 @@ stephanie_anne_co:
 
 jac_lin_yu:
   name: Jac Lin T. Yu
-  roles: Administrative Division Head
+  roles: Data Scientist, Administrative Division Head
   photo_url: /img/staff/JLY.png
   quote: "“Beware of little expenses; a small leak will sink a great ship.” <br> Benjamin Franklin"
   # description: "This is a sample description for this person."
@@ -94,17 +94,18 @@ jac_lin_yu:
 
 cleo_fowler:
   name: Krizelle Cleo Fowler
-  roles: Science Team, Human Resources
+  roles: Statistician, Human Resources
   photo_url: /img/staff/CF.png
   quote: "“All that we are is a result of what we have thought.” <br> Buddha"
-  # description: "This is a sample description for this person."
+  description: "Krizelle is the quantitative data specialist at EpiMetrics, Inc. She is the go-to person for quantitative sampling, data processing, and analysis. She works closely with the research associates and qualitative data specialist to enrich data narratives and build stories through numbers. Krizelle also lectures for capacity-building, sharing her knowledge on statistics and basic epidemiology. She is currently taking her Master of Science in Epidemiology at the London School of Hygiene and Tropical Medicine. Aside from that, she acts as the Human Resources Officer of the company.
+"
   links:
     # email: krizelle.fowler@email.com
     # linkedin: https://ph.linkedin.com/sample
 
 abigail_lim:
   name: Abigail L. Tan
-  roles: Science Team
+  roles: Qualitative Specialist
   photo_url: /img/staff/AEL.png
   quote: "“We meet no ordinary people in our lives.” <br> C.S. Lewis"
   # description: "This is a sample description for this person."
@@ -114,10 +115,10 @@ abigail_lim:
 
 ingrid_espinosa:
   name: Christine Ingrid M. Espinosa
-  roles: Marketing & Communication
+  roles: Research Associate, Marketing & Communications
   photo_url: /img/staff/CIE.png
   quote: "“Our imagination is stretched to the utmost, not in fiction...but to comprehend those things which are there.” <br> Richard Feynman"
-  # description: "This is a sample description for this person."
+  description: "Ingrid Espinosa is a Research Associate and Marketing and Communications Officer at EpiMetrics, Inc. Having been with EpiMetrics since 2016, she has worked on projects with various topics such as HIV/AIDS, the rural deployment program, and hospital and DOH records. In Marketing and Communications, she continues to learn more about bridging the research community and the public, especially as public health receives more attention. She is also interested in design thinking and is an occasional writer. "
   links:
     # email: espinosa.ingrid.m@gmail.com
     # linkedin: https://ph.linkedin.com/sample
@@ -134,7 +135,7 @@ catrina_yang:
 
 aidel_tulio:
   name: Aideline C. Tulio
-  roles: Admin Assistant
+  roles: Human Resources Associate, Admin Assistant
   photo_url: /img/staff/ACT.png
   quote: "“Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.” <br> Helen Keller"
   # description: "This is a sample description for this person."
@@ -142,15 +143,15 @@ aidel_tulio:
     # email: aideline.tulio96@gmail.com
     # linkedin: https://ph.linkedin.com/sample
 
-amor_babatido:
-  name: Amor Babatido
-  roles: Finance Assistant 
-  photo_url: /img/staff/AB.png
-  quote: "“If you want to live a happy life, tie it to a goal, not to people or things.” <br> Albert Einstein"
-  # description: "This is a sample description for this person."
-  links:
-    # email: amorbabatido@gmail.com
-    # linkedin: https://ph.linkedin.com/sample
+# amor_babatido:
+#   name: Amor Babatido
+#   roles: Finance Assistant 
+#   photo_url: /img/staff/AB.png
+#   quote: "“If you want to live a happy life, tie it to a goal, not to people or things.” <br> Albert Einstein"
+#   # description: "This is a sample description for this person."
+#   links:
+#     # email: amorbabatido@gmail.com
+#     # linkedin: https://ph.linkedin.com/sample
 
 # firstname_lastname:
 #   name: Firstname Lastname

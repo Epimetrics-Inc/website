@@ -1,10 +1,10 @@
 ---
 title: Effectiveness of selected Dangerous Drugs Board (DDB)-Supported Drug Facilities in the Philippines
 date: 2020-06-27
-image: ../assets/projects/kessel/Kessel_Infog.png
 clients:
 - DDB
 featured: false
+featured_image: ../assets/projects/kessel/Kessel_Infog.png
 description: |
  
 Authors:

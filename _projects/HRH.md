@@ -6,7 +6,7 @@ clients:
 - HRH2030
 - DOH
 featured: true
-image: ../assets/projects/hrh/HRH_19Nov2019-with_regular_font.png
+featured_image: ../assets/projects/hrh/HRH_19Nov2019-with_regular_font.png
 description:
 
 authors:

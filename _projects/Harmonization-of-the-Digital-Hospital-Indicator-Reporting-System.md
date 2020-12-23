@@ -4,7 +4,7 @@ date: 2020-12-07
 clients:
 - DOH
 featured: false
-image: ../assets/projects/bb9e/Final_Harmonization_version_1-01.jpg
+featured_image: ../assets/projects/bb9e/Final_Harmonization_version_1-01.jpg
 description:
  
 authors:

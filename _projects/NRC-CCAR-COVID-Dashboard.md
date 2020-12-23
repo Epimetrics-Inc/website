@@ -6,7 +6,7 @@ clients:
 - NRC
 Collaborating companies/organizations (if any): Xavier University - Ateneo de Cagayan, Ateneo de Manila University Coastal Cities at Risk Philippines
 featured: false
-image: ..assets/projects/holomap/Holomap1v2.png
+featured_image: ..assets/projects/holomap/Holomap1v2.png
 description:
  
 authors:

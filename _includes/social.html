@@ -6,7 +6,7 @@
   <!-- If article or project post -->
   <meta property="og:type" content="article">
   <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:image" content="{{ page.image }}">
+  <meta property="og:image" content="{{ page.featured_image | absolute_url }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncatewords: 25 }}{% endif %}">
 {% else %}
   <meta property="og:type" content="website">
@@ -26,7 +26,7 @@
 
 {% if page.is_post %}
   <meta property="twitter:title" content="{{ page.title }}">
-  <meta property="twitter:image" content="{{ page.image }}">
+  <meta property="twitter:image" content="{{ page.featured_image | absolute_url }}">
   <meta property="twitter:description" content="{% if page.description %}{{ page.description | truncate: 200 }}{% else %}{{ page.content | strip_html | truncate: 200 }}{% endif %}">
 {% else %}
   <meta property="twitter:title" content="{{ site.title }}">

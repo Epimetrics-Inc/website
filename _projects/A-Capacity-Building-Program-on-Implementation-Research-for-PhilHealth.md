@@ -4,7 +4,7 @@ date: 2020-08-20
 clients:
  - PhilHealth
 featured: false
-image: ../assets/projects/boonta/EpiMetrics_ImpleResCapBuild_Infog_17Aug2020.png
+featured_image: ../assets/projects/boonta/EpiMetrics_ImpleResCapBuild_Infog_17Aug2020.png
 description:
 
 authors: 

@@ -4,7 +4,7 @@ date: 2018-10-15
 clients:
 - PhilHealth
 featured: false
-image: https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/crc/1.png
+featured_image: /assets/projects/crc/1.png
 description: 
     Four screening interventions for colorectal cancer (CRC), namely Guaiac-Fecal Occult Blood Test (FOBT), fecal immunochemical test (FIT), f​lexible sigmoidoscopy (FS)​, and colonoscopy​ were evaluated with a cost-utility analysis and budget impact analysis. Results revealed that all screening modalities were very cost-effective compared to no screening considering the incremental cost-effective ratios (ICERs) fall below the 1 GDP per capita threshold of the World Health Organization (WHO) guidelines. The cheapest interventions (gFOBT or FIT, followed by colonoscopy) have a budget impact of Php9B in the first year assuming moderate compliance but the budget can fall as low as Php1B for the first year assuming low compliance.
     

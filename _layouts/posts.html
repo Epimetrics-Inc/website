@@ -22,7 +22,10 @@ layout: page
     background-color: white;">
       <div class="article-info">
         <h3 class="article-title">{{ post.title }}</h3>
-        <div class="article-author">{{ post.author_name }}</div>
+        <div class="article-author">By 
+        {% for author in post.authors %}
+          {{ author.name }}{% if forloop.last != true %}, {% endif %}
+        {% endfor %}</div>
         <div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
       </div>
     </a>
@@ -37,7 +40,10 @@ layout: page
     background-color: white;">
       <div class="article-info">
         <h3 class="article-title">{{ post.title }}</h3>
-        <div class="article-author">{{ post.author_name }}</div>
+        <div class="article-author">By 
+        {% for author in post.authors %}
+          {{ author.name }}{% if forloop.last != true %}, {% endif %}
+        {% endfor %}</div>
         <div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>
       </div>
     </a>

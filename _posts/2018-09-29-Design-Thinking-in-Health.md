@@ -4,12 +4,10 @@ title: "Design Thinking in Health"
 # Article Details
 featured_image: /assets/posts/2018-09-29-Design-Thinking-in-Health/1.png
 date: 2018-09-29
-# to get the name of the author, you need to refer to team.yml
-author_name: Cheyenne Ariana<br>Erika M. Modina
-author_roles: Innovations and <br> Monitoring & Evaluation Specialist
-author_photo_url: /img/staff/EM.png
-author_quote: "\"\" <br> "
-author_description: "" 
+authors:
+- name: Cheyenne Ariana<br>Erika M. Modina
+  roles: Innovations and <br> Monitoring & Evaluation Specialist
+  photo_url: /img/staff/EM.png
 featured: false
 internal_url: 2018/09/29/Design-Thinking-in-Health.html
 ---

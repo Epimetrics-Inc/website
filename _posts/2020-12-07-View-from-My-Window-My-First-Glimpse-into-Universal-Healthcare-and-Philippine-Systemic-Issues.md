@@ -5,11 +5,11 @@ title: "View from My Window: My First Glimpse into Universal Healthcare and Phil
 featured_image: /assets/posts/2020-12-07-View-from-My-Window-My-First-Glimpse-into-Universal-Healthcare-and-Philippine-Systemic-Issues/Q2Featured.jpg
 date: 2020-12-07
 # to get the name of the author, you need to refer to _data/team.yml
-author_name: Abigail Napeñas
-author_roles: Contributor
-author_photo_url: /img/authors/ABN.png
-author_quote: "\"\" <br> "
-author_description: "Abigail Napenas is a graduate of Ateneo de Manila University with a degree in Biology. She joined the Epimetrics, Inc, team as a research assistant and has worked on multiple proposals focusing on environmental health and neglected tropical diseases and has also done evidence summaries on WASH. Apart from her research job in Epimetrics, Aby also works full-time as a science communicator for a science museum."
+authors:
+- name: Abigail Napeñas
+  roles: Contributor
+  photo_url: /img/authors/ABN.png
+  description: "Abigail Napenas is a graduate of Ateneo de Manila University with a degree in Biology. She joined the Epimetrics, Inc, team as a research assistant and has worked on multiple proposals focusing on environmental health and neglected tropical diseases and has also done evidence summaries on WASH. Apart from her research job in Epimetrics, Aby also works full-time as a science communicator for a science museum."
 featured: false
 internal_url: 2020/12/07/View-from-My-Window-My-First-Glimpse-into-Universal-Healthcare-and-Philippine-Systemic-Issues.html
 

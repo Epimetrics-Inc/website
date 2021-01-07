@@ -3,7 +3,7 @@ title: Performance Assessment of DOH Licensed Hospitals in terms of Access and Q
 featured: false
 clients:
 - PhilHealth
-image: ../assets/projects/bb8/OHSR_infographic.jpg
+featured_image: ../assets/projects/bb8/OHSR_infographic.jpg
 description: |
   To ensure good quality care and improved service delivery in the country, health facilities are monitored by the Department of Health (DOH). In compliance with these health facilities’ annual licensing, DOH requires submission of Hospital Statistical Reports (HSRs), which are reports on quality management, hospital operations, staffing patterns, and finances. This study assessed the online Hospital Statistical Reports (OHSR) in terms of health information resources, indicators, data management, and information products. 
 

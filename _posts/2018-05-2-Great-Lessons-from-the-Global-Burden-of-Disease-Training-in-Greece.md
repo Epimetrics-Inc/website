@@ -4,12 +4,11 @@ title: Great Lessons from the Global Burden of Disease Training in Greece
 # Article Details
 featured_image: /assets/posts/2018-05-02-Great/banner.png
 date: 2018-05-2
-# to get the name of the author, you need to refer to team.yml
-author_name: Nel Jason L. Haw, MSc
-author_roles: Executive Director, Founder
-author_photo_url: /img/staff/NJH.png
-author_quote: "\"It is our light, not our darkness, that most frightens us.\" <br> Marianne Williamson"
-author_description: "Jason Haw, MSc. is the Executive Director of EpiMetrics, Inc. He is one of the co-founders and has a Master of Science in Global Health from Georgetown University. He has been working with Dr. Wong for more than four years on various research projects, mostly focused on epidemiology, community health, and health financing." 
+authors:
+- name: Nel Jason L. Haw, MSc
+  roles: Executive Director, Founder
+  photo_url: /img/staff/NJH.png
+  description: "Jason Haw, MSc. is the Executive Director of EpiMetrics, Inc. He is one of the co-founders and has a Master of Science in Global Health from Georgetown University. He has been working with Dr. Wong for more than four years on various research projects, mostly focused on epidemiology, community health, and health financing." 
 featured: false
 internal_url: 2018/05/02/Great-Lessons-from-the-Global-Burden-of-Disease-Training-in-Greece.html
 ---

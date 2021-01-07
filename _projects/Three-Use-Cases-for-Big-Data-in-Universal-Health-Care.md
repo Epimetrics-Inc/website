@@ -5,7 +5,7 @@ clients:
  - DOH
  - PhilHealth
 featured: false
-image: ../assets/projects/big-data/EpiMetrics_C3OutlierDetection_Infographic_022018.png
+featured_image: ../assets/projects/big-data/EpiMetrics_C3OutlierDetection_Infographic_022018.png
 description: |
   Government agencies, specifically, the Department of Health (DOH) and the Philippine Health Insurance Corporation (PhilHealth) have been amassing data about the nation’s health, universal health  care, and on the social determinants of health (SDH). To assist the Department of Health (DOH) and the Philippine Health Insurance Corporation (PhilHealth) in the achievement of national and global health goals for sustainable development, this project used big data tools to maximize the generation of actionable information from the amassed data.
   

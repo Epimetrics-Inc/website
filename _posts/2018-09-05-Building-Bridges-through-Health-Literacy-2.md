@@ -5,11 +5,10 @@ title: "Building Bridges Using Health Literacy Initiatives - Part 2"
 featured_image_alt: /assets/posts/2018-09-05-WPRO-Health-Literacy-Training/1.png
 date: 2018-09-05
 # to get the name of the author, you need to refer to team.yml
-author_name: Stephanie Anne L. Co, MD-MBA
-author_roles: Public Health Division Head
-author_photo_url: /img/staff/SAC.png
-author_quote: "\"\" <br> "
-author_description: "" 
+authors:
+- name: Stephanie Anne L. Co, MD-MBA
+  roles: Public Health Division Head
+  photo_url: /img/staff/SAC.png
 featured: false
 internal_url: /2018-09-05-Building-Bridges-through-Health-Literacy-2.md
 ---

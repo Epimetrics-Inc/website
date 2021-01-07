@@ -5,12 +5,17 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Jekyll-specific -->
-	<title>
-		{% if page.title %} {{ page.title }} | {{ site.title }}
-		{% else %} {{ site.title }} | {{ site.tagline }}
-		{%endif %}
-	</title>
-
+	{% if page.title %}
+		<title>{{ page.title }} | {{ site.title }}</title> <!-- Add title of project / article first -->
+		<meta name="description" content="{%if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncatewords: 50 }}{% endif %}">
+	{% else %}
+		<title>{{ site.title }} | {{ site.tagline }}</title> <!-- Add name of company and tagline -->
+		<meta name="description" content="{{ site.description }}">
+	{%endif %}
+	
+	<!-- Control the behavior of search engine crawling and indexing -->
+	<meta name="robots" content="index,follow"><!-- All Search Engines -->
+	<meta name="googlebot" content="index,follow"><!-- Google Specific -->
 
 	<!-- Resources -->
 	<link rel="stylesheet" type="text/css" href="{% link css/normalize.css %}">
@@ -30,4 +35,6 @@
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="theme-color" content="#ffffff">
 	{% include analytics.html %}
+
+	{% include social.html %}
 </head>

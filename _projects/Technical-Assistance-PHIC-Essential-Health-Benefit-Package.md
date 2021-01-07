@@ -4,7 +4,7 @@ date: 2018-03-01
 featured: false
 clients:
 - PhilHealth
-image: ../assets/projects/a-series/top-48-CEA.jpg
+featured_image: ../assets/projects/a-series/top-48-CEA.jpg
 description: |
 
 authors:

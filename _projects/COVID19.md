@@ -117,7 +117,7 @@ Click on the titles to download the files.
 
     [Technical Brief Vol 1, Issue 4. Casting a wider net: A Rapid Review of Surveillance Strategies Against COVID 19. 23 March 2020](../assets/projects/c19/4.pdf){:target="_blank":rel="nofollow"}
 
-    [Technical Brief Vol 2, Issue 1. Reducing COVID-19 Deaths Vaccination of Persons with Comorbidities. 7 January 2021](..assets/projects/c19/2-01.ReducingCOVID-19DeathsVaccinationofPersonswithComorbidities.pdf){:target="_blank":rel="nofollow"}
+    [Technical Brief Vol 2, Issue 1. Reducing COVID-19 Deaths Vaccination of Persons with Comorbidities. 7 January 2021](../assets/projects/c19/2-01.ReducingCOVID-19DeathsVaccinationofPersonswithComorbidities.pdf){:target="_blank":rel="nofollow"}
 
 
 

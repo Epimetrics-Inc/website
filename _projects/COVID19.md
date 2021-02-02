@@ -119,7 +119,7 @@ Click on the titles to download the files.
 
     [Technical Brief Vol 2, Issue 1. Reducing COVID-19 Deaths Vaccination of Persons with Comorbidities. 7 January 2021](../assets/projects/c19/2-01.ReducingCOVID-19DeathsVaccinationofPersonswithComorbidities.pdf){:target="_blank":rel="nofollow"}
 
-     [Technical Brief Vol 2, Issue 2. Understanding COVID-19 vaccines and adverse events. 25 January 2021 **NEW**](..assets/projects/c19/2-02.Understanding-COVID-19-vaccines-and-adverse-events.pdf){:target="_blank":rel="nofollow"}
+     [Technical Brief Vol 2, Issue 2. Understanding COVID-19 vaccines and adverse events. 25 January 2021 **NEW**](../assets/projects/c19/2-02.Understanding-COVID-19-vaccines-and-adverse-events.pdf){:target="_blank":rel="nofollow"}
 
 
 

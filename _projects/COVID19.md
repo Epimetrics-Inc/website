@@ -105,55 +105,61 @@ Click on the titles to download the files.
 
 1. **Surveillance, Epidemiology, and Laboratory Activities**
 
-    [Technical Brief Issue 2. Is ECQ Working? A COVID-19 Monitoring and Evaluation Guide for Government Response. 23 March 2020](../assets/projects/c19/2.pdf){:target="_blank":rel="nofollow"}
+    [Technical Brief Vol 1, Issue 2. Is ECQ Working? A COVID-19 Monitoring and Evaluation Guide for Government Response. 23 March 2020](../assets/projects/c19/2.pdf){:target="_blank":rel="nofollow"}
 
-    [Technical Brief Issue 7. How will we know if the Enhanced Community Quarantine (ECQ) has been effective? A technical guide. 30 March 2020](../assets/projects/c19/7.pdf){:target="_blank":rel="nofollow"}
+    [Technical Brief Vol 1, Issue 7. How will we know if the Enhanced Community Quarantine (ECQ) has been effective? A technical guide. 30 March 2020](../assets/projects/c19/7.pdf){:target="_blank":rel="nofollow"}
 
 2. **Community Mitigation Measures**
 
-    [Technical Brief Issue 3. Social vaccine: A Review of Community Mitigation Interventions for Social Immunity. 23 March 2020](../assets/projects/c19/3.pdf){:target="_blank":rel="nofollow"}
+    [Technical Brief Vol 1, Issue 3. Social vaccine: A Review of Community Mitigation Interventions for Social Immunity. 23 March 2020](../assets/projects/c19/3.pdf){:target="_blank":rel="nofollow"}
 
 3. **Medical Countermeasures: Diagnostic Devices, Vaccines, Therapeutics, and Respiratory Devices**
 
-    [Technical Brief Issue 4. Casting a wider net: A Rapid Review of Surveillance Strategies Against COVID 19. 23 March 2020](../assets/projects/c19/4.pdf){:target="_blank":rel="nofollow"}
+    [Technical Brief Vol 1, Issue 4. Casting a wider net: A Rapid Review of Surveillance Strategies Against COVID 19. 23 March 2020](../assets/projects/c19/4.pdf){:target="_blank":rel="nofollow"}
+
+    [Technical Brief Vol 2, Issue 1. Reducing COVID-19 Deaths Vaccination of Persons with Comorbidities. 7 January 2021](../assets/projects/c19/2-01.ReducingCOVID-19DeathsVaccinationofPersonswithComorbidities.pdf){:target="_blank":rel="nofollow"}
+
+     [Technical Brief Vol 2, Issue 2. Understanding COVID-19 vaccines and adverse events. 25 January 2021 **NEW**](../assets/projects/c19/2-02.Understanding-COVID-19-vaccines-and-adverse-events.pdf){:target="_blank":rel="nofollow"}
+
+
 
 4. **Health Care System Preparedness and Response Activities**
 
-    [Technical Brief Issue 5. Empowered Devolution: The COVID-19 Preparedness and Response System](../assets/projects/c19/5.pdf){:target="_blank":rel="nofollow"}
+    [Technical Brief Vol 1, Issue 5. Empowered Devolution: The COVID-19 Preparedness and Response System](../assets/projects/c19/5.pdf){:target="_blank":rel="nofollow"}
 
-    [Technical Brief Issue 5H. Empowered Devolution: The COVID-19 Preparedness and Response System (Handout).](../assets/projects/c19/5h.pdf){:target="_blank"}
+    [Technical Brief Vol 1, Issue 5H. Empowered Devolution: The COVID-19 Preparedness and Response System (Handout).](../assets/projects/c19/5h.pdf){:target="_blank"}
 
-    [Technical Brief Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios. 30 May 2020](../assets/projects/c19/5m.pdf){:target="_blank":rel="nofollow"}
+    [Technical Brief Vol 1, Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios. 30 May 2020](../assets/projects/c19/5m.pdf){:target="_blank":rel="nofollow"}
 
-    [Technical Brief Issue 9: COVID-19 Response Checklist for LGUs. 30 June 2020](../assets/projects/c19/9.pdf){:target="_blank":rel="nofollow"}
+    [Technical Brief Vol 1, Issue 9: COVID-19 Response Checklist for LGUs. 30 June 2020](../assets/projects/c19/9.pdf){:target="_blank":rel="nofollow"}
 
     <!-- 5. Communications and Public Outreach -->
     <!-- 6. Scientific Infrastructure and Preparedness -->
 
 5. **Domestic and International Response Policy, Incident Management, Partnerships and Capacity Building**
 
-    [Technical Brief Issue 6. Contain, not detain: Best practices in Country Solutions Against COVID-19. 23 March 2020](../assets/projects/c19/6.pdf){:target="_blank":rel="nofollow"}
+    [Technical Brief Vol 1, Issue 6. Contain, not detain: Best practices in Country Solutions Against COVID-19. 23 March 2020](../assets/projects/c19/6.pdf){:target="_blank":rel="nofollow"}
 
-    [Technical Brief Issue 8. A Nudge in the Right Direction: How to Encourage Protective Behavior Against COVID-19. 30 May 2020](../assets/projects/c19/8.pdf){:target="_blank":rel="nofollow"}
+    [Technical Brief Vol 1, Issue 8. A Nudge in the Right Direction: How to Encourage Protective Behavior Against COVID-19. 30 May 2020](../assets/projects/c19/8.pdf){:target="_blank":rel="nofollow"}
 
 ## Summaries/Cross-domain
-[Technical Brief Issue 1. Summary of Recommendations. 24 March 2020](../assets/projects/c19/1.pdf){:target="_blank"}
+[Technical Brief Vol 1, Issue 1. Summary of Recommendations. 24 March 2020](../assets/projects/c19/1.pdf){:target="_blank"}
  
 [Policy Brief Issue 1. Rapid Policy Recommendation to the Philippine COVID19 Response Attaining Coherence in a  Decentralized Low-Middle Income Country Healthcare Setting. 24 March 2020](../assets/projects/c19/pb1.pdf){:target="_blank"}
 
 ## Manuals:
-[Technical Brief Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios. 30 May 2020](../assets/projects/c19/5m.pdf){:target="_blank":rel="nofollow"}
+[Technical Brief Vol 1, Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios. 30 May 2020](../assets/projects/c19/5m.pdf){:target="_blank":rel="nofollow"}
 
 ## Appendixes:
 
-[Technical Brief Issue 3A. A Monitoring and Evaluation Guide for Government Response to COVID-19. Appendix. Summary of Case Studies](../assets/projects/c19/3a.pdf){:target="_blank"}
+[Technical Brief Vol 1, Issue 3A. A Monitoring and Evaluation Guide for Government Response to COVID-19. Appendix. Summary of Case Studies](../assets/projects/c19/3a.pdf){:target="_blank"}
 
 <!-- <a href="https://github.com/Epimetrics-Inc/website/raw/master/assets/projects/c19/3.pdf" target="_blank">Health Care System Preparedness and Response Activities for LGUs (Handout). Appendices only.</a> -->
 
-[Technical Brief Issue 5A. Empowered Devolution: The COVID-19 Preparedness and Response System. Appendices only.](../assets/projects/c19/5a.pdf){:target="_blank"}
+[Technical Brief Vol 1, Issue 5A. Empowered Devolution: The COVID-19 Preparedness and Response System. Appendices only.](../assets/projects/c19/5a.pdf){:target="_blank"}
 
-[Technical Brief Issue 5H. Empowered Devolution: The COVID-19 Preparedness and Response System (Handout).](../assets/projects/c19/5h.pdf){:target="_blank"}
+[Technical Brief Vol 1, Issue 5H. Empowered Devolution: The COVID-19 Preparedness and Response System (Handout).](../assets/projects/c19/5h.pdf){:target="_blank"}
 
-[Technical Brief Issue 9A: COVID-19 Response Checklist for LGUs. 30 June 2020. Appendices only.](../assets/projects/c19/9a.pdf){:target="_blank":rel="nofollow"}
+[Technical Brief Vol 1, Issue 9A: COVID-19 Response Checklist for LGUs. 30 June 2020. Appendices only.](../assets/projects/c19/9a.pdf){:target="_blank":rel="nofollow"}
 
-Design and layout by Ingrid Espinosa and Krisia Misa. Copyreading by Celine Villanueva for issues 8 onward.
+Design and layout by Ingrid Espinosa and Krisia Misa. Copyreading by Celine Villanueva for issues 8 and 9.

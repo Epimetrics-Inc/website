@@ -112,10 +112,11 @@ layout: default
 						<div class="article-excerpt">{{ post.content | strip_html | strip_newlines | truncate: 500 }} <a href="{{ post.internal_url }}">Continue Reading</a> </div>
 					</div>
 					<div class="featured-staff">
-						<img src="{{ post.author_photo_url }}" alt="">
+					{{ post.author }}
+						<img src="{{ post.authors[0].photo_url }}" alt="">
 						<div class="staff-info">
-							<h3 class="staff-name">{{ post.author_name }}</h3>
-							<h5 class="staff-position">{{ post.author_roles }}</h5>
+							<h3 class="staff-name">{{ post.authors[0].name }}</h3>
+							<h5 class="staff-position">{{ post.authors[0].roles }}</h5>
 						</div>
 					</div>
 				</section>

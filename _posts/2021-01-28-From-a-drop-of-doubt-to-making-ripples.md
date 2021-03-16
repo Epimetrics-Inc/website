@@ -2,8 +2,8 @@
 title: "From a drop of doubt to making ripples"
 
 # Article Details
-featured_image: /assets/posts/2020-12-07-View-from-My-Window-My-First-Glimpse-into-Universal-Healthcare-and-Philippine-Systemic-Issues/Q2Featured.jpg
-date: 20210-01-28
+featured_image: /assets/posts/assets/posts/2021-01-28-From-a-drop-of-doubt-to-making-ripples/Fromadrop1.jpg
+date: 2021-01-28
 # to get the name of the author, you need to refer to _data/team.yml
 authors:
 - name: Joanne Abigail R. Pamin, MD MBA
@@ -30,11 +30,15 @@ I was nervous because I realized I was pioneering. It was my first time getting 
 
 With our partners, we designed the project for 38 participants, with 18 regions represented, meeting in 5 cities with 5 modules running 3-5 days each within the span of 5 months. The project’s aim was to train researchers who would then use the data to implement better policy. PhilHealth wanted to be in line with transitioning to universal health care (UHC) through being grounded in data. The project culminated in an implementation research training manual, 38 proficient implementation researchers and 5 fully executed, defended and actionable theses that became bases for policy reform. 
 
+![](/assets/posts/2021-01-28-From-a-drop-of-doubt-to-making-ripples/Fromadrop2.jpg){: .size-medium .align-right}
+
 _“By Failing to prepare, you are preparing to fail.” – Benjamin Franklin_
 
 We spent the first month carefully ironing out the details of how to best serve our clients. We built the program through a client-centered approach, starting with a needs assessment. Our preliminary plan was simplified already but considering the responses, we had to rethink and redesign. We really only knew we were successful after the first few modules. Participant engagement and output quality kept getting better and better than we expected. Can you guess what we did right?
 
 Part of training seasoned professionals is allowing each experience to enrich what is being taught. It was vital to get everyone comfortable enough to share with the group. Though it was an unusual exercise with colleagues, we asked group members to give forced rankings, and comment on each other’s good and bad traits. Afterward, we summarized the comments to the person, in front of everyone. With delicate matters like this, it is important to highlight the strengths without discounting the weaknesses. We outdid ourselves by drawing connections between how one person’s weakness can complement another’s strength, or even make another’s weakness look strong. For example, a strong leadership initiative could easily unite and steer, but it could also be overpowering. So then a less serious joker is now vital to gently nudge the overpowering leader down. After this exercise, we were able to thoroughly break the ice and easily commit to roles. Confident personalities, daring leadership and the serious commitment to the improvement of public health became apparent, and was recognized and shared.
+
+![](/assets/posts/2021-01-28-From-a-drop-of-doubt-to-making-ripples/Fromadrop3.jpg){: .size-medium .align-left}
 
 As the modules ran, the planning team was adamant to cultivate constant improvement. Feedback was collected for each session, lecturer, day, module, and travel experience. Responses were important to gauge how well operations were planned and executed. Learning experiences were journalled after each day. This gave the participants time to consolidate what was taught and told the team how effective they were, while identifying what needed remedial. The planning team themselves set aside time at the end of each day to ask what went well, what didn’t and how we could improve. All the information was used to rework succeeding sessions and kept the program dynamic. Letting the participants know that we listened improved our relationship with them. 
 
@@ -51,6 +55,7 @@ This project was envisioned to be recurring within PhilHealth. Our participants 
 
 In macro, it was a tall order to help the country transition to universal health care, as well as to make implementation researchers out of managers. But as they say, “every journey starts with a single step”. Change takes time, and we don’t expect to fix everything overnight. We must only persist.
 
+![](/assets/posts/2021-01-28-From-a-drop-of-doubt-to-making-ripples/Fromadrop4.jpg){: .size-medium .align-center}
 
 _“Persistence and resilience only come from having been given the chance to work through difficult problems.”― Gever Tulley_
 

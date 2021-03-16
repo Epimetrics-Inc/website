@@ -2,7 +2,7 @@
 title: "17th National Medical Writers Workshop: Support for the Marathon of Journal Publication"
 
 # Article Details
-featured_image: /assets/posts/2020-12-07-17th-National-Medical-Writers-Workshop-Support-for-the-Marathon-of-Journal-Publication/ia3.jpg
+featured_image: /assets/posts/2020-12-07-17th-National-Medical-Writers-Workshop-Support-for-the-Marathon-of-Journal-Publication/ia3.jpg>
 date: 2020-12-07
 # to get the name of the author, you need to refer to _data/team.yml
 authors:
@@ -25,7 +25,7 @@ The annual workshop is an initiative to promote the culture of research publicat
 
 The EpiMetrics participants share their insights on the workshop below:
 
-## Dr Steph Co
+_Dr Steph Co_
 
 > <p> “The workshop was very informative and helpful in teaching us important lessons and tips on how to publish our journal manuscripts. We felt very lucky to have had the opportunity to learn from such experienced lecturers in journal writing. 
 >
@@ -33,15 +33,15 @@ The EpiMetrics participants share their insights on the workshop below:
 >
 > The SGD’s were very helpful sessions for in-depth discussions of how to put the lectures into practical use into our individual manuscripts; it was also very helpful to have fresh eyes give thoughtful insight on what were the points of improvement of each of our manuscripts." </p>
 
-## Erika Modina
+_Erika Modina_
 
-“Attending the training provided a good avenue for us to meet other young researchers in public health, medicine, and the sciences that we would not always have the opportunity to network with on a day-to-day basis. We also got to share our studies with different mentors who motivated us to publish. 
+>“Attending the training provided a good avenue for us to meet other young researchers in public health, medicine, and the sciences that we would not always have the opportunity to network with on a day-to-day basis. We also got to share our studies with different mentors who motivated us to publish. 
+>
+>At first, I was nervous about presenting my paper in front of my colleagues and mentors, but it gave me the push to finally finish my manuscript because everyone was so supportive. No one was shy sharing their apprehensions in publishing and hindrances while writing. They reiterated that publishing our journal [article]s is also an emotional journey; I felt that they supported us from the beginning to continue through this marathon. The collaborative environment was a breath of fresh air. 
+>
+>This experience made me feel grateful that there are people empowering the youth to publish. They are continuously paving the way for us to learn and take this on, and it is inspiring us to do the same with our fellow researchers. “
 
-At first, I was nervous about presenting my paper in front of my colleagues and mentors, but it gave me the push to finally finish my manuscript because everyone was so supportive. No one was shy sharing their apprehensions in publishing and hindrances while writing. They reiterated that publishing our journal [article]s is also an emotional journey; I felt that they supported us from the beginning to continue through this marathon. The collaborative environment was a breath of fresh air. 
-
-This experience made me feel grateful that there are people empowering the youth to publish. They are continuously paving the way for us to learn and take this on, and it is inspiring us to do the same with our fellow researchers. “
-
-## Krizelle Fowler
+_Krizelle Fowler_
 
 > “It’s nice that the content was very well-prepared. There was no dead air during the training. 
 > 
@@ -51,7 +51,7 @@ This experience made me feel grateful that there are people empowering the youth
 >
 > It’s good that rejection was also not treated as taboo during the lecture, but as a learning experience for everyone.
 
-## Ingrid Espinosa
+_Ingrid Espinosa_
 
 > <p>“Having worked with colleagues with some publishing experience, I wasn’t sure what to expect or what else there was to learn about writing for publication. I especially wasn’t excited about the week-long nightly schedule of the workshop. I was pleasantly surprised then to hear all the advice the PAMJE speakers had for every step of the publication process. They clearly have a wealth of experience, and I appreciate that they choose to proactively share it with the medical research community in the Philippines. I see this as testament to the small but strong research field in the country and I appreciate that spirit of support and growth.
 >

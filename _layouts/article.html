@@ -29,8 +29,8 @@ layout: page
 		{% if page.authors %}<!-- if page has authors -->
 			{% for author in page.authors %}
 			<div class="featured-staff">
-				{{ author }}
-				{{ author.staff }}
+				<p>{{ author }}</p>
+				<p>{{ author.staff }}</p>
 				{% if author.staff %}
 					{% assign author = site.data.team[author.staff] %}
 					<div class="staff-info">

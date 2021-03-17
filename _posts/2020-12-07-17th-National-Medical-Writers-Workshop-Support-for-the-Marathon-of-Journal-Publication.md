@@ -7,9 +7,10 @@ date: 2020-12-07
 # to get the name of the author, you need to refer to _data/team.yml
 authors:
 - ingrid_espinosa
-- stephanie_anne_co
-- cheyenne_modina
-- cleo_fowler
+
+# - stephanie_anne_co
+# - cheyenne_modina
+# - cleo_fowler
 featured: false
 internal_url: _posts/2020-12-07-17th-National-Medical-Writers-Workshop-Support-for-the-Marathon-of-Journal-Publication.html
 
@@ -60,3 +61,9 @@ _Ingrid Espinosa_
 > Finally, one of my biggest insights are that mentors are valuable, as are opportunities to meet them. I think the sharing of both technical advice and emotional support are valuable for the growth of research and encouragement of researchers. Fortunately, the Philippines has that pool of passionate people; I am grateful for the chance to have learned from them, along with my cohort of co-participants.” </p>
 
 <!-- ![](/assets/posts/2020-12-07-17th-National-Medical-Writers-Workshop-Support-for-the-Marathon-of-Journal-Publication/ia3.jpg){: .size-large .align-center} -->
+
+{% assign author = site.data.team[page.authors] %}
+<a rel="author"
+  title="{{ author.name }}">
+    {{ author.name }}
+</a>

@@ -29,6 +29,7 @@ layout: page
 		{% if page.authors %}<!-- if page has authors -->
 			{% for author in page.authors %}
 			<div class="featured-staff">
+				<p>{{ author.staff }}</p>
 				{% if author.staff %}
 					<p>{{ author }}</p>
 					{% assign author_data = site.data.team[author.staff] %}

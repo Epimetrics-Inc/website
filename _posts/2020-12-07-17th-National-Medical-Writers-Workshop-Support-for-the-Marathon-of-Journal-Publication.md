@@ -6,7 +6,6 @@ featured_image: /assets/posts/2020-12-07-17th-National-Medical-Writers-Workshop-
 date: 2020-12-07
 # to get the name of the author, you need to refer to _data/team.yml
 authors:
-# - name: Christine Ingrid M. Espinosa, Krizelle Cleo Fowler, Stephanie Anne L. Co, MD-MBA, Cheyenne Ariana Erika M. Modina
 - ingrid_espinosa
 - stephanie_anne_co
 - cheyenne_modina

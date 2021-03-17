@@ -30,8 +30,10 @@ layout: page
 			{% for author in page.authors %}
 			<div class="featured-staff">
 				{% if author.staff %}
-					{% assign author = site.data.team[author.staff] %}
-					<p>{{ author.name }}</p>
+					<p>{{ author }}</p>
+					{% assign author_data = site.data.team[author.staff] %}
+					<p>{{ author_data }}</p>
+					<p>{{ author_data.name }}</p>
 					<div class="staff-info">
 						<h3 class="staff-name">{{ author.name }}</h3>
 						<h5 class="staff-position">{{ author.roles }}</h5>

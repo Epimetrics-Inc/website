@@ -29,6 +29,14 @@ layout: page
 		{% if page.authors %}<!-- if page has authors -->
 			{% for author in page.authors %}
 			<div class="featured-staff">
+				{% if author.staff %}
+					{% assign author = site.data.team[page.staff] %}
+					<div class="staff-info">
+						<h3 class="staff-name">{{ author.name }}</h3>
+						<h5 class="staff-position">{{author.roles}}</h5>
+					</div>
+					{% if author.description %}<div class="staff-description">{{ author.description }}</div>{% endif %}
+				{% endif %}
 				{% if author.photo_url %}<img src="{{ author.photo_url }}" alt="">{% endif %}
 				<div class="staff-info">
 					<h3 class="staff-name">{{ author.name }}</h3>

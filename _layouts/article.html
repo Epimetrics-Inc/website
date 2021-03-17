@@ -37,13 +37,14 @@ layout: page
 						<h5 class="staff-position">{{ author_data.roles }}</h5>
 					</div>
 					{% if author_data.description %}<div class="staff-description">{{ author_data.description }}</div>{% endif %}
+				{% else %}
+					{% if author.photo_url %}<img src="{{ author.photo_url }}" alt="">{% endif %}
+					<div class="staff-info">
+						<h3 class="staff-name">{{ author.name }}</h3>
+						<h5 class="staff-position">{{author.roles}}</h5>
+					</div>
+					{% if author.description %}<div class="staff-description">{{ author.description }}</div>{% endif %}
 				{% endif %}
-				{% if author.photo_url %}<img src="{{ author.photo_url }}" alt="">{% endif %}
-				<div class="staff-info">
-					<h3 class="staff-name">{{ author.name }}</h3>
-					<h5 class="staff-position">{{author.roles}}</h5>
-				</div>
-				{% if author.description %}<div class="staff-description">{{ author.description }}</div>{% endif %}
 			</div>
 			{% if forloop.last != true %}{% endif %}
 			{% endfor %}

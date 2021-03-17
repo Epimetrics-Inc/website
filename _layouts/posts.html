@@ -24,6 +24,10 @@ layout: page
         <h3 class="article-title">{{ post.title }}</h3>
         {% if post.authors.size > 0 %}<div class="article-author">By
         {% for author in post.authors %}
+          {% if author.staff %}
+            {% assign author_data = site.data.team[author.staff] %}
+            {{ author_data.name }}{% if forloop.last != true %}, {% endif %}
+          {% endif %}
           {{ author.name }}{% if forloop.last != true %}, {% endif %}
         {% endfor %}</div>{% endif %}
         <div class="article-month-year">{{ post.date | date: '%B %Y' }}</div>

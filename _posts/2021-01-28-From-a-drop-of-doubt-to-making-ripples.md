@@ -2,7 +2,7 @@
 title: "From a drop of doubt to making ripples"
 
 # Article Details
-featured_image: /assets/posts/assets/posts/2021-01-28-From-a-drop-of-doubt-to-making-ripples/Fromadrop1.jpg
+featured_image: /assets/posts/2021-01-28-From-a-drop-of-doubt-to-making-ripples/Fromadrop1.jpg
 date: 2021-01-28
 # to get the name of the author, you need to refer to _data/team.yml
 authors:

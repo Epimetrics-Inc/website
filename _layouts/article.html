@@ -29,12 +29,22 @@ layout: page
 		{% if page.authors %}<!-- if page has authors -->
 			{% for author in page.authors %}
 			<div class="featured-staff">
-				{% if author.photo_url %}<img src="{{ author.photo_url }}" alt="">{% endif %}
-				<div class="staff-info">
-					<h3 class="staff-name">{{ author.name }}</h3>
-					<h5 class="staff-position">{{author.roles}}</h5>
-				</div>
-				{% if author.description %}<div class="staff-description">{{ author.description }}</div>{% endif %}
+				{% if author.staff %}
+					{% assign author_data = site.data.team[author.staff] %}
+					{% if author_data.photo_url %}<img src="{{ author_data.photo_url }}" alt="">{% endif %}
+					<div class="staff-info">
+						<h3 class="staff-name">{{ author_data.name }}</h3>
+						<h5 class="staff-position">{{ author_data.roles }}</h5>
+					</div>
+					{% if author_data.description %}<div class="staff-description">{{ author_data.description }}</div>{% endif %}
+				{% else %}
+					{% if author.photo_url %}<img src="{{ author.photo_url }}" alt="">{% endif %}
+					<div class="staff-info">
+						<h3 class="staff-name">{{ author.name }}</h3>
+						<h5 class="staff-position">{{author.roles}}</h5>
+					</div>
+					{% if author.description %}<div class="staff-description">{{ author.description }}</div>{% endif %}
+				{% endif %}
 			</div>
 			{% if forloop.last != true %}{% endif %}
 			{% endfor %}

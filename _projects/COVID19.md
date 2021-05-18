@@ -119,7 +119,7 @@ Click on the titles to download the files.
 
     [Technical Brief Vol 2, Issue 1. Reducing COVID-19 Deaths Vaccination of Persons with Comorbidities. 7 January 2021](../assets/projects/c19/2-01.ReducingCOVID-19DeathsVaccinationofPersonswithComorbidities.pdf){:target="_blank":rel="nofollow"}
 
-     [Technical Brief Vol 2, Issue 2. Understanding COVID-19 vaccines and adverse events. 25 January 2021 **NEW**](../assets/projects/c19/2-02.Understanding-COVID-19-vaccines-and-adverse-events.pdf){:target="_blank":rel="nofollow"}
+     [Technical Brief Vol 2, Issue 2. Understanding COVID-19 vaccines and adverse events. 25 January 2021](../assets/projects/c19/2-02.Understanding-COVID-19-vaccines-and-adverse-events.pdf){:target="_blank":rel="nofollow"}
 
 
 
@@ -132,6 +132,8 @@ Click on the titles to download the files.
     [Technical Brief Vol 1, Issue 5M: Empowered Devolution: Scenario Materials Guide for Doctors to the Barrios. 30 May 2020](../assets/projects/c19/5m.pdf){:target="_blank":rel="nofollow"}
 
     [Technical Brief Vol 1, Issue 9: COVID-19 Response Checklist for LGUs. 30 June 2020](../assets/projects/c19/9.pdf){:target="_blank":rel="nofollow"}
+
+     [Technical Brief Vol 2, Issue 3: Increasing the Sensitivity of the COVID19 Hospital Surge Capacity Indicators. 11 May 2021 **NEW**](../assets/projects/c19/2-3.HCURindicators11May2021.pdf){:target="_blank":rel="nofollow"}
 
     <!-- 5. Communications and Public Outreach -->
     <!-- 6. Scientific Infrastructure and Preparedness -->
